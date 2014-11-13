@@ -1,0 +1,9914 @@
+
+
+
+2006 Census of Canada: Topic-based tabulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/wet-boew/build/theme-clf2-nsi2/css/theme-ns-min.css" />
+
+
+
+
+body {background-color: #CCC;}
+h1 {font-size:140%}
+h2 {font-size:120%}
+h3,h4,h5,h6 {font-size:100%}
+h3 {color: #222;}
+.span-4 {width:100% !important; margin-left:0px; margin-right:0px; margin-bottom:10px;}
+#tabulation-title {line-height: 125% !important;}
+
+
+
+
+
+
+
+
+	
+		
+		Skip to main content
+		Skip to footer
+		
+	
+	
+		
+		 
+			
+			Government of Canada – Statistics Canada
+			
+			
+			
+			
+				Statistics Canada
+				www.statcan.gc.ca
+			
+			
+				
+					Common menu bar
+					
+					
+
+Français
+
+
+					Home
+					Contact Us
+					Help
+					Search
+					canada.gc.ca
+					
+				
+				
+					Breadcrumb trail
+					
+					Home >
+
+Census >
+2006 Census >
+Topic-based tabulations >
+
+					
+				
+			
+			 
+		
+		 
+	  
+	
+		
+			
+				 
+
+
+2006 Census Topic-based tabulations
+	
+	Archived Content
+	Information identified as archived is provided for reference, research or recordkeeping purposes. It is not subject to the Government of Canada Web Standards and has not been altered or updated since it was archived. Please contact us to request a format other than those available.
+	
+
+			 Selected Demographic, Cultural, Educational, Labour Force and Income Characteristics (830), Mother Tongue (4), Age Groups (8A) and Sex (3) for the Population of Canada, Provinces, Territories, Census Divisions and Census Subdivisions, 2006 Census - 20% Sample Data 
+			Geographic Index
+			
+
+Table of contents
+
+
+Canada
+
+Newfoundland and Labrador / Terre-Neuve-et-Labrador
+
+Prince Edward Island / Île-du-Prince-Édouard
+
+Nova Scotia / Nouvelle-Écosse
+
+New Brunswick / Nouveau-Brunswick
+
+Quebec / Québec
+
+Ontario
+
+Manitoba
+
+Saskatchewan
+
+Alberta
+
+British Columbia / Colombie-Britannique
+
+Yukon Territory / Territoire du Yukon
+
+Northwest Territories / Territoires du Nord-Ouest
+
+Nunavut
+
+
+
+
+
+
+Can/Prov/CD/CSD (4,837)
+
+
+
+Canada
+
+Newfoundland and Labrador / Terre-Neuve-et-Labrador
+
+Division No. 1
+
+Portugal Cove South, T
+
+Trepassey, T
+
+St. Shott's, T
+
+Division No. 1, Subd. U, SNO
+
+Cape Broyle, T
+
+Renews-Cappahayden, T
+
+Fermeuse, T
+
+Port Kirwan, T
+
+Aquaforte, T
+
+Ferryland, T
+
+Division No. 1, Subd. W, SNO
+
+St. Vincent's-St. Stephen's-Peter's River, T
+
+Gaskiers-Point La Haye, T
+
+St. Mary's, T
+
+Riverhead, T
+
+Admirals Beach, T
+
+St. Joseph's, T
+
+Mount Carmel-Mitchells Brook-St. Catherines, T
+
+Division No. 1, Subd. X, SNO
+
+Colinet, T
+
+Division No. 1, Subd. C, SNO
+
+Branch, T
+
+Point Lance, T
+
+St. Bride's, T
+
+Division No. 1, Subd. B, SNO
+
+Placentia, T
+
+Fox Harbour, T
+
+Division No. 1, Subd. A, SNO
+
+Long Harbour-Mount Arlington Heights, T
+
+Southern Harbour, T
+
+Arnold's Cove, T
+
+Come By Chance, T
+
+Sunnyside, T
+
+Chance Cove, T
+
+Norman's Cove-Long Cove, T
+
+Chapel Arm, T
+
+Division No. 1, Subd. Y, SNO
+
+Whitbourne, T
+
+Division No. 1, Subd. E, SNO
+
+Whiteway, T
+
+Heart's Delight-Islington, T
+
+Heart's Desire, T
+
+Division No. 1, Subd. F, SNO
+
+Heart's Content, T
+
+New Perlican, T
+
+Winterton, T
+
+Hant's Harbour, T
+
+Division No. 1, Subd. G, SNO
+
+Old Perlican, T
+
+Bay de Verde, T
+
+Small Point-Adam's Cove-Blackhead-Broad Cove, T
+
+Division No. 1, Subd. H, SNO
+
+Salmon Cove, T
+
+Victoria, T
+
+Carbonear, T
+
+Division No. 1, Subd. I, SNO
+
+Bryant's Cove, T
+
+Harbour Grace, T
+
+Upper Island Cove, T
+
+Bishop's Cove, T
+
+Spaniard's Bay, T
+
+Bay Roberts, T
+
+Division No. 1, Subd. L, SNO
+
+Division No. 1, Subd. M, SNO
+
+North River, T
+
+Clarke's Beach, T
+
+South River, T
+
+Cupids, T
+
+Division No. 1, Subd. N, SNO
+
+Brigus, T
+
+Division No. 1, Subd. O, SNO
+
+Colliers, T
+
+Conception Harbour, T
+
+Avondale, T
+
+Harbour Main-Chapel's Cove-Lakeview, T
+
+Holyrood, T
+
+Conception Bay South, T
+
+Division No. 1, Subd. R, SNO
+
+Wabana, T
+
+Portugal Cove-St. Philip's, T
+
+Pouch Cove, T
+
+Flatrock, T
+
+Torbay, T
+
+Logy Bay-Middle Cove-Outer Cove, T
+
+Bauline, T
+
+Paradise, T
+
+St. John's, CY
+
+Mount Pearl, CY
+
+Petty Harbour-Maddox Cove, T
+
+Bay Bulls, T
+
+Witless Bay, T
+
+Division No. 2
+
+Division No. 2, Subd. E, SNO
+
+Lewin's Cove, T
+
+Burin, T
+
+Division No. 2, Subd. F, SNO
+
+St. Lawrence, T
+
+Lawn, T
+
+Lamaline, T
+
+Lord's Cove, T
+
+Point May, T
+
+Point au Gaul, T
+
+Division No. 2, Subd. H, SNO
+
+Frenchman's Cove, T
+
+Fortune, T
+
+Grand Bank, T
+
+Garnish, T
+
+Division No. 2, Subd. D, SNO
+
+Winterland, T
+
+Marystown, T
+
+Fox Cove-Mortier, T
+
+Division No. 2, Subd. I, SNO
+
+Bay L'Argent, T
+
+Grand le Pierre, T
+
+Division No. 2, Subd. C, SNO
+
+Rushoon, T
+
+Parkers Cove, T
+
+Terrenceville, T
+
+Red Harbour, T
+
+English Harbour East, T
+
+Baine Harbour, T
+
+St. Bernard's-Jacques Fontaine, T
+
+Division No. 2, Subd. K, SNO
+
+Little Bay East, T
+
+Division No. 3
+
+Rencontre East, T
+
+St. Jacques-Coomb's Cove, T
+
+Belleoram, T
+
+Pool's Cove, T
+
+Harbour Breton, T
+
+Seal Cove (Fortune Bay), T
+
+Hermitage-Sandyville, T
+
+Gaultois, T
+
+Division No. 3, Subd. D, SNO
+
+Milltown-Head of Bay d'Espoir, T
+
+St. Alban's, T
+
+Morrisville, T
+
+Division No. 3, Subd. E, SNO
+
+Division No. 3, Subd. F, SNO
+
+Ramea, T
+
+Burgeo, T
+
+Division No. 3, Subd. H, SNO
+
+Isle aux Morts, T
+
+Burnt Islands, T
+
+Channel-Port aux Basques, T
+
+Division No. 3, Subd. I, SNO
+
+Division No. 3, Subd. J, SNO
+
+Rose Blanche-Harbour le Cou, T
+
+Samiajij Miawpukek, IRI
+
+Division No. 4
+
+Division No. 4, Subd. A, SNO
+
+Division No. 4, Subd. B, SNO
+
+Division No. 4, Subd. C, SNO
+
+St. George's, T
+
+Division No. 4, Subd. D, SNO
+
+Gallants, T
+
+Stephenville Crossing, T
+
+Stephenville, T
+
+Kippens, T
+
+Port au Port East, T
+
+Division No. 4, Subd. E, SNO
+
+Cape St. George, T
+
+Lourdes, T
+
+Port au Port West-Aguathuna-Felix Cove, T
+
+Division No. 5
+
+Division No. 5, Subd. A, SNO
+
+Division No. 5, Subd. G, SNO
+
+Deer Lake, T
+
+Jackson's Arm, T
+
+Howley, T
+
+Hampden, T
+
+Reidville, T
+
+Division No. 5, Subd. F, SNO
+
+Steady Brook, T
+
+Pasadena, T
+
+Cormack, T
+
+Gillams, T
+
+Division No. 5, Subd. C, SNO
+
+Massey Drive, T
+
+Corner Brook, CY
+
+Humber Arm South, T
+
+McIvers, T
+
+Cox's Cove, T
+
+Lark Harbour, T
+
+Meadows, T
+
+Hughes Brook, T
+
+Irishtown-Summerside, T
+
+Mount Moriah, T
+
+York Harbour, T
+
+Division No. 6
+
+Division No. 6, Subd. D, SNO
+
+Norris Arm, T
+
+Gander, T
+
+Appleton, T
+
+Glenwood, T
+
+Division No. 6, Subd. C, SNO
+
+Northern Arm, T
+
+Grand Falls-Windsor, T
+
+Bishop's Falls, T
+
+Peterview, T
+
+Botwood, T
+
+Badger, T
+
+Millertown, T
+
+Division No. 6, Subd. A, SNO
+
+Buchans, T
+
+Division No. 7
+
+Division No. 7, Subd. M, SNO
+
+Division No. 7, Subd. L, SNO
+
+Division No. 7, Subd. K, SNO
+
+Clarenville, T
+
+Division No. 7, Subd. J, SNO
+
+Trinity (Trinity Bay), T
+
+Port Rexton, T
+
+Little Catalina, T
+
+Division No. 7, Subd. I, SNO
+
+Elliston, T
+
+Trinity Bay North, T
+
+Bonavista, T
+
+Division No. 7, Subd. G, SNO
+
+Keels, T
+
+Duntara, T
+
+King's Cove, T
+
+Division No. 7, Subd. F, SNO
+
+Division No. 7, Subd. E, SNO
+
+Musgravetown, T
+
+Port Blandford, T
+
+Traytown, T
+
+Savage Cove-Sandy Cove, T
+
+Terra Nova, T
+
+Happy Adventure, T
+
+Eastport, T
+
+Sandringham, T
+
+Glovertown, T
+
+Salvage, T
+
+Gambo, T
+
+St. Brendan's, T
+
+Hare Bay, T
+
+Centreville-Wareham-Trinity, T
+
+Greenspond, T
+
+Division No. 7, Subd. A, SNO
+
+Dover, T
+
+New-Wes-Valley, T
+
+Indian Bay, T
+
+Division No. 8
+
+Division No. 8, Subd. M, SNO
+
+Lumsden, T
+
+Musgrave Harbour, T
+
+Division No. 8, Subd. L, SNO
+
+Carmanville, T
+
+Fogo Island Region (Part), RG
+
+Fogo, T
+
+Joe Batt's Arm-Barr'd Islands-Shoal Bay, T
+
+Tilting, T
+
+Change Islands, T
+
+Seldom-Little Seldom, T
+
+Division No. 8, Subd. I, SNO
+
+Crow Head, T
+
+Division No. 8, Subd. H, SNO
+
+Cottlesville, T
+
+Summerford, T
+
+Twillingate, T
+
+Division No. 8, Subd. G, SNO
+
+Campbellton, T
+
+Birchy Bay, T
+
+Comfort Cove-Newstead, T
+
+Baytona, T
+
+Division No. 8, Subd. F, SNO
+
+Embree, T
+
+Lewisporte, T
+
+Little Burnt Bay, T
+
+Division No. 8, Subd. E, SNO
+
+Point of Bay, T
+
+Leading Tickles, T
+
+Point Leamington, T
+
+Pilley's Island, T
+
+Triton, T
+
+Brighton, T
+
+Lushes Bight-Beaumont-Beaumont North, T
+
+Division No. 8, Subd. C, SNO
+
+South Brook, T
+
+Robert's Arm, T
+
+Springdale, T
+
+Port Anson, T
+
+Little Bay, T
+
+Little Bay Islands, T
+
+Division No. 8, Subd. P, SNO
+
+Beachside, T
+
+Division No. 8, Subd. O, SNO
+
+King's Point, T
+
+Nippers Harbour, T
+
+Burlington, T
+
+Middle Arm, T
+
+Division No. 8, Subd. A, SNO
+
+Fleur de Lys, T
+
+LaScie, T
+
+Brent's Cove, T
+
+Pacquet, T
+
+Baie Verte, T
+
+Seal Cove (White Bay), T
+
+Coachman's Cove, T
+
+Westport, T
+
+Ming's Bight, T
+
+Woodstock, T
+
+Miles Cove, T
+
+Division No. 9
+
+Division No. 9, Subd. F, SNO
+
+Englee, T
+
+Roddickton, T
+
+Conche, T
+
+Division No. 9, Subd. A, SNO
+
+Trout River, T
+
+Woody Point, Bonne Bay, T
+
+Norris Point, T
+
+Rocky Harbour, T
+
+Daniel's Harbour, T
+
+Cow Head, T
+
+Parson's Pond, T
+
+Hawke's Bay, T
+
+Port Saunders, T
+
+St. Pauls, T
+
+Division No. 9, Subd. C, SNO
+
+Port au Choix, T
+
+Anchor Point, T
+
+Flower's Cove, T
+
+Bird Cove, T
+
+Bide Arm, T
+
+Main Brook, T
+
+St. Anthony, T
+
+Glenburnie-Birchy Head-Shoal Brook, T
+
+Division No. 9, Subd. D, SNO
+
+St. Lunaire-Griquet, T
+
+Cook's Harbour, T
+
+Raleigh, T
+
+Goose Cove East, T
+
+Division No. 9, Subd. H, SNO
+
+Bellburns, T
+
+Division No. 9, Subd. G, SNO
+
+River of Ponds, T
+
+Division No. 10
+
+Division No. 10, Subd. A, SNO
+
+L'Anse-au-Loup, T
+
+Red Bay, T
+
+L'Anse-au-Clair, T
+
+Forteau, T
+
+West St. Modeste, T
+
+Pinware, T
+
+Division No. 10, Subd. B, SNO
+
+Port Hope Simpson, T
+
+St. Lewis, T
+
+Mary's Harbour, T
+
+Cartwright, Labrador, T
+
+Charlottetown (Labrador), T
+
+Division No. 10, Subd. C, SNO
+
+North West River, T
+
+Happy Valley-Goose Bay, T
+
+Division No. 10, Subd. D, SNO
+
+Labrador City, T
+
+Wabush, T
+
+Natuashish 2, IRI
+
+Division No. 11
+
+Rigolet, T
+
+Postville, T
+
+Makkovik, T
+
+Hopedale, T
+
+Nain, T
+
+Prince Edward Island / Île-du-Prince-Édouard
+
+Kings
+
+Lot 64, LOT
+
+Murray Harbour, COM
+
+Murray River, COM
+
+Lot 63, LOT
+
+Lot 61, LOT
+
+Lot 59, LOT
+
+Lot 66, LOT
+
+Lot 51, LOT
+
+Lot 52, LOT
+
+Montague, T
+
+Lot 53, LOT
+
+Cardigan, COM
+
+Kings, Royalty, LOT
+
+Georgetown, T
+
+Lot 54, LOT
+
+Lot 55, LOT
+
+Lot 56, LOT
+
+Lot 43, LOT
+
+Lot 44, LOT
+
+Lot 45, LOT
+
+Souris, T
+
+Lot 46, LOT
+
+Lot 47, LOT
+
+Lot 42, LOT
+
+Lot 41, LOT
+
+St. Peters Bay, COM
+
+Lot 40, LOT
+
+Morell, COM
+
+Lot 39, LOT
+
+Lot 38, LOT
+
+Queens
+
+Lot 62, LOT
+
+Lot 60, LOT
+
+Lot 58, LOT
+
+Lot 57, LOT
+
+Lot 50, LOT
+
+Lot 49, LOT
+
+Lot 48, LOT
+
+Lot 31, LOT
+
+Lot 65, LOT
+
+Lot 30, LOT
+
+Rocky Point 3, IRI
+
+Lot 29, LOT
+
+Victoria, COM
+
+Meadowbank, COM
+
+Crapaud, COM
+
+Lot 67, LOT
+
+Clyde River, COM
+
+Lot 20, LOT
+
+Lot 21, LOT
+
+Miltonvale Park, COM
+
+Lot 22, LOT
+
+Lot 23, LOT
+
+Hunter River, COM
+
+Lot 24, LOT
+
+Resort Mun. Stan.B.-Hope R.-Bayv.-Cavend.-N.Rust., COM
+
+North Rustico, COM
+
+Union Road, COM
+
+Lot 33, LOT
+
+Breadalbane, COM
+
+Brackley, COM
+
+Lot 34, LOT
+
+Lot 35, LOT
+
+Lot 36, LOT
+
+Scotchfort 4, IRI
+
+Lot 37, LOT
+
+Mount Stewart, COM
+
+Winsloe South, COM
+
+Warren Grove, COM
+
+Charlottetown, CY
+
+Stratford, T
+
+Cornwall, T
+
+Prince
+
+Lot 28, LOT
+
+Borden-Carleton, COM
+
+Lot 27, LOT
+
+Kinkora, COM
+
+Lot 26, LOT
+
+Central Bedeque, COM
+
+Lot 25, LOT
+
+Lot 19, LOT
+
+Bedeque, COM
+
+Kensington, T
+
+Lot 18, LOT
+
+Sherbrooke, COM
+
+Lot 17, LOT
+
+Linkletter, COM
+
+Miscouche, COM
+
+Summerside, CY
+
+Lot 15, LOT
+
+Abrams Village, COM
+
+Lot 16, LOT
+
+Wellington, COM
+
+Lot 14, LOT
+
+Lot 13, LOT
+
+Tyne Valley, COM
+
+Lot 12, LOT
+
+Lennox Island 1, IRI
+
+Lot 11, LOT
+
+Lot 10, LOT
+
+Lot 6, LOT
+
+O'Leary, COM
+
+Lot 9, LOT
+
+Lot 8, LOT
+
+Lot 7, LOT
+
+Lot 5, LOT
+
+Lot 4, LOT
+
+Alberton, T
+
+Lot 3, LOT
+
+Lot 2, LOT
+
+St. Louis, COM
+
+Lot 1, LOT
+
+Tignish, COM
+
+Miminegash, COM
+
+Nova Scotia / Nouvelle-Écosse
+
+Shelburne
+
+Barrington, MD
+
+Clark's Harbour, T
+
+Shelburne, MD
+
+Shelburne, T
+
+Lockeport, T
+
+Yarmouth
+
+Argyle, MD
+
+Yarmouth, MD
+
+Yarmouth, T
+
+Yarmouth 33, IRI
+
+Digby
+
+Clare, MD
+
+Digby, MD
+
+Digby, T
+
+Bear River (Part) 6, IRI
+
+Queens
+
+Queens, RGM
+
+Annapolis
+
+Annapolis, Subd. D, SC
+
+Annapolis, Subd. A, SC
+
+Annapolis Royal, T
+
+Annapolis, Subd. B, SC
+
+Bridgetown, T
+
+Annapolis, Subd. C, SC
+
+Middleton, T
+
+Lunenburg
+
+Lunenburg, MD
+
+Bridgewater, T
+
+Lunenburg, T
+
+Mahone Bay, T
+
+Chester, MD
+
+Gold River 21, IRI
+
+Kings
+
+Kings, Subd. A, SC
+
+Cambridge 32, IRI
+
+Berwick, T
+
+Kings, Subd. C, SC
+
+Kentville, T
+
+Kings, Subd. B, SC
+
+Kings, Subd. D, SC
+
+Wolfville, T
+
+Glooscap 35, IRI
+
+Hants
+
+West Hants, MD
+
+Windsor, T
+
+Hantsport, T
+
+East Hants, MD
+
+Indian Brook 14, IRI
+
+Halifax
+
+Cole Harbour 30, IRI
+
+Halifax, RGM
+
+Colchester
+
+Colchester, Subd. C, SC
+
+Stewiacke, T
+
+Millbrook 27, IRI
+
+Truro, T
+
+Colchester, Subd. B, SC
+
+Colchester, Subd. A, SC
+
+Cumberland
+
+Cumberland, Subd. A, SC
+
+Parrsboro, T
+
+Cumberland, Subd. B, SC
+
+Springhill, T
+
+Cumberland, Subd. C, SC
+
+Amherst, T
+
+Oxford, T
+
+Cumberland, Subd. D, SC
+
+Pictou
+
+Pictou, Subd. A, SC
+
+Pictou, T
+
+Pictou, Subd. B, SC
+
+Westville, T
+
+Stellarton, T
+
+Pictou, Subd. C, SC
+
+New Glasgow, T
+
+Trenton, T
+
+Fisher's Grant 24, IRI
+
+Guysborough
+
+St. Mary's, MD
+
+Guysborough, MD
+
+Canso, T
+
+Mulgrave, T
+
+Antigonish
+
+Antigonish, Subd. A, SC
+
+Antigonish, T
+
+Antigonish, Subd. B, SC
+
+Pomquet And Afton 23, IRI
+
+Inverness
+
+Inverness, Subd. C, SC
+
+Port Hawkesbury, T
+
+Inverness, Subd. B, SC
+
+Whycocomagh 2, IRI
+
+Inverness, Subd. A, SC
+
+Richmond
+
+Richmond, Subd. C, SC
+
+Richmond, Subd. A, SC
+
+Richmond, Subd. B, SC
+
+Chapel Island 5, IRI
+
+Cape Breton
+
+Membertou 28B, IRI
+
+Eskasoni 3, IRI
+
+Cape Breton, RGM
+
+Victoria
+
+Victoria, Subd. B, SC
+
+Wagmatcook 1, IRI
+
+Victoria, Subd. A, SC
+
+New Brunswick / Nouveau-Brunswick
+
+Saint John
+
+Saint Martins, P
+
+St. Martins, VL
+
+Simonds, P
+
+Saint John, CY
+
+Musquash, P
+
+Charlotte
+
+Grand Manan, P
+
+Campobello, P
+
+West Isles, P
+
+Lepreau, P
+
+Pennfield, P
+
+Blacks Harbour, VL
+
+Saint George, P
+
+St. George, T
+
+Saint Patrick, P
+
+Saint Andrews, P
+
+Saint Andrews, T
+
+Saint Croix, P
+
+Dufferin, P
+
+Saint Stephen, P
+
+St. Stephen, T
+
+Saint James, P
+
+Saint David, P
+
+Dumbarton, P
+
+Grand Manan, VL
+
+Sunbury
+
+Blissville, P
+
+Gladstone, P
+
+Tracy, VL
+
+Fredericton Junction, VL
+
+Lincoln, P
+
+Burton, P
+
+Oromocto, T
+
+Oromocto 26, IRI
+
+Sheffield, P
+
+Maugerville, P
+
+Northfield, P
+
+Queens
+
+Petersville, P
+
+Gagetown, P
+
+Gagetown, VL
+
+Hampstead, P
+
+Wickham, P
+
+Cambridge, P
+
+Cambridge-Narrows, VL
+
+Johnston, P
+
+Brunswick, P
+
+Waterborough, P
+
+Canning, P
+
+Minto, VL
+
+Chipman, P
+
+Chipman, VL
+
+Kings
+
+Hammond, P
+
+Upham, P
+
+Hampton, P
+
+Hampton, T
+
+Rothesay, P
+
+Westfield, P
+
+Kingston, P
+
+Grand Bay-Westfield, TV
+
+Norton, P
+
+Norton, VL
+
+Sussex, P
+
+Sussex, T
+
+Sussex Corner, VL
+
+Waterford, P
+
+Cardwell, P
+
+Havelock, P
+
+Studholm, P
+
+Springfield, P
+
+Kars, P
+
+Greenwich, P
+
+Rothesay, TV
+
+Quispamsis, TV
+
+Albert
+
+Hopewell, P
+
+Riverside-Albert, VL
+
+Harvey, P
+
+Alma, VL
+
+Elgin, P
+
+Hillsborough, P
+
+Coverdale, P
+
+Riverview, T
+
+Hillsborough, VL
+
+Westmorland
+
+Westmorland, P
+
+Port Elgin, VL
+
+Botsford, P
+
+Beaubassin East / Beaubassin-est, RCR
+
+Cap-Pele, VL
+
+Sackville, P
+
+Sackville, T
+
+Dorchester, P
+
+Dorchester, VL
+
+Memramcook, VL
+
+Fort Folly 1, IRI
+
+Shediac, P
+
+Moncton, P
+
+Moncton, C
+
+Salisbury, P
+
+Salisbury, VL
+
+Petitcodiac, VL
+
+Dieppe, C
+
+Shediac, T
+
+Kent
+
+Dundas, P
+
+Buctouche 16, IRI
+
+Wellington, P
+
+Bouctouche, TV
+
+Saint Mary, P
+
+Saint-Antoine, VL
+
+Saint-Paul, P
+
+Harcourt, P
+
+Huskisson, P
+
+Weldford, P
+
+Richibucto 15, IRI
+
+Richibucto, P
+
+Rexton, VL
+
+Richibucto, TV
+
+Saint-Charles, P
+
+Indian Island 28, IRI
+
+Saint-Louis, P
+
+Saint-Louis de Kent, VL
+
+Acadieville, P
+
+Carleton, P
+
+Northumberland
+
+Hardwicke, P
+
+Glenelg, P
+
+Chatham, P
+
+Derby, P
+
+Nelson, P
+
+Rogersville, P
+
+Rogersville, VL
+
+Blackville, P
+
+Blackville, VL
+
+Blissfield, P
+
+Doaktown, VL
+
+Red Bank 4, IRI
+
+Ludlow, P
+
+Southesk, P
+
+Northesk, P
+
+Newcastle, P
+
+Big Hole Tract 8 (South Half), IRI
+
+Eel Ground 2, IRI
+
+Alnwick, P
+
+Neguac, VL
+
+Burnt Church 14, IRI
+
+Miramichi, C
+
+York
+
+New Maryland, P
+
+New Maryland, VL
+
+Manners Sutton, P
+
+Harvey, VL
+
+McAdam, VL
+
+McAdam, P
+
+North Lake, P
+
+Canterbury, P
+
+Canterbury, VL
+
+Meductic, VL
+
+Dumfries, P
+
+Prince William, P
+
+Kingsclear, P
+
+Kingsclear 6, IRI
+
+Queensbury, P
+
+Southampton, P
+
+Millville, VL
+
+Bright, P
+
+Douglas, P
+
+Saint Marys, P
+
+Fredericton, CY
+
+Devon 30, IRI
+
+Stanley, P
+
+Stanley, VL
+
+Nackawic, T
+
+Carleton
+
+Richmond, P
+
+Woodstock, P
+
+Woodstock, TV
+
+Northampton, P
+
+Brighton, P
+
+Hartland, T
+
+Wakefield, P
+
+Wilmot, P
+
+Centreville, VL
+
+Simonds, P
+
+Florenceville, VL
+
+Peel, P
+
+Aberdeen, P
+
+Kent, P
+
+Bristol, VL
+
+Bath, VL
+
+Wicklow, P
+
+Victoria
+
+Andover, P
+
+Aroostook, VL
+
+Perth, P
+
+Perth-Andover, VL
+
+Tobique 20, IRI
+
+Gordon, P
+
+Plaster Rock, VL
+
+Lorne, P
+
+Denmark, P
+
+Grand Falls, P
+
+Grand Falls / Grand-Sault, TV
+
+Drummond, P
+
+Drummond, VL
+
+Madawaska
+
+Saint-André, P
+
+St. André, VL
+
+Saint-Léonard, P
+
+St. Leonard, T
+
+Notre-Dame-de-Lourdes, P
+
+Sainte-Anne, P
+
+Sainte-Anne-de-Madawaska, VL
+
+Rivière-Verte, VL
+
+Rivière-Verte, P
+
+Saint-Basile, P
+
+St. Basile 10, IRI
+
+Saint-Joseph, P
+
+Saint-Jacques, P
+
+Edmundston, CY
+
+Saint-Hilaire, P
+
+St. Hilaire, VL
+
+Baker Brook, P
+
+Baker Brook, VL
+
+Lac-Baker, P
+
+Lac Baker, VL
+
+Clair, P
+
+Clair, VL
+
+Saint-François, P
+
+Saint-François de Madawaska, VL
+
+Restigouche
+
+Durham, P
+
+Colborne, P
+
+Charlo, VL
+
+Balmoral, P
+
+Balmoral, VL
+
+Dalhousie, P
+
+Eel River 3, IRI
+
+Eel River Crossing, VL
+
+Addington, P
+
+Atholville, VL
+
+Campbellton, CY
+
+Tide Head, VL
+
+Eldon, P
+
+Dalhousie, T
+
+Grimmer, P
+
+Kedgwick, VL
+
+Saint-Quentin, P
+
+Saint-Quentin, TV
+
+Belledune, VL
+
+Indian Ranch, IRI
+
+Gloucester
+
+Saumarez, P
+
+Tracadie-Sheila, TV
+
+Allardville, P
+
+Bathurst, P
+
+Pabineau 11, IRI
+
+Bathurst, CY
+
+Beresford, P
+
+Pointe-Verte, VL
+
+Petit Rocher, VL
+
+Beresford, TV
+
+New Bandon, P
+
+Saint-Léolin, VL
+
+Paquetville, P
+
+Paquetville, VL
+
+Saint-Isidore, P
+
+Saint-Isidore, VL
+
+Inkerman, P
+
+Caraquet, P
+
+Bas-Caraquet, VL
+
+Caraquet, T
+
+Shippagan, P
+
+Le Goulet, VL
+
+Shippagan, T
+
+Lamèque, TV
+
+Sainte-Marie - Saint-Raphaël, VL
+
+Bertrand, VL
+
+Nigadoo, VL
+
+Grande-Anse, VL
+
+Maisonnette, VL
+
+Quebec / Québec
+
+Les Îles-de-la-Madeleine
+
+Les Îles-de-la-Madeleine, MÉ
+
+Grosse-Île, MÉ
+
+Le Rocher-Percé
+
+Percé, V
+
+Sainte-Thérèse-de-Gaspé, MÉ
+
+Grande-Rivière, V
+
+Chandler, V
+
+Port-Daniel--Gascons, MÉ
+
+La Côte-de-Gaspé
+
+Gaspé, V
+
+Cloridorme, CT
+
+Petite-Vallée, MÉ
+
+Grande-Vallée, MÉ
+
+Murdochville, V
+
+La Haute-Gaspésie
+
+Sainte-Madeleine-de-la-Rivière-Madeleine, MÉ
+
+Saint-Maxime-du-Mont-Louis, MÉ
+
+Mont-Saint-Pierre, VL
+
+Rivière-à-Claude, MÉ
+
+Marsoui, VL
+
+La Martre, MÉ
+
+Sainte-Anne-des-Monts, V
+
+Cap-Chat, V
+
+Mont-Albert, NO
+
+Bonaventure
+
+Shigawake, MÉ
+
+Saint-Godefroi, CT
+
+Hope Town, MÉ
+
+Hope, CT
+
+Paspébiac, V
+
+New Carlisle, MÉ
+
+Bonaventure, V
+
+Saint-Elzéar, MÉ
+
+Saint-Siméon, PE
+
+Caplan, MÉ
+
+Saint-Alphonse, MÉ
+
+New Richmond, V
+
+Cascapédia--Saint-Jules, MÉ
+
+Avignon
+
+Maria, MÉ
+
+Carleton-sur-Mer, V
+
+Nouvelle, MÉ
+
+Escuminac, MÉ
+
+Pointe-à-la-Croix, MÉ
+
+Ristigouche-Partie-Sud-Est, CT
+
+Saint-André-de-Restigouche, MÉ
+
+Matapédia, PE
+
+Saint-Alexis-de-Matapédia, MÉ
+
+Saint-François-d'Assise, MÉ
+
+L'Ascension-de-Patapédia, MÉ
+
+Listuguj, IRI
+
+La Matapédia
+
+Sainte-Marguerite, MÉ
+
+Sainte-Florence, MÉ
+
+Causapscal, V
+
+Albertville, MÉ
+
+Saint-Léon-le-Grand, PE
+
+Saint-Zénon-du-Lac-Humqui, PE
+
+Sainte-Irène, PE
+
+Amqui, V
+
+Lac-au-Saumon, MÉ
+
+Saint-Alexandre-des-Lacs, PE
+
+Saint-Tharcisius, PE
+
+Saint-Vianney, MÉ
+
+Val-Brillant, MÉ
+
+Sayabec, MÉ
+
+Saint-Cléophas, PE
+
+Saint-Moïse, PE
+
+Saint-Noël, VL
+
+Saint-Damase, PE
+
+Matane
+
+Les Méchins, MÉ
+
+Saint-Jean-de-Cherbourg, PE
+
+Grosses-Roches, MÉ
+
+Sainte-Félicité, MÉ
+
+Saint-Adelme, PE
+
+Saint-René-de-Matane, MÉ
+
+Sainte-Paule, MÉ
+
+Matane, V
+
+Saint-Léandre, PE
+
+Saint-Ulric, MÉ
+
+Baie-des-Sables, MÉ
+
+La Mitis
+
+La Rédemption, PE
+
+Saint-Charles-Garnier, PE
+
+Les Hauteurs, MÉ
+
+Sainte-Jeanne-d'Arc, PE
+
+Saint-Gabriel-de-Rimouski, MÉ
+
+Saint-Donat, PE
+
+Sainte-Angèle-de-Mérici, MÉ
+
+Padoue, MÉ
+
+Métis-sur-Mer, V
+
+Saint-Octave-de-Métis, PE
+
+Grand-Métis, MÉ
+
+Price, VL
+
+Saint-Joseph-de-Lepage, PE
+
+Mont-Joli, V
+
+Sainte-Flavie, PE
+
+Sainte-Luce, MÉ
+
+Rimouski-Neigette
+
+Esprit-Saint, MÉ
+
+La Trinité-des-Monts, PE
+
+Saint-Narcisse-de-Rimouski, PE
+
+Saint-Marcellin, PE
+
+Saint-Anaclet-de-Lessard, PE
+
+Rimouski, V
+
+Saint-Valérien, PE
+
+Le Bic, MÉ
+
+Saint-Fabien, PE
+
+Saint-Eugène-de-Ladrière, PE
+
+Les Basques
+
+Saint-Clément, PE
+
+Saint-Jean-de-Dieu, MÉ
+
+Sainte-Rita, MÉ
+
+Saint-Guy, MÉ
+
+Saint-Médard, MÉ
+
+Sainte-Françoise, PE
+
+Saint-Éloi, PE
+
+Trois-Pistoles, V
+
+Notre-Dame-des-Neiges, MÉ
+
+Saint-Mathieu-de-Rioux, PE
+
+Saint-Simon, PE
+
+Rivière-du-Loup
+
+Saint-Cyprien, MÉ
+
+Saint-Hubert-de-Rivière-du-Loup, MÉ
+
+Saint-Antonin, PE
+
+Saint-Modeste, PE
+
+Saint-François-Xavier-de-Viger, MÉ
+
+Saint-Épiphane, MÉ
+
+Saint-Paul-de-la-Croix, PE
+
+L'Isle-Verte, MÉ
+
+Notre-Dame-des-Sept-Douleurs, PE
+
+Saint-Georges-de-Cacouna, VL
+
+Saint-Georges-de-Cacouna, PE
+
+Saint-Arsène, PE
+
+Rivière-du-Loup, V
+
+Notre-Dame-du-Portage, MÉ
+
+Témiscouata
+
+Dégelis, V
+
+Saint-Jean-de-la-Lande, MÉ
+
+Packington, PE
+
+Saint-Marc-du-Lac-Long, PE
+
+Rivière-Bleue, MÉ
+
+Saint-Eusèbe, PE
+
+Notre-Dame-du-Lac, V
+
+Saint-Juste-du-Lac, MÉ
+
+Auclair, MÉ
+
+Lejeune, MÉ
+
+Biencourt, MÉ
+
+Lac-des-Aigles, MÉ
+
+Saint-Michel-du-Squatec, PE
+
+Cabano, V
+
+Saint-Pierre-de-Lamy, MÉ
+
+Saint-Louis-du-Ha! Ha!, PE
+
+Saint-Elzéar-de-Témiscouata, MÉ
+
+Saint-Honoré-de-Témiscouata, MÉ
+
+Pohénégamook, V
+
+Saint-Athanase, MÉ
+
+Kamouraska
+
+Mont-Carmel, MÉ
+
+Saint-Bruno-de-Kamouraska, MÉ
+
+Saint-Pascal, V
+
+Sainte-Hélène, PE
+
+Saint-Joseph-de-Kamouraska, PE
+
+Saint-Alexandre-de-Kamouraska, MÉ
+
+Saint-André, MÉ
+
+Saint-Germain, PE
+
+Kamouraska, MÉ
+
+Saint-Denis, PE
+
+Saint-Philippe-de-Néri, PE
+
+Rivière-Ouelle, MÉ
+
+Saint-Pacôme, MÉ
+
+Saint-Gabriel-Lalemant, MÉ
+
+Saint-Onésime-d'Ixworth, PE
+
+La Pocatière, V
+
+Sainte-Anne-de-la-Pocatière, PE
+
+Charlevoix-Est
+
+Saint-Irénée, PE
+
+La Malbaie, V
+
+Notre-Dame-des-Monts, MÉ
+
+Saint-Aimé-des-Lacs, MÉ
+
+Clermont, V
+
+Saint-Siméon, MÉ
+
+Baie-Sainte-Catherine, MÉ
+
+Sagard, NO
+
+Charlevoix
+
+Petite-Rivière-Saint-François, MÉ
+
+Baie-Saint-Paul, V
+
+L'Isle-aux-Coudres, MÉ
+
+Les Éboulements, MÉ
+
+Saint-Hilarion, PE
+
+Saint-Urbain, PE
+
+L'Islet
+
+Saint-Omer, MÉ
+
+Saint-Pamphile, V
+
+Saint-Adalbert, MÉ
+
+Saint-Marcel, MÉ
+
+Sainte-Félicité, MÉ
+
+Sainte-Perpétue, MÉ
+
+Tourville, MÉ
+
+Saint-Damase-de-l'Islet, MÉ
+
+Saint-Cyrille-de-Lessard, PE
+
+Saint-Aubert, MÉ
+
+Sainte-Louise, PE
+
+Saint-Roch-des-Aulnaies, PE
+
+Saint-Jean-Port-Joli, MÉ
+
+L'Islet, MÉ
+
+Montmagny
+
+Saint-Just-de-Bretenières, MÉ
+
+Lac-Frontière, MÉ
+
+Saint-Fabien-de-Panet, PE
+
+Sainte-Lucie-de-Beauregard, MÉ
+
+Sainte-Apolline-de-Patton, PE
+
+Saint-Paul-de-Montminy, MÉ
+
+Sainte-Euphémie-sur-Rivière-du-Sud, MÉ
+
+Notre-Dame-du-Rosaire, MÉ
+
+Cap-Saint-Ignace, MÉ
+
+Montmagny, V
+
+Saint-Pierre-de-la-Rivière-du-Sud, PE
+
+Saint-François-de-la-Rivière-du-Sud, MÉ
+
+Berthier-sur-Mer, MÉ
+
+Bellechasse
+
+Saint-Philémon, PE
+
+Notre-Dame-Auxiliatrice-de-Buckland, PE
+
+Saint-Nazaire-de-Dorchester, PE
+
+Saint-Léon-de-Standon, PE
+
+Saint-Malachie, PE
+
+Saint-Damien-de-Buckland, PE
+
+Armagh, MÉ
+
+Saint-Nérée, PE
+
+Saint-Lazare-de-Bellechasse, MÉ
+
+Sainte-Claire, MÉ
+
+Saint-Anselme, MÉ
+
+Saint-Henri, MÉ
+
+Honfleur, MÉ
+
+Saint-Gervais, MÉ
+
+Saint-Raphaël, MÉ
+
+La Durantaye, PE
+
+Saint-Charles-de-Bellechasse, MÉ
+
+Beaumont, MÉ
+
+Saint-Michel-de-Bellechasse, MÉ
+
+Saint-Vallier, MÉ
+
+L'Île-d'Orléans
+
+Saint-François-de-l'Île-d'Orléans, MÉ
+
+Sainte-Famille, PE
+
+Saint-Jean-de-l'Île-d'Orléans, MÉ
+
+Saint-Laurent-de-l'Île-d'Orléans, MÉ
+
+Saint-Pierre-de-l'Île-d'Orléans, MÉ
+
+Sainte-Pétronille, VL
+
+La Côte-de-Beaupré
+
+Saint-Tite-des-Caps, MÉ
+
+Saint-Ferréol-les-Neiges, MÉ
+
+Saint-Joachim, PE
+
+Beaupré, V
+
+Sainte-Anne-de-Beaupré, V
+
+Château-Richer, V
+
+L'Ange-Gardien, PE
+
+Boischatel, MÉ
+
+La Jacques-Cartier
+
+Sainte-Catherine-de-la-Jacques-Cartier, V
+
+Fossambault-sur-le-Lac, V
+
+Lac-Saint-Joseph, V
+
+Shannon, MÉ
+
+Lac-Delage, V
+
+Stoneham-et-Tewkesbury, CU
+
+Lac-Beauport, MÉ
+
+Sainte-Brigitte-de-Laval, MÉ
+
+Québec
+
+Québec, V
+
+L'Ancienne-Lorette, V
+
+Saint-Augustin-de-Desmaures, V
+
+Lévis
+
+Lévis, V
+
+La Nouvelle-Beauce
+
+Frampton, MÉ
+
+Saints-Anges, PE
+
+Vallée-Jonction, MÉ
+
+Saint-Elzéar, MÉ
+
+Sainte-Marie, V
+
+Sainte-Marguerite, PE
+
+Sainte-Hénédine, PE
+
+Scott, MÉ
+
+Saint-Bernard, MÉ
+
+Saint-Isidore, MÉ
+
+Saint-Lambert-de-Lauzon, PE
+
+Robert-Cliche
+
+Saint-Victor, MÉ
+
+Saint-Alfred, MÉ
+
+Beauceville, V
+
+Saint-Odilon-de-Cranbourne, PE
+
+Saint-Joseph-de-Beauce, V
+
+Saint-Joseph-des-Érables, MÉ
+
+Saint-Jules, PE
+
+Tring-Jonction, VL
+
+Saint-Frédéric, PE
+
+Saint-Séverin, PE
+
+Les Etchemins
+
+Saint-Zacharie, MÉ
+
+Sainte-Aurélie, MÉ
+
+Saint-Prosper, MÉ
+
+Saint-Benjamin, MÉ
+
+Sainte-Rose-de-Watford, MÉ
+
+Saint-Louis-de-Gonzague, MÉ
+
+Saint-Cyprien, PE
+
+Sainte-Justine, MÉ
+
+Lac-Etchemin, MÉ
+
+Saint-Luc-de-Bellechasse, MÉ
+
+Sainte-Sabine, PE
+
+Saint-Camille-de-Lellis, PE
+
+Saint-Magloire, MÉ
+
+Beauce-Sartigan
+
+Saint-Théophile, MÉ
+
+Saint-Gédéon-de-Beauce, MÉ
+
+Saint-Hilaire-de-Dorset, PE
+
+Saint-Évariste-de-Forsyth, MÉ
+
+La Guadeloupe, VL
+
+Saint-Honoré-de-Shenley, MÉ
+
+Saint-Martin, PE
+
+Saint-René, PE
+
+Saint-Côme--Linière, MÉ
+
+Saint-Philibert, MÉ
+
+Saint-Georges, V
+
+Lac-Poulin, VL
+
+Saint-Benoît-Labre, MÉ
+
+Saint-Éphrem-de-Beauce, MÉ
+
+Notre-Dame-des-Pins, PE
+
+Saint-Simon-les-Mines, MÉ
+
+Le Granit
+
+Saint-Augustin-de-Woburn, PE
+
+Notre-Dame-des-Bois, MÉ
+
+Val-Racine, PE
+
+Piopolis, MÉ
+
+Frontenac, MÉ
+
+Lac-Mégantic, V
+
+Marston, CT
+
+Milan, MÉ
+
+Nantes, MÉ
+
+Sainte-Cécile-de-Whitton, MÉ
+
+Audet, MÉ
+
+Saint-Robert-Bellarmin, MÉ
+
+Saint-Ludger, MÉ
+
+Lac-Drolet, MÉ
+
+Saint-Sébastien, MÉ
+
+Courcelles, PE
+
+Lambton, MÉ
+
+Saint-Romain, MÉ
+
+Stornoway, MÉ
+
+Stratford, CT
+
+L'Amiante
+
+Beaulac-Garthby, MÉ
+
+Disraeli, V
+
+Disraeli, PE
+
+Saint-Jacques-le-Majeur-de-Wolfestown, PE
+
+Saint-Fortunat, MÉ
+
+Saint-Julien, MÉ
+
+Irlande, MÉ
+
+Saint-Joseph-de-Coleraine, MÉ
+
+Sainte-Praxède, PE
+
+Adstock, MÉ
+
+Sainte-Clotilde-de-Beauce, MÉ
+
+Thetford Mines, V
+
+Saint-Adrien-d'Irlande, MÉ
+
+Saint-Jean-de-Brébeuf, MÉ
+
+Kinnear's Mills, MÉ
+
+East Broughton, MÉ
+
+Sacré-Coeur-de-Jésus, PE
+
+Saint-Pierre-de-Broughton, MÉ
+
+Saint-Jacques-de-Leeds, MÉ
+
+L'Érable
+
+Saint-Ferdinand, MÉ
+
+Sainte-Sophie-d'Halifax, MÉ
+
+Princeville, V
+
+Plessisville, V
+
+Plessisville, PE
+
+Saint-Pierre-Baptiste, PE
+
+Inverness, MÉ
+
+Lyster, MÉ
+
+Laurierville, MÉ
+
+Notre-Dame-de-Lourdes, PE
+
+Villeroy, MÉ
+
+Lotbinière
+
+Saint-Sylvestre, MÉ
+
+Sainte-Agathe-de-Lotbinière, MÉ
+
+Saint-Patrice-de-Beaurivage, MÉ
+
+Saint-Narcisse-de-Beaurivage, PE
+
+Saint-Gilles, PE
+
+Dosquet, MÉ
+
+Saint-Agapit, MÉ
+
+Saint-Flavien, MÉ
+
+Laurier-Station, VL
+
+Saint-Janvier-de-Joly, MÉ
+
+Val-Alain, MÉ
+
+Saint-Édouard-de-Lotbinière, PE
+
+Notre-Dame-du-Sacré-Coeur-d'Issoudun, PE
+
+Saint-Apollinaire, MÉ
+
+Saint-Antoine-de-Tilly, MÉ
+
+Sainte-Croix, MÉ
+
+Lotbinière, MÉ
+
+Leclercville, MÉ
+
+Portneuf
+
+Neuville, V
+
+Pont-Rouge, V
+
+Donnacona, V
+
+Cap-Santé, V
+
+Saint-Basile, V
+
+Portneuf, V
+
+Deschambault-Grondines, MÉ
+
+Saint-Gilbert, PE
+
+Saint-Marc-des-Carrières, V
+
+Saint-Casimir, MÉ
+
+Saint-Thuribe, PE
+
+Saint-Ubalde, MÉ
+
+Saint-Alban, MÉ
+
+Sainte-Christine-d'Auvergne, MÉ
+
+Saint-Léonard-de-Portneuf, MÉ
+
+Lac-Sergent, V
+
+Saint-Raymond, V
+
+Rivière-à-Pierre, MÉ
+
+Mékinac
+
+Notre-Dame-de-Montauban, MÉ
+
+Lac-aux-Sables, PE
+
+Saint-Adelphe, PE
+
+Saint-Séverin, PE
+
+Saint-Tite, V
+
+Hérouxville, PE
+
+Grandes-Piles, VL
+
+Saint-Roch-de-Mékinac, PE
+
+Sainte-Thècle, MÉ
+
+Trois-Rives, MÉ
+
+Shawinigan
+
+Shawinigan, V
+
+Francheville
+
+Trois-Rivières, V
+
+Sainte-Anne-de-la-Pérade, MÉ
+
+Batiscan, MÉ
+
+Sainte-Geneviève-de-Batiscan, PE
+
+Champlain, MÉ
+
+Saint-Luc-de-Vincennes, MÉ
+
+Saint-Maurice, PE
+
+Notre-Dame-du-Mont-Carmel, PE
+
+Saint-Narcisse, PE
+
+Saint-Stanislas, MÉ
+
+Saint-Prosper, PE
+
+Bécancour
+
+Saint-Sylvère, MÉ
+
+Bécancour, V
+
+Sainte-Marie-de-Blandford, MÉ
+
+Lemieux, MÉ
+
+Manseau, MÉ
+
+Sainte-Françoise, MÉ
+
+Sainte-Sophie-de-Lévrard, PE
+
+Fortierville, MÉ
+
+Parisville, PE
+
+Sainte-Cécile-de-Lévrard, PE
+
+Saint-Pierre-les-Becquets, MÉ
+
+Deschaillons-sur-Saint-Laurent, MÉ
+
+Wôlinak, IRI
+
+Arthabaska
+
+Saints-Martyrs-Canadiens, PE
+
+Ham-Nord, CT
+
+Notre-Dame-de-Ham, MÉ
+
+Saint-Rémi-de-Tingwick, PE
+
+Tingwick, MÉ
+
+Chesterville, MÉ
+
+Chester-Est, CT
+
+Saint-Norbert-d'Arthabaska, MÉ
+
+Norbertville, VL
+
+Saint-Christophe-d'Arthabaska, PE
+
+Victoriaville, V
+
+Warwick, V
+
+Saint-Albert, MÉ
+
+Sainte-Élisabeth-de-Warwick, PE
+
+Kingsey Falls, V
+
+Sainte-Séraphine, PE
+
+Sainte-Clotilde-de-Horton, MÉ
+
+Saint-Samuel, PE
+
+Saint-Valère, MÉ
+
+Saint-Rosaire, PE
+
+Sainte-Anne-du-Sault, MÉ
+
+Daveluyville, V
+
+Maddington, CT
+
+Saint-Louis-de-Blandford, PE
+
+Asbestos
+
+Saint-Joseph-de-Ham-Sud, PE
+
+Saint-Adrien, MÉ
+
+Wotton, MÉ
+
+Saint-Camille, CT
+
+Saint-Georges-de-Windsor, MÉ
+
+Asbestos, V
+
+Danville, V
+
+Le Haut-Saint-François
+
+Saint-Isidore-de-Clifton, MÉ
+
+Chartierville, MÉ
+
+La Patrie, MÉ
+
+Newport, MÉ
+
+Cookshire-Eaton, V
+
+Ascot Corner, MÉ
+
+East Angus, V
+
+Westbury, CT
+
+Bury, MÉ
+
+Hampden, CT
+
+Scotstown, V
+
+Weedon, MÉ
+
+Dudswell, MÉ
+
+Le Val-Saint-François
+
+Stoke, MÉ
+
+Saint-François-Xavier-de-Brompton, PE
+
+Saint-Denis-de-Brompton, PE
+
+Racine, MÉ
+
+Bonsecours, MÉ
+
+Lawrenceville, VL
+
+Sainte-Anne-de-la-Rochelle, MÉ
+
+Valcourt, V
+
+Valcourt, CT
+
+Maricourt, MÉ
+
+Kingsbury, VL
+
+Melbourne, CT
+
+Ulverton, MÉ
+
+Windsor, V
+
+Val-Joli, MÉ
+
+Richmond, V
+
+Saint-Claude, MÉ
+
+Cleveland, CT
+
+Sherbrooke
+
+Sherbrooke, V
+
+Coaticook
+
+Saint-Malo, MÉ
+
+Saint-Venant-de-Paquette, MÉ
+
+East Hereford, MÉ
+
+Saint-Herménégilde, MÉ
+
+Dixville, MÉ
+
+Coaticook, V
+
+Barnston-Ouest, MÉ
+
+Stanstead-Est, MÉ
+
+Sainte-Edwidge-de-Clifton, CT
+
+Martinville, MÉ
+
+Compton, MÉ
+
+Waterville, V
+
+Memphrémagog
+
+Stanstead, V
+
+Ogden, MÉ
+
+Stanstead, CT
+
+Potton, CT
+
+Ayer's Cliff, VL
+
+Hatley, MÉ
+
+North Hatley, VL
+
+Hatley, CT
+
+Sainte-Catherine-de-Hatley, MÉ
+
+Magog, V
+
+Saint-Benoît-du-Lac, MÉ
+
+Austin, MÉ
+
+Eastman, MÉ
+
+Bolton-Est, MÉ
+
+Saint-Étienne-de-Bolton, MÉ
+
+Stukely-Sud, VL
+
+Orford, CT
+
+Brome-Missisquoi
+
+Abercorn, VL
+
+Frelighsburg, MÉ
+
+Saint-Armand, MÉ
+
+Saint-Pierre-de-Véronne-à-Pike-River, MÉ
+
+Stanbridge Station, MÉ
+
+Bedford, V
+
+Bedford, CT
+
+Stanbridge East, MÉ
+
+Dunham, V
+
+Sutton, V
+
+Bolton-Ouest, MÉ
+
+Brome, VL
+
+Lac-Brome, V
+
+Cowansville, V
+
+East Farnham, VL
+
+Brigham, MÉ
+
+Saint-Ignace-de-Stanbridge, PE
+
+Notre-Dame-de-Stanbridge, PE
+
+Sainte-Sabine, PE
+
+Farnham, V
+
+La Haute-Yamaska
+
+Bromont, V
+
+Saint-Alphonse, PE
+
+Granby, V
+
+Granby, CT
+
+Waterloo, V
+
+Warden, VL
+
+Shefford, CT
+
+Saint-Joachim-de-Shefford, PE
+
+Roxton Pond, MÉ
+
+Sainte-Cécile-de-Milton, CT
+
+Acton
+
+Béthanie, MÉ
+
+Roxton Falls, VL
+
+Roxton, CT
+
+Sainte-Christine, PE
+
+Acton Vale, V
+
+Upton, MÉ
+
+Saint-Théodore-d'Acton, PE
+
+Saint-Nazaire-d'Acton, PE
+
+Drummond
+
+Saint-Félix-de-Kingsey, MÉ
+
+Durham-Sud, MÉ
+
+Lefebvre, MÉ
+
+L'Avenir, MÉ
+
+Saint-Lucien, PE
+
+Wickham, MÉ
+
+Saint-Germain-de-Grantham, MÉ
+
+Drummondville, V
+
+Saint-Cyrille-de-Wendover, MÉ
+
+Notre-Dame-du-Bon-Conseil, VL
+
+Notre-Dame-du-Bon-Conseil, PE
+
+Sainte-Brigitte-des-Saults, PE
+
+Saint-Majorique-de-Grantham, PE
+
+Saint-Edmond-de-Grantham, PE
+
+Saint-Eugène, MÉ
+
+Saint-Guillaume, MÉ
+
+Saint-Bonaventure, MÉ
+
+Saint-Pie-de-Guire, PE
+
+Nicolet-Yamaska
+
+Sainte-Eulalie, MÉ
+
+Aston-Jonction, MÉ
+
+Saint-Wenceslas, MÉ
+
+Saint-Célestin, VL
+
+Saint-Célestin, MÉ
+
+Saint-Léonard-d'Aston, MÉ
+
+Sainte-Perpétue, PE
+
+Sainte-Monique, MÉ
+
+Grand-Saint-Esprit, MÉ
+
+Nicolet, V
+
+La Visitation-de-Yamaska, MÉ
+
+Saint-Zéphirin-de-Courval, PE
+
+Saint-Elphège, PE
+
+Baie-du-Febvre, MÉ
+
+Pierreville, MÉ
+
+Saint-François-du-Lac, MÉ
+
+Odanak, IRI
+
+Maskinongé
+
+Maskinongé, MÉ
+
+Louiseville, V
+
+Yamachiche, MÉ
+
+Saint-Barnabé, PE
+
+Saint-Sévère, PE
+
+Saint-Léon-le-Grand, PE
+
+Sainte-Ursule, PE
+
+Saint-Justin, PE
+
+Saint-Édouard-de-Maskinongé, MÉ
+
+Sainte-Angèle-de-Prémont, MÉ
+
+Saint-Paulin, MÉ
+
+Saint-Alexis-des-Monts, PE
+
+Saint-Mathieu-du-Parc, MÉ
+
+Saint-Élie-de-Caxton, MÉ
+
+Charette, MÉ
+
+Saint-Boniface, MÉ
+
+Saint-Étienne-des-Grès, PE
+
+D'Autray
+
+Lavaltrie, V
+
+Lanoraie, MÉ
+
+Sainte-Élisabeth, PE
+
+Berthierville, V
+
+Sainte-Geneviève-de-Berthier, PE
+
+Saint-Ignace-de-Loyola, PE
+
+La Visitation-de-l'Île-Dupas, MÉ
+
+Saint-Barthélemy, PE
+
+Saint-Cuthbert, MÉ
+
+Saint-Norbert, PE
+
+Saint-Cléophas-de-Brandon, MÉ
+
+Saint-Gabriel, V
+
+Saint-Gabriel-de-Brandon, PE
+
+Saint-Didace, PE
+
+Mandeville, MÉ
+
+Le Bas-Richelieu
+
+Saint-David, PE
+
+Massueville, VL
+
+Saint-Aimé, PE
+
+Saint-Robert, PE
+
+Sainte-Victoire-de-Sorel, PE
+
+Saint-Ours, V
+
+Saint-Roch-de-Richelieu, MÉ
+
+Saint-Joseph-de-Sorel, V
+
+Sorel-Tracy, V
+
+Sainte-Anne-de-Sorel, PE
+
+Yamaska, MÉ
+
+Saint-Gérard-Majella, PE
+
+Les Maskoutains
+
+Saint-Pie, V
+
+Saint-Damase, MÉ
+
+Sainte-Madeleine, VL
+
+Sainte-Marie-Madeleine, PE
+
+La Présentation, PE
+
+Saint-Hyacinthe, V
+
+Saint-Dominique, MÉ
+
+Saint-Valérien-de-Milton, CT
+
+Saint-Liboire, MÉ
+
+Saint-Simon, PE
+
+Sainte-Hélène-de-Bagot, MÉ
+
+Saint-Hugues, MÉ
+
+Saint-Barnabé-Sud, MÉ
+
+Saint-Jude, MÉ
+
+Saint-Bernard-de-Michaudville, MÉ
+
+Saint-Louis, PE
+
+Saint-Marcel-de-Richelieu, MÉ
+
+Rouville
+
+Ange-Gardien, MÉ
+
+Saint-Paul-d'Abbotsford, PE
+
+Saint-Césaire, V
+
+Sainte-Angèle-de-Monnoir, PE
+
+Rougemont, MÉ
+
+Marieville, V
+
+Richelieu, V
+
+Saint-Mathias-sur-Richelieu, MÉ
+
+Le Haut-Richelieu
+
+Venise-en-Québec, MÉ
+
+Saint-Georges-de-Clarenceville, MÉ
+
+Noyan, MÉ
+
+Lacolle, MÉ
+
+Saint-Valentin, PE
+
+Saint-Paul-de-l'Île-aux-Noix, PE
+
+Henryville, MÉ
+
+Saint-Sébastien, PE
+
+Saint-Alexandre, MÉ
+
+Sainte-Anne-de-Sabrevois, PE
+
+Saint-Blaise-sur-Richelieu, MÉ
+
+Saint-Jean-sur-Richelieu, V
+
+Mont-Saint-Grégoire, MÉ
+
+Sainte-Brigide-d'Iberville, MÉ
+
+La Vallée-du-Richelieu
+
+Chambly, V
+
+Carignan, V
+
+Saint-Basile-le-Grand, V
+
+McMasterville, MÉ
+
+Otterburn Park, V
+
+Saint-Jean-Baptiste, MÉ
+
+Mont-Saint-Hilaire, V
+
+Beloeil, V
+
+Saint-Mathieu-de-Beloeil, MÉ
+
+Saint-Marc-sur-Richelieu, MÉ
+
+Saint-Charles-sur-Richelieu, MÉ
+
+Saint-Denis-sur-Richelieu, MÉ
+
+Saint-Antoine-sur-Richelieu, MÉ
+
+Longueuil
+
+Brossard, V
+
+Saint-Lambert, V
+
+Boucherville, V
+
+Saint-Bruno-de-Montarville, V
+
+Longueuil, V
+
+Lajemmerais
+
+Sainte-Julie, V
+
+Saint-Amable, MÉ
+
+Varennes, V
+
+Verchères, MÉ
+
+Calixa-Lavallée, PE
+
+Contrecoeur, V
+
+L'Assomption
+
+Charlemagne, V
+
+Repentigny, V
+
+Saint-Sulpice, PE
+
+L'Assomption, V
+
+L'Épiphanie, V
+
+L'Épiphanie, PE
+
+Joliette
+
+Saint-Paul, MÉ
+
+Crabtree, MÉ
+
+Saint-Pierre, VL
+
+Joliette, V
+
+Saint-Thomas, MÉ
+
+Notre-Dame-des-Prairies, V
+
+Saint-Charles-Borromée, MÉ
+
+Saint-Ambroise-de-Kildare, PE
+
+Notre-Dame-de-Lourdes, MÉ
+
+Sainte-Mélanie, MÉ
+
+Matawinie
+
+Saint-Félix-de-Valois, MÉ
+
+Saint-Jean-de-Matha, MÉ
+
+Sainte-Béatrix, MÉ
+
+Saint-Alphonse-Rodriguez, MÉ
+
+Sainte-Marcelline-de-Kildare, MÉ
+
+Rawdon, MÉ
+
+Chertsey, MÉ
+
+Entrelacs, MÉ
+
+Notre-Dame-de-la-Merci, MÉ
+
+Saint-Donat, MÉ
+
+Saint-Côme, PE
+
+Sainte-Émélie-de-l'Énergie, MÉ
+
+Saint-Damien, PE
+
+Saint-Zénon, MÉ
+
+Saint-Michel-des-Saints, MÉ
+
+Manawan, IRI
+
+Saint-Guillaume-Nord, NO
+
+Montcalm
+
+Sainte-Marie-Salomé, PE
+
+Saint-Jacques, MÉ
+
+Saint-Alexis, VL
+
+Saint-Alexis, PE
+
+Saint-Esprit, MÉ
+
+Saint-Roch-de-l'Achigan, PE
+
+Saint-Roch-Ouest, MÉ
+
+Saint-Lin--Laurentides, V
+
+Saint-Calixte, MÉ
+
+Sainte-Julienne, MÉ
+
+Saint-Liguori, PE
+
+Les Moulins
+
+Terrebonne, V
+
+Mascouche, V
+
+Laval
+
+Laval, V
+
+Montréal
+
+Montréal-Est, V
+
+Montréal, V
+
+Westmount, V
+
+Montréal-Ouest, V
+
+Côte-Saint-Luc, V
+
+Hampstead, V
+
+Mont-Royal, V
+
+Dorval, CÉ
+
+Pointe-Claire, V
+
+Kirkland, V
+
+Beaconsfield, V
+
+Baie-D'Urfé, V
+
+Sainte-Anne-de-Bellevue, V
+
+Senneville, VL
+
+Dollard-Des Ormeaux, V
+
+Roussillon
+
+Saint-Mathieu, MÉ
+
+Saint-Philippe, MÉ
+
+La Prairie, V
+
+Candiac, V
+
+Delson, V
+
+Sainte-Catherine, V
+
+Saint-Constant, V
+
+Saint-Isidore, PE
+
+Mercier, V
+
+Châteauguay, V
+
+Léry, V
+
+Les Jardins-de-Napierville
+
+Saint-Bernard-de-Lacolle, PE
+
+Hemmingford, VL
+
+Hemmingford, CT
+
+Sainte-Clotilde-de-Châteauguay, PE
+
+Saint-Patrice-de-Sherrington, PE
+
+Napierville, VL
+
+Saint-Cyprien-de-Napierville, PE
+
+Saint-Jacques-le-Mineur, PE
+
+Saint-Édouard, PE
+
+Saint-Michel, PE
+
+Saint-Rémi, V
+
+Le Haut-Saint-Laurent
+
+Havelock, CT
+
+Franklin, MÉ
+
+Saint-Chrysostome, MÉ
+
+Howick, VL
+
+Très-Saint-Sacrement, PE
+
+Ormstown, MÉ
+
+Hinchinbrooke, CT
+
+Elgin, CT
+
+Huntingdon, V
+
+Godmanchester, CT
+
+Sainte-Barbe, PE
+
+Saint-Anicet, PE
+
+Dundee, CT
+
+Beauharnois-Salaberry
+
+Saint-Urbain-Premier, MÉ
+
+Sainte-Martine, MÉ
+
+Beauharnois, V
+
+Saint-Étienne-de-Beauharnois, MÉ
+
+Saint-Louis-de-Gonzague, PE
+
+Saint-Stanislas-de-Kostka, PE
+
+Salaberry-de-Valleyfield, V
+
+Vaudreuil-Soulanges
+
+Rivière-Beaudette, MÉ
+
+Saint-Télesphore, PE
+
+Saint-Polycarpe, MÉ
+
+Saint-Zotique, VL
+
+Les Coteaux, MÉ
+
+Coteau-du-Lac, MÉ
+
+Saint-Clet, MÉ
+
+Les Cèdres, MÉ
+
+Pointe-des-Cascades, VL
+
+L'Île-Perrot, V
+
+Notre-Dame-de-l'Île-Perrot, V
+
+Pincourt, V
+
+Terrasse-Vaudreuil, MÉ
+
+Vaudreuil-Dorion, V
+
+Vaudreuil-sur-le-Lac, VL
+
+L'Île-Cadieux, V
+
+Hudson, V
+
+Saint-Lazare, V
+
+Sainte-Marthe, MÉ
+
+Sainte-Justine-de-Newton, PE
+
+Très-Saint-Rédempteur, PE
+
+Rigaud, MÉ
+
+Pointe-Fortune, VL
+
+Deux-Montagnes
+
+Saint-Eustache, V
+
+Deux-Montagnes, V
+
+Sainte-Marthe-sur-le-Lac, V
+
+Pointe-Calumet, MÉ
+
+Saint-Joseph-du-Lac, MÉ
+
+Oka, MÉ
+
+Saint-Placide, MÉ
+
+Thérèse-De Blainville
+
+Boisbriand, V
+
+Sainte-Thérèse, V
+
+Blainville, V
+
+Rosemère, V
+
+Lorraine, V
+
+Bois-des-Filion, V
+
+Sainte-Anne-des-Plaines, V
+
+Mirabel
+
+Mirabel, V
+
+La Rivière-du-Nord
+
+Saint-Colomban, PE
+
+Saint-Jérôme, V
+
+Sainte-Sophie, MÉ
+
+Prévost, V
+
+Saint-Hippolyte, PE
+
+Argenteuil
+
+Saint-André-d'Argenteuil, MÉ
+
+Lachute, V
+
+Gore, CT
+
+Mille-Isles, MÉ
+
+Wentworth, CT
+
+Brownsburg-Chatham, V
+
+Grenville-sur-la-Rouge, MÉ
+
+Grenville, VL
+
+Harrington, CT
+
+Les Pays-d'en-Haut
+
+Estérel, V
+
+Sainte-Marguerite-du-Lac-Masson, V
+
+Sainte-Adèle, V
+
+Piedmont, MÉ
+
+Sainte-Anne-des-Lacs, PE
+
+Saint-Sauveur, V
+
+Morin-Heights, MÉ
+
+Lac-des-Seize-Îles, MÉ
+
+Wentworth-Nord, MÉ
+
+Saint-Adolphe-d'Howard, MÉ
+
+Les Laurentides
+
+Val-Morin, MÉ
+
+Val-David, VL
+
+Lantier, MÉ
+
+Sainte-Lucie-des-Laurentides, MÉ
+
+Sainte-Agathe-des-Monts, V
+
+Ivry-sur-le-Lac, MÉ
+
+Saint-Faustin--Lac-Carré, MÉ
+
+Barkmere, V
+
+Montcalm, MÉ
+
+Arundel, CT
+
+Huberdeau, MÉ
+
+Amherst, CT
+
+Brébeuf, PE
+
+Lac-Supérieur, MÉ
+
+Val-des-Lacs, MÉ
+
+Mont-Tremblant, V
+
+La Conception, MÉ
+
+Labelle, MÉ
+
+La Minerve, MÉ
+
+Antoine-Labelle
+
+Notre-Dame-du-Laus, MÉ
+
+Notre-Dame-de-Pontmain, MÉ
+
+Lac-du-Cerf, MÉ
+
+Saint-Aimé-du-Lac-des-Îles, MÉ
+
+Kiamika, MÉ
+
+Nominingue, MÉ
+
+Rivière-Rouge, V
+
+La Macaza, MÉ
+
+L'Ascension, MÉ
+
+Lac-Saguay, VL
+
+Chute-Saint-Philippe, MÉ
+
+Lac-des-Écorces, MÉ
+
+Mont-Laurier, V
+
+Ferme-Neuve, MÉ
+
+Lac-Saint-Paul, MÉ
+
+Mont-Saint-Michel, MÉ
+
+Sainte-Anne-du-Lac, MÉ
+
+Papineau
+
+Fassett, MÉ
+
+Montebello, MÉ
+
+Notre-Dame-de-Bonsecours, MÉ
+
+Notre-Dame-de-la-Paix, MÉ
+
+Saint-André-Avellin, MÉ
+
+Papineauville, MÉ
+
+Plaisance, MÉ
+
+Thurso, V
+
+Lochaber, CT
+
+Lochaber-Partie-Ouest, CT
+
+Mayo, MÉ
+
+Saint-Sixte, MÉ
+
+Ripon, MÉ
+
+Mulgrave-et-Derry, MÉ
+
+Montpellier, MÉ
+
+Lac-Simon, MÉ
+
+Chénéville, MÉ
+
+Namur, MÉ
+
+Boileau, MÉ
+
+Saint-Émile-de-Suffolk, MÉ
+
+Lac-des-Plages, MÉ
+
+Val-des-Bois, MÉ
+
+Bowman, MÉ
+
+Gatineau
+
+Gatineau, V
+
+Les Collines-de-l'Outaouais
+
+L'Ange-Gardien, MÉ
+
+Notre-Dame-de-la-Salette, MÉ
+
+Val-des-Monts, MÉ
+
+Cantley, MÉ
+
+Chelsea, MÉ
+
+Pontiac, MÉ
+
+La Pêche, MÉ
+
+La Vallée-de-la-Gatineau
+
+Denholm, MÉ
+
+Low, CT
+
+Kazabazua, MÉ
+
+Lac-Sainte-Marie, MÉ
+
+Gracefield, V
+
+Cayamant, MÉ
+
+Blue Sea, MÉ
+
+Bouchette, MÉ
+
+Sainte-Thérèse-de-la-Gatineau, MÉ
+
+Messines, MÉ
+
+Maniwaki, V
+
+Déléage, MÉ
+
+Egan-Sud, MÉ
+
+Bois-Franc, MÉ
+
+Montcerf-Lytton, MÉ
+
+Aumond, CT
+
+Grand-Remous, MÉ
+
+Kitigan Zibi, IRI
+
+Pontiac
+
+Bristol, MÉ
+
+Shawville, MÉ
+
+Clarendon, MÉ
+
+Portage-du-Fort, VL
+
+Bryson, MÉ
+
+Campbell's Bay, MÉ
+
+Grand-Calumet, MÉ
+
+Litchfield, MÉ
+
+Thorne, MÉ
+
+Alleyn-et-Cawood, MÉ
+
+Otter Lake, MÉ
+
+Fort-Coulonge, VL
+
+Mansfield-et-Pontefract, MÉ
+
+Waltham, MÉ
+
+L'Isle-aux-Allumettes, MÉ
+
+Chichester, CT
+
+Rapides-des-Joachims, MÉ
+
+Témiscamingue
+
+Témiscaming, V
+
+Kipawa, MÉ
+
+Saint-Édouard-de-Fabre, PE
+
+Béarn, MÉ
+
+Ville-Marie, V
+
+Duhamel-Ouest, MÉ
+
+Lorrainville, MÉ
+
+Saint-Bruno-de-Guigues, MÉ
+
+Laverlochère, MÉ
+
+Fugèreville, MÉ
+
+Latulipe-et-Gaboury, CU
+
+Belleterre, V
+
+Laforce, MÉ
+
+Moffet, MÉ
+
+Angliers, VL
+
+Saint-Eugène-de-Guigues, MÉ
+
+Notre-Dame-du-Nord, MÉ
+
+Guérin, CT
+
+Nédélec, CT
+
+Rémigny, MÉ
+
+Kebaowek, IRI
+
+Winneway, S-É
+
+Timiskaming, IRI
+
+Rouyn-Noranda
+
+Rouyn-Noranda, V
+
+Abitibi-Ouest
+
+Duparquet, V
+
+Rapide-Danseur, MÉ
+
+Roquemaure, MÉ
+
+Gallichan, MÉ
+
+Palmarolle, MÉ
+
+Sainte-Germaine-Boulé, MÉ
+
+Poularies, MÉ
+
+Taschereau, MÉ
+
+Authier, MÉ
+
+Macamic, V
+
+Sainte-Hélène-de-Mancebourg, PE
+
+Clerval, MÉ
+
+La Reine, MÉ
+
+Dupuy, MÉ
+
+La Sarre, V
+
+Chazel, MÉ
+
+Authier-Nord, MÉ
+
+Val-Saint-Gilles, MÉ
+
+Clermont, CT
+
+Normétal, MÉ
+
+Saint-Lambert, PE
+
+Rivière-Ojima, NO
+
+Abitibi
+
+Champneuf, MÉ
+
+Rochebaucourt, MÉ
+
+La Morandière, MÉ
+
+Barraute, MÉ
+
+La Corne, MÉ
+
+Landrienne, CT
+
+Saint-Marc-de-Figuery, PE
+
+La Motte, MÉ
+
+Saint-Mathieu-d'Harricana, MÉ
+
+Amos, V
+
+Saint-Félix-de-Dalquier, MÉ
+
+Saint-Dominique-du-Rosaire, MÉ
+
+Berry, MÉ
+
+Trécesson, CT
+
+Launay, CT
+
+Sainte-Gertrude-Manneville, MÉ
+
+Preissac, MÉ
+
+Pikogan, IRI
+
+Lac-Chicobi, NO
+
+La Vallée-de-l'Or
+
+Val-d'Or, V
+
+Rivière-Héva, MÉ
+
+Malartic, V
+
+Senneterre, V
+
+Senneterre, PE
+
+Belcourt, MÉ
+
+Kitcisakik, S-É
+
+Lac-Simon, IRI
+
+Lac-Granet, NO
+
+La Tuque
+
+La Tuque, V
+
+La Bostonnais, MÉ
+
+Lac-Édouard, MÉ
+
+Wemotaci, IRI
+
+Obedjiwan, IRI
+
+Le Domaine-du-Roy
+
+Lac-Bouchette, MÉ
+
+Saint-André-du-Lac-Saint-Jean, VL
+
+Saint-François-de-Sales, MÉ
+
+Chambord, MÉ
+
+Roberval, V
+
+Sainte-Hedwidge, MÉ
+
+Saint-Prime, MÉ
+
+Saint-Félicien, V
+
+La Doré, PE
+
+Mashteuiatsh, IRI
+
+Maria-Chapdelaine
+
+Saint-Augustin, PE
+
+Péribonka, MÉ
+
+Sainte-Jeanne-d'Arc, VL
+
+Dolbeau-Mistassini, V
+
+Albanel, MÉ
+
+Normandin, V
+
+Saint-Thomas-Didyme, MÉ
+
+Saint-Edmond-les-Plaines, MÉ
+
+Girardville, MÉ
+
+Notre-Dame-de-Lorette, MÉ
+
+Saint-Eugène-d'Argentenay, MÉ
+
+Saint-Stanislas, MÉ
+
+Chute-des-Passes, NO
+
+Lac-Saint-Jean-Est
+
+Desbiens, V
+
+Métabetchouan--Lac-à-la-Croix, V
+
+Hébertville, MÉ
+
+Hébertville-Station, VL
+
+Saint-Bruno, MÉ
+
+Saint-Gédéon, MÉ
+
+Alma, V
+
+Saint-Nazaire, MÉ
+
+Labrecque, MÉ
+
+Lamarche, MÉ
+
+L'Ascension-de-Notre-Seigneur, PE
+
+Saint-Henri-de-Taillon, MÉ
+
+Sainte-Monique, MÉ
+
+Saint-Ludger-de-Milot, MÉ
+
+Le Saguenay-et-son-Fjord
+
+Saguenay, V
+
+Petit-Saguenay, MÉ
+
+L'Anse-Saint-Jean, MÉ
+
+Rivière-Éternité, MÉ
+
+Ferland-et-Boilleau, MÉ
+
+Saint-Félix-d'Otis, MÉ
+
+Sainte-Rose-du-Nord, PE
+
+Saint-Fulgence, MÉ
+
+Saint-Honoré, MÉ
+
+Saint-David-de-Falardeau, MÉ
+
+Bégin, MÉ
+
+Saint-Ambroise, MÉ
+
+Saint-Charles-de-Bourget, MÉ
+
+Larouche, MÉ
+
+La Haute-Côte-Nord
+
+Tadoussac, VL
+
+Sacré-Coeur, MÉ
+
+Les Bergeronnes, MÉ
+
+Les Escoumins, MÉ
+
+Longue-Rive, MÉ
+
+Portneuf-sur-Mer, MÉ
+
+Forestville, V
+
+Colombier, MÉ
+
+Manicouagan
+
+Baie-Trinité, VL
+
+Godbout, VL
+
+Franquelin, MÉ
+
+Baie-Comeau, V
+
+Pointe-Lebel, VL
+
+Pointe-aux-Outardes, VL
+
+Chute-aux-Outardes, VL
+
+Ragueneau, PE
+
+Betsiamites, IRI
+
+Sept-Rivières--Caniapiscau
+
+Sept-Îles, V
+
+Port-Cartier, V
+
+Fermont, V
+
+Schefferville, V
+
+Uashat, IRI
+
+Maliotenam, IRI
+
+Kawawachikamach, TK
+
+Matimekosh, IRI
+
+Lac-Walker, NO
+
+Minganie--Basse-Côte-Nord
+
+Blanc-Sablon, MÉ
+
+Bonne-Espérance, MÉ
+
+Saint-Augustin, MÉ
+
+Gros-Mécatina, MÉ
+
+Côte-Nord-du-Golfe-du-Saint-Laurent, MÉ
+
+L'Île-d'Anticosti, MÉ
+
+Natashquan, CT
+
+Aguanish, MÉ
+
+Baie-Johan-Beetz, MÉ
+
+Havre-Saint-Pierre, MÉ
+
+Longue-Pointe-de-Mingan, MÉ
+
+Rivière-Saint-Jean, MÉ
+
+Rivière-au-Tonnerre, MÉ
+
+Pakuashipi, S-É
+
+La Romaine, IRI
+
+Natashquan, IRI
+
+Mingan, IRI
+
+Nord-du-Québec
+
+Lebel-sur-Quévillon, V
+
+Matagami, V
+
+Chapais, V
+
+Chibougamau, V
+
+Baie-James, MÉ
+
+Kuujjuarapik, VN
+
+Umiujaq, VN
+
+Inukjuak, VN
+
+Kangiqsualujjuaq, VN
+
+Kuujjuaq, VN
+
+Tasiujaq, VN
+
+Aupaluk, VN
+
+Kangirsuk, VN
+
+Quaqtaq, VN
+
+Puvirnituq, VN
+
+Akulivik, VN
+
+Kangiqsujuaq, VN
+
+Salluit, VN
+
+Ivujivik, VN
+
+Waswanipi, TC
+
+Mistissini, TC
+
+Waskaganish, TC
+
+Nemiscau, TC
+
+Eastmain, TC
+
+Wemindji, TC
+
+Chisasibi, TC
+
+Whapmagoostui, TC
+
+Oujé-Bougoumou, S-É
+
+Ontario
+
+Stormont, Dundas and Glengarry
+
+South Glengarry, TP
+
+South Stormont, TP
+
+Cornwall, CY
+
+South Dundas, TP
+
+North Dundas, TP
+
+North Stormont, TP
+
+North Glengarry, TP
+
+Prescott and Russell
+
+East Hawkesbury, TP
+
+Hawkesbury, T
+
+Champlain, TP
+
+Alfred and Plantagenet, TP
+
+The Nation / La Nation, M
+
+Clarence-Rockland, CY
+
+Casselman, VL
+
+Russell, TP
+
+Ottawa
+
+Ottawa, C
+
+Leeds and Grenville
+
+Edwardsburgh/Cardinal, TP
+
+Augusta, TP
+
+Prescott, T
+
+Elizabethtown-Kitley, TP
+
+Brockville, CY
+
+Front of Yonge, TP
+
+Leeds and the Thousand Islands, TP
+
+Gananoque, T
+
+Westport, VL
+
+Rideau Lakes, TP
+
+Athens, TP
+
+Merrickville-Wolford, VL
+
+North Grenville, MU
+
+Lanark
+
+Montague, TP
+
+Smiths Falls, T
+
+Drummond/North Elmsley, TP
+
+Tay Valley, TP
+
+Perth, T
+
+Beckwith, TP
+
+Carleton Place, T
+
+Mississippi Mills, T
+
+Lanark Highlands, TP
+
+Frontenac
+
+Frontenac Islands, TP
+
+Kingston, CY
+
+South Frontenac, TP
+
+Central Frontenac, TP
+
+North Frontenac, TP
+
+Lennox and Addington
+
+Loyalist, TP
+
+Greater Napanee, T
+
+Stone Mills, TP
+
+Addington Highlands, TP
+
+Hastings
+
+Tyendinaga, TP
+
+Deseronto, T
+
+Belleville, CY
+
+Quinte West, CY
+
+Stirling-Rawdon, TP
+
+Centre Hastings, MU
+
+Tweed, MU
+
+Madoc, TP
+
+Marmora and Lake, MU
+
+Tudor and Cashel, TP
+
+Limerick, TP
+
+Wollaston, TP
+
+Faraday, TP
+
+Bancroft, T
+
+Carlow/Mayo, TP
+
+Hastings Highlands, MU
+
+Prince Edward
+
+Prince Edward, CY
+
+Northumberland
+
+Brighton, MU
+
+Cramahe, TP
+
+Hamilton, TP
+
+Port Hope, MU
+
+Cobourg, T
+
+Alnwick/Haldimand, TP
+
+Alderville First Nation, IRI
+
+Trent Hills, MU
+
+Peterborough
+
+Asphodel-Norwood, TP
+
+Otonabee-South Monaghan, TP
+
+Cavan-Millbrook-North Monaghan, TP
+
+Peterborough, CY
+
+Smith-Ennismore-Lakefield, TP
+
+Curve Lake First Nation 35, IRI
+
+Douro-Dummer, TP
+
+Havelock-Belmont-Methuen, TP
+
+North Kawartha, TP
+
+Galway-Cavendish and Harvey, TP
+
+Kawartha Lakes
+
+Kawartha Lakes, CY
+
+Durham
+
+Pickering, CY
+
+Ajax, T
+
+Whitby, T
+
+Oshawa, CY
+
+Clarington, MU
+
+Scugog, TP
+
+Mississaugas of Scugog Island, IRI
+
+Uxbridge, TP
+
+Brock, TP
+
+York
+
+Vaughan, CY
+
+Markham, T
+
+Richmond Hill, T
+
+Whitchurch-Stouffville, T
+
+Aurora, T
+
+Newmarket, T
+
+King, TP
+
+East Gwillimbury, T
+
+Georgina, T
+
+Toronto
+
+Toronto, C
+
+Peel
+
+Mississauga, CY
+
+Brampton, CY
+
+Caledon, T
+
+Dufferin
+
+East Garafraxa, TP
+
+Amaranth, TP
+
+East Luther Grand Valley, TP
+
+Mono, T
+
+Orangeville, T
+
+Mulmur, TP
+
+Melancthon, TP
+
+Shelburne, T
+
+Wellington
+
+Puslinch, TP
+
+Guelph, CY
+
+Guelph/Eramosa, TP
+
+Erin, T
+
+Centre Wellington, TP
+
+Mapleton, TP
+
+Minto, T
+
+Wellington North, TP
+
+Halton
+
+Oakville, T
+
+Burlington, CY
+
+Milton, T
+
+Halton Hills, T
+
+Hamilton
+
+Hamilton, C
+
+Niagara
+
+Fort Erie, T
+
+Port Colborne, CY
+
+Wainfleet, TP
+
+West Lincoln, TP
+
+Pelham, T
+
+Welland, CY
+
+Thorold, CY
+
+Niagara Falls, CY
+
+Niagara-on-the-Lake, T
+
+St. Catharines, CY
+
+Lincoln, T
+
+Grimsby, T
+
+Haldimand-Norfolk
+
+Haldimand County, CY
+
+Norfolk County, CY
+
+Brant
+
+Brant, CY
+
+Brantford, CY
+
+Waterloo
+
+North Dumfries, TP
+
+Cambridge, CY
+
+Kitchener, CY
+
+Waterloo, CY
+
+Wilmot, TP
+
+Wellesley, TP
+
+Woolwich, TP
+
+Perth
+
+Stratford, CY
+
+Perth South, TP
+
+St. Marys, T
+
+West Perth, MU
+
+Perth East, TP
+
+North Perth, MU
+
+Oxford
+
+Norwich, TP
+
+Tillsonburg, T
+
+South-West Oxford, TP
+
+Ingersoll, T
+
+Zorra, TP
+
+East Zorra-Tavistock, TP
+
+Woodstock, CY
+
+Blandford-Blenheim, TP
+
+Elgin
+
+Bayham, MU
+
+Malahide, TP
+
+Aylmer, T
+
+Central Elgin, MU
+
+St. Thomas, CY
+
+Southwold, TP
+
+Dutton/Dunwich, MU
+
+West Elgin, MU
+
+Chatham-Kent
+
+Chatham-Kent, MU
+
+Moravian 47, IRI
+
+Essex
+
+Pelee, TP
+
+Leamington, MU
+
+Kingsville, T
+
+Essex, T
+
+Amherstburg, T
+
+LaSalle, T
+
+Windsor, CY
+
+Tecumseh, T
+
+Lakeshore, T
+
+Lambton
+
+St. Clair, TP
+
+Walpole Island 46, IRI
+
+Dawn-Euphemia, TP
+
+Brooke-Alvinston, MU
+
+Enniskillen, TP
+
+Oil Springs, VL
+
+Petrolia, T
+
+Sarnia, CY
+
+Point Edward, VL
+
+Plympton-Wyoming, T
+
+Lambton Shores, MU
+
+Warwick, TP
+
+Kettle Point 44, IRI
+
+Middlesex
+
+Newbury, VL
+
+Southwest Middlesex, MU
+
+Strathroy-Caradoc, TP
+
+Chippewas of the Thames First Nation 42, IRI
+
+Munsee-Delaware Nation 1, IRI
+
+Thames Centre, MU
+
+Middlesex Centre, TP
+
+London, CY
+
+North Middlesex, MU
+
+Adelaide Metcalfe, TP
+
+Lucan Biddulph, TP
+
+Huron
+
+South Huron, MU
+
+Bluewater, MU
+
+Central Huron, MU
+
+Goderich, T
+
+Huron East, MU
+
+Howick, TP
+
+Morris-Turnberry, MU
+
+North Huron, TP
+
+Ashfield-Colborne-Wawanosh, TP
+
+Bruce
+
+South Bruce, MU
+
+Huron-Kinloss, TP
+
+Kincardine, MU
+
+Brockton, MU
+
+Arran-Elderslie, MU
+
+Saugeen Shores, T
+
+South Bruce Peninsula, T
+
+Saugeen 29, IRI
+
+Neyaashiinigmiing 27, IRI
+
+Northern Bruce Peninsula, MU
+
+Grey
+
+West Grey, MU
+
+Southgate, TP
+
+Grey Highlands, MU
+
+Hanover, T
+
+Chatsworth, TP
+
+Blue Mountains, T
+
+Meaford, MU
+
+Georgian Bluffs, TP
+
+Owen Sound, CY
+
+Simcoe
+
+Adjala-Tosorontio, TP
+
+Clearview, TP
+
+New Tecumseth, T
+
+Springwater, TP
+
+Bradford West Gwillimbury, T
+
+Severn, TP
+
+Innisfil, T
+
+Ramara, TP
+
+Essa, TP
+
+Oro-Medonte, TP
+
+Collingwood, T
+
+Barrie, CY
+
+Mnjikaning First Nation 32 (Rama First Nation 32), IRI
+
+Orillia, CY
+
+Wasaga Beach, T
+
+Tiny, TP
+
+Christian Island 30, IRI
+
+Tay, TP
+
+Penetanguishene, T
+
+Midland, T
+
+Muskoka
+
+Gravenhurst, T
+
+Bracebridge, T
+
+Lake of Bays, TP
+
+Huntsville, T
+
+Muskoka Lakes, TP
+
+Georgian Bay, TP
+
+Moose Point 79, IRI
+
+Haliburton
+
+Highlands East, MU
+
+Minden Hills, TP
+
+Algonquin Highlands, TP
+
+Dysart and Others, TP
+
+Renfrew
+
+Arnprior, T
+
+McNab/Braeside, TP
+
+Greater Madawaska, TP
+
+Brudenell, Lyndoch and Raglan, TP
+
+Madawaska Valley, TP
+
+Killaloe, Hagarty and Richards, TP
+
+Bonnechere Valley, TP
+
+Pikwakanagan (Golden Lake 39), IRI
+
+Admaston/Bromley, TP
+
+Horton, TP
+
+Renfrew, T
+
+Whitewater Region, TP
+
+Pembroke, CY
+
+North Algona Wilberforce, TP
+
+Laurentian Valley, TP
+
+Petawawa, T
+
+Laurentian Hills, T
+
+Deep River, T
+
+Head, Clara and Maria, TP
+
+Nipissing
+
+South Algonquin, TP
+
+Papineau-Cameron, TP
+
+Mattawan, TP
+
+Mattawa, T
+
+Calvin, TP
+
+Bonfield, TP
+
+Chisholm, TP
+
+East Ferris, TP
+
+North Bay, CY
+
+West Nipissing / Nipissing Ouest, M
+
+Temagami, MU
+
+Nipissing 10, IRI
+
+Nipissing, Unorganized, North Part, NO
+
+Parry Sound
+
+Seguin, TP
+
+The Archipelago, TP
+
+McMurrich/Monteith, TP
+
+Perry, TP
+
+Kearney, T
+
+Armour, TP
+
+Burk's Falls, VL
+
+Ryerson, TP
+
+McKellar, TP
+
+McDougall, MU
+
+Parry Sound, T
+
+Carling, TP
+
+Whitestone, MU
+
+Magnetawan, MU
+
+Strong, TP
+
+Sundridge, VL
+
+Joly, TP
+
+Machar, TP
+
+South River, VL
+
+Powassan, MU
+
+Callander, MU
+
+Nipissing, TP
+
+Shawanaga 17, IRI
+
+Parry Island First Nation, IRI
+
+French River 13, IRI
+
+Dokis 9, IRI
+
+Magnetewan 1, IRI
+
+Parry Sound, Unorganized, North East Part, NO
+
+Parry Sound, Unorganized, Centre Part, NO
+
+Manitoulin
+
+Tehkummah, TP
+
+Central Manitoulin, TP
+
+Assiginack, TP
+
+Northeastern Manitoulin and the Islands, T
+
+Billings, TP
+
+Gordon, TP
+
+Gore Bay, T
+
+Burpee and Mills, TP
+
+Barrie Island, TP
+
+Killarney, MU
+
+Whitefish River (Part) 4, IRI
+
+Sucker Creek 23, IRI
+
+Sheguiandah 24, IRI
+
+Wikwemikong Unceded, IRI
+
+Sheshegwaning 20, IRI
+
+M'Chigeeng 22 (West Bay 22), IRI
+
+Zhiibaahaasing 19A (Cockburn Island 19A), IRI
+
+Sudbury
+
+French River / Rivière des Français, M
+
+St.-Charles, MU
+
+Markstay-Warren, MU
+
+Sables-Spanish Rivers, TP
+
+Espanola, T
+
+Baldwin, TP
+
+Nairn and Hyman, TP
+
+Whitefish Lake 6, IRI
+
+Mattagami 71, IRI
+
+Duck Lake 76B, IRI
+
+Chapleau 75, IRI
+
+Chapleau, TP
+
+Sudbury, Unorganized, North Part, NO
+
+Greater Sudbury / Grand Sudbury
+
+Greater Sudbury / Grand Sudbury, C
+
+Wahnapitei 11, IRI
+
+Timiskaming
+
+Coleman, TP
+
+Latchford, T
+
+Cobalt, T
+
+Harris, TP
+
+Temiskaming Shores, CY
+
+Hudson, TP
+
+Kerns, TP
+
+Harley, TP
+
+Casey, TP
+
+Brethour, TP
+
+Hilliard, TP
+
+Armstrong, TP
+
+Thornloe, VL
+
+James, TP
+
+Charlton and Dack, MU
+
+Evanturel, TP
+
+Englehart, T
+
+Chamberlain, TP
+
+Matachewan 72, IRI
+
+McGarry, TP
+
+Larder Lake, TP
+
+Gauthier, TP
+
+Kirkland Lake, T
+
+Timiskaming, Unorganized, West Part, NO
+
+Cochrane
+
+Black River-Matheson, TP
+
+Timmins, CY
+
+Iroquois Falls, T
+
+Abitibi 70, IRI
+
+Cochrane, T
+
+Smooth Rock Falls, T
+
+Fauquier-Strickland, TP
+
+Moonbeam, TP
+
+Kapuskasing, T
+
+Val Rita-Harty, TP
+
+Opasatika, TP
+
+Hearst, T
+
+Mattice-Val Côté, TP
+
+Cochrane, Unorganized, North Part, NO
+
+Constance Lake 92, IRI
+
+New Post 69A, IRI
+
+Algoma
+
+Jocelyn, TP
+
+Hilton, TP
+
+Hilton Beach, VL
+
+St. Joseph, TP
+
+Laird, TP
+
+Tarbutt and Tarbutt Additional, TP
+
+Johnson, TP
+
+Plummer Additional, TP
+
+Bruce Mines, T
+
+Thessalon 12, IRI
+
+Thessalon, T
+
+Huron Shores, MU
+
+Blind River, T
+
+Spanish, T
+
+North Shore, TP
+
+Elliot Lake, CY
+
+Macdonald, Meredith and Aberdeen Additional, TP
+
+Sault Ste. Marie, CY
+
+Prince, TP
+
+Sagamok, IRI
+
+Serpent River 7, IRI
+
+Mississagi River 8, IRI
+
+Garden River 14, IRI
+
+Rankin Location 15D, IRI
+
+Michipicoten, TP
+
+Goulais Bay 15A, IRI
+
+Gros Cap 49, IRI
+
+Dubreuilville, TP
+
+White River, TP
+
+Algoma, Unorganized, North Part, NO
+
+Hornepayne, TP
+
+Thunder Bay
+
+Neebing, MU
+
+Fort William 52, IRI
+
+Thunder Bay, CY
+
+Oliver Paipoonge, MU
+
+Gillies, TP
+
+O'Connor, TP
+
+Conmee, TP
+
+Shuniah, TP
+
+Dorion, TP
+
+Red Rock, TP
+
+Nipigon, TP
+
+Schreiber, TP
+
+Terrace Bay, TP
+
+Marathon, T
+
+Pic Mobert North, IRI
+
+Pic Mobert South, IRI
+
+Pic River 50, IRI
+
+Pays Plat 51, IRI
+
+Lake Helen 53A, IRI
+
+Manitouwadge, TP
+
+Ginoogaming First Nation, IRI
+
+Long Lake 58, IRI
+
+Rocky Bay 1, IRI
+
+Greenstone, MU
+
+Aroland 83, IRI
+
+Osnaburgh 63A, IRI
+
+Thunder Bay, Unorganized, NO
+
+Whitesand, IRI
+
+Rainy River
+
+Atikokan, TP
+
+Alberton, TP
+
+Fort Frances, T
+
+La Vallee, TP
+
+Emo, TP
+
+Chapple, TP
+
+Manitou Rapids 11, IRI
+
+Morley, TP
+
+Dawson, TP
+
+Rainy River, T
+
+Lake of the Woods, TP
+
+Big Grassy River 35G, IRI
+
+Saug-a-Gaw-Sing 1, IRI
+
+Neguaguon Lake 25D, IRI
+
+Rainy Lake 18C, IRI
+
+Couchiching 16A, IRI
+
+Rainy Lake 26A, IRI
+
+Seine River 23A, IRI
+
+Rainy Lake 17A, IRI
+
+Rainy River, Unorganized, NO
+
+Kenora
+
+Ignace, TP
+
+Whitefish Bay 32A, IRI
+
+Whitefish Bay 33A, IRI
+
+Sioux Narrows - Nestor Falls, TP
+
+Kenora, CY
+
+Machin, TP
+
+Eagle Lake 27, IRI
+
+Dryden, CY
+
+Ear Falls, TP
+
+Sioux Lookout, MU
+
+Red Lake, MU
+
+Slate Falls, S-É
+
+Pickle Lake, TP
+
+Marten Falls 65, IRI
+
+Fort Hope 64, IRI
+
+Cat Lake 63C, IRI
+
+Osnaburgh 63B, IRI
+
+Lac Seul 28, IRI
+
+Wabigoon Lake 27, IRI
+
+English River 21, IRI
+
+Weagamow Lake 87, IRI
+
+Wabaseemoong, IRI
+
+Sabaskong Bay 35D, IRI
+
+Shoal Lake 34B2, IRI
+
+Lake Of The Woods 37, IRI
+
+Kenora 38B, IRI
+
+Poplar Hill, IRI
+
+Shoal Lake (Part) 39A, IRI
+
+Deer Lake, IRI
+
+Sandy Lake 88, IRI
+
+Kitchenuhmaykoosib Aaki 84 (Big Trout Lake), IRI
+
+Sachigo Lake 1, IRI
+
+Webequie, IRI
+
+North Spirit Lake, IRI
+
+Shoal Lake (Part) 40, IRI
+
+Whitefish Bay 34A, IRI
+
+Wabauskang 21, IRI
+
+Wunnumin 1, IRI
+
+Summer Beaver, S-É
+
+Wapekeka 2, IRI
+
+The Dalles 38C, IRI
+
+Kenora, Unorganized, NO
+
+Peawanuck, S-É
+
+Neskantaga, IRI
+
+Bearskin Lake, IRI
+
+Kasabonika Lake, IRI
+
+Muskrat Dam Lake, IRI
+
+Kingfisher Lake 1, IRI
+
+Kee-Way-Win, IRI
+
+Manitoba
+
+Division No. 1
+
+Stuartburn, RM
+
+Piney, RM
+
+Reynolds, RM
+
+Whitemouth, RM
+
+Pinawa, LGD
+
+Lac du Bonnet, RM
+
+Lac du Bonnet, T
+
+Buffalo Point 36, IRI
+
+Alexander, RM
+
+Powerview-Pine Falls, T
+
+Victoria Beach, RM
+
+Division No. 1, Unorganized, NO
+
+Division No. 2
+
+Franklin, RM
+
+Roseau Rapids 2A, IRI
+
+Roseau River 2, IRI
+
+De Salaberry, RM
+
+St-Pierre-Jolys, VL
+
+Hanover, RM
+
+Steinbach, CY
+
+Niverville, T
+
+La Broquerie, RM
+
+Ste. Anne, RM
+
+Ste. Anne, T
+
+Taché, RM
+
+Ritchot, RM
+
+Division No. 3
+
+Montcalm, RM
+
+Emerson, T
+
+Rhineland, RM
+
+Gretna, T
+
+Altona, T
+
+Plum Coulee, T
+
+Stanley, RM
+
+Winkler, CY
+
+Morden, T
+
+Thompson, RM
+
+Roland, RM
+
+Morris, RM
+
+Morris, T
+
+Dufferin, RM
+
+Carman, T
+
+Division No. 4
+
+Pembina, RM
+
+Manitou, T
+
+Louise, RM
+
+Pilot Mound, T
+
+Crystal City, VL
+
+Roblin, RM
+
+Cartwright, VL
+
+Argyle, RM
+
+Lorne, RM
+
+Somerset, VL
+
+Swan Lake 7, IRI
+
+Division No. 5
+
+Turtle Mountain, RM
+
+Killarney, T
+
+Morton, RM
+
+Boissevain, T
+
+Winchester, RM
+
+Deloraine, T
+
+Brenda, RM
+
+Waskada, VL
+
+Arthur, RM
+
+Melita, T
+
+Edward, RM
+
+Albert, RM
+
+Cameron, RM
+
+Hartney, T
+
+Whitewater, RM
+
+Riverside, RM
+
+Strathcona, RM
+
+Division No. 6
+
+Sifton, RM
+
+Oak Lake, T
+
+Pipestone, RM
+
+Wallace, RM
+
+Canupawakpa Dakota First Nation (Oak Lake 59), IRI
+
+Elkhorn, VL
+
+Virden, T
+
+Woodworth, RM
+
+Sioux Valley Dakota Nation, IRI
+
+Division No. 7
+
+South Cypress, RM
+
+Glenboro, VL
+
+Oakland, RM
+
+Wawanesa, VL
+
+Glenwood, RM
+
+Souris, T
+
+Whitehead, RM
+
+Cornwallis, RM
+
+Brandon, CY
+
+North Cypress, RM
+
+Carberry, T
+
+Elton, RM
+
+Daly, RM
+
+Rivers, T
+
+Division No. 8
+
+South Norfolk, RM
+
+Notre Dame de Lourdes, VL
+
+Treherne, T
+
+Victoria, RM
+
+North Norfolk, RM
+
+MacGregor, VL
+
+Lansdowne, RM
+
+Westbourne, RM
+
+Gladstone, T
+
+Lakeview, RM
+
+Sandy Bay 5, IRI
+
+Glenella, RM
+
+Division No. 9
+
+Grey, RM
+
+St. Claude, VL
+
+Portage la Prairie, RM
+
+Long Plain (Part) 6, IRI
+
+Dakota Plains 6A, IRI
+
+Dakota Tipi 1, IRI
+
+Portage la Prairie, CY
+
+Division No. 10
+
+Macdonald, RM
+
+Cartier, RM
+
+St. François Xavier, RM
+
+Division No. 11
+
+Winnipeg, CY
+
+Headingley, RM
+
+Division No. 12
+
+Springfield, RM
+
+Brokenhead, RM
+
+Beausejour, T
+
+Division No. 13
+
+East St. Paul, RM
+
+West St. Paul, RM
+
+St. Andrews, RM
+
+Selkirk, CY
+
+Dunnottar, VL
+
+St. Clements, RM
+
+Brokenhead 4, IRI
+
+Division No. 14
+
+Rosser, RM
+
+Woodlands, RM
+
+Rockwood, RM
+
+Stonewall, T
+
+Teulon, T
+
+Division No. 15
+
+Langford, RM
+
+Neepawa, T
+
+Odanah, RM
+
+Saskatchewan, RM
+
+Rapid City, T
+
+Blanshard, RM
+
+Hamiota, RM
+
+Hamiota, T
+
+Miniota, RM
+
+Birdtail Creek 57, IRI
+
+Archie, RM
+
+Ellice, RM
+
+St-Lazare, VL
+
+Birtle, RM
+
+Birtle, T
+
+Shoal Lake, RM
+
+Shoal Lake, T
+
+Strathclair, RM
+
+Harrison, RM
+
+Rolling River 67, IRI
+
+Minto, RM
+
+Minnedosa, T
+
+Rosedale, RM
+
+Clanwilliam, RM
+
+Erickson, T
+
+Park (South), RM
+
+Division No. 16
+
+Rossburn, RM
+
+Rossburn, T
+
+Waywayseecappo First Nation, IRI
+
+Silver Creek, RM
+
+Russell, RM
+
+Gambler 63 (Part), IRI
+
+Binscarth, VL
+
+Russell, T
+
+Shellmouth-Boulton, RM
+
+Hillsburg, RM
+
+Valley River 63A, IRI
+
+Shell River, RM
+
+Roblin, T
+
+Park (North), RM
+
+Division No. 17
+
+Alonsa, RM
+
+Ebb and Flow 52, IRI
+
+McCreary, RM
+
+McCreary, VL
+
+Ste. Rose, RM
+
+Ste. Rose du Lac, T
+
+Ochre River, RM
+
+Dauphin, RM
+
+Dauphin, CY
+
+Gilbert Plains, RM
+
+Gilbert Plains, T
+
+Grandview, RM
+
+Grandview, T
+
+Ethelbert, RM
+
+Ethelbert, VL
+
+Mossey River, RM
+
+Winnipegosis, VL
+
+Lawrence, RM
+
+Division No. 18
+
+Gimli, RM
+
+Winnipeg Beach, T
+
+Armstrong, RM
+
+St. Laurent, RM
+
+Coldwell, RM
+
+Eriksdale, RM
+
+Dog Creek 46, IRI
+
+Siglunes, RM
+
+Grahamdale, RM
+
+Little Saskatchewan 48, IRI
+
+Fairford (Part) 50, IRI
+
+Fisher, RM
+
+Bifrost, RM
+
+Arborg, T
+
+Riverton, VL
+
+Division No. 18, Unorganized, East Part, NO
+
+Division No. 19
+
+Division No. 19, Unorganized, NO
+
+Fort Alexander 3, IRI
+
+Little Grand Rapids 14, IRI
+
+Bloodvein 12, IRI
+
+Hole or Hollow Water 10, IRI
+
+Black River 9, IRI
+
+Fisher River 44, IRI
+
+Fisher River 44A, IRI
+
+Peguis 1B, IRI
+
+Jackhead 43, IRI
+
+Dauphin River 48A, IRI
+
+The Narrows 49, IRI
+
+Crane River 51, IRI
+
+Waterhen 45, IRI
+
+Pine Creek 66A, IRI
+
+Swan Lake 65C, IRI
+
+Shoal River Indian Reserve 65A, IRI
+
+Poplar River 16, IRI
+
+Berens River 13, IRI
+
+Pauingassi First Nation, IRI
+
+Division No. 20
+
+Mountain (South), RM
+
+Minitonas, RM
+
+Minitonas, T
+
+Swan River, RM
+
+Benito, VL
+
+Swan River, T
+
+Bowsman, VL
+
+Mountain (North), RM
+
+Division No. 21
+
+Grand Rapids, T
+
+Grand Rapids 33, IRI
+
+Chemawawin 2, IRI
+
+Opaskwayak Cree Nation 21A, IRI
+
+Opaskwayak Cree Nation 21I, IRI
+
+Opaskwayak Cree Nation 21E, IRI
+
+The Pas, T
+
+Kelsey, RM
+
+Moose Lake 31A, IRI
+
+Flin Flon (Part), CY
+
+Snow Lake, T
+
+Division No. 21, Unorganized, NO
+
+Division No. 22
+
+Mystery Lake, LGD
+
+Thompson, CY
+
+Division No. 22, Unorganized, NO
+
+Garden Hill First Nation, IRI
+
+God's Lake 23, IRI
+
+Oxford House 24, IRI
+
+Cross Lake 19, IRI
+
+Cross Lake 19A, IRI
+
+God's River 86A, IRI
+
+Norway House 17, IRI
+
+Nelson House 170, IRI
+
+Ilford, S-É
+
+York Landing, IRI
+
+Cross Lake 19E, IRI
+
+Wasagamack, IRI
+
+St. Theresa Point, IRI
+
+Division No. 23
+
+Gillam, T
+
+Leaf Rapids, T
+
+South Indian Lake, S-É
+
+Granville Lake, S-É
+
+Lynn Lake, T
+
+Churchill, T
+
+Churchill 1, IRI
+
+Division No. 23, Unorganized, NO
+
+Pukatawagan 198, IRI
+
+Brochet 197, IRI
+
+Lac Brochet 197A, IRI
+
+Shamattawa 1, IRI
+
+Saskatchewan
+
+Division No. 1
+
+Argyle No. 1, RM
+
+Gainsborough, VL
+
+Carievale, VL
+
+Mount Pleasant No. 2, RM
+
+Carnduff, T
+
+Enniskillen No. 3, RM
+
+Glen Ewen, VL
+
+Oxbow, T
+
+Coalfields No. 4, RM
+
+Frobisher, VL
+
+North Portal, VL
+
+Roche Percee, VL
+
+Bienfait, T
+
+Estevan No. 5, RM
+
+Estevan, CY
+
+Benson No. 35, RM
+
+Browning No. 34, RM
+
+Lampman, T
+
+Moose Creek No. 33, RM
+
+Alameda, T
+
+Reciprocity No. 32, RM
+
+Alida, VL
+
+Storthoaks No. 31, RM
+
+Storthoaks, VL
+
+Antler No. 61, RM
+
+Redvers, T
+
+Moose Mountain No. 63, RM
+
+Manor, VL
+
+Carlyle, T
+
+Brock No. 64, RM
+
+Arcola, T
+
+Kisbey, VL
+
+Tecumseh No. 65, RM
+
+Stoughton, T
+
+Golden West No. 95, RM
+
+Hazelwood No. 94, RM
+
+Wawken No. 93, RM
+
+Kennedy, VL
+
+Wawota, T
+
+Kenosee Lake, VL
+
+Walpole No. 92, RM
+
+Maryfield No. 91, RM
+
+Maryfield, VL
+
+Fairlight, VL
+
+White Bear 70, IRI
+
+Ocean Man 69, IRI
+
+Division No. 2
+
+Cambria No. 6, RM
+
+Torquay, VL
+
+Souris Valley No. 7, RM
+
+Lake Alma No. 8, RM
+
+Surprise Valley No. 9, RM
+
+Minton, VL
+
+Happy Valley No. 10, RM
+
+Bengough, T
+
+Bengough No. 40, RM
+
+The Gap No. 39, RM
+
+Ceylon, VL
+
+Laurier No. 38, RM
+
+Radville, T
+
+Lomond No. 37, RM
+
+Cymri No. 36, RM
+
+Halbrite, VL
+
+Midale, T
+
+Macoun, VL
+
+Griffin No. 66, RM
+
+Weyburn No. 67, RM
+
+Weyburn, CY
+
+McTaggart, VL
+
+Brokenshell No. 68, RM
+
+Norton No. 69, RM
+
+Key West No. 70, RM
+
+Ogema, T
+
+Elmsthorpe No. 100, RM
+
+Avonlea, VL
+
+Caledonia No. 99, RM
+
+Milestone, T
+
+Scott No. 98, RM
+
+Lang, VL
+
+Yellow Grass, T
+
+Wellington No. 97, RM
+
+Fillmore No. 96, RM
+
+Fillmore, VL
+
+Creelman, VL
+
+Division No. 3
+
+Hart Butte No. 11, RM
+
+Coronach, T
+
+Poplar Valley No. 12, RM
+
+Rockglen, T
+
+Old Post No. 43, RM
+
+Glen McPherson No. 46, RM
+
+Mankota No. 45, RM
+
+Mankota, VL
+
+Waverley No. 44, RM
+
+Willow Bunch No. 42, RM
+
+Willow Bunch, T
+
+Excel No. 71, RM
+
+Lake of the Rivers No. 72, RM
+
+Assiniboia, T
+
+Stonehenge No. 73, RM
+
+Limerick, VL
+
+Wood River No. 74, RM
+
+Lafleche, T
+
+Pinto Creek No. 75, RM
+
+Kincaid, VL
+
+Auvergne No. 76, RM
+
+Ponteix, T
+
+Whiska Creek No. 106, RM
+
+Neville, VL
+
+Vanguard, VL
+
+Glen Bain No. 105, RM
+
+Gravelbourg No. 104, RM
+
+Gravelbourg, T
+
+Sutton No. 103, RM
+
+Mossbank, T
+
+Lake Johnston No. 102, RM
+
+Terrell No. 101, RM
+
+Division No. 4
+
+Val Marie, VL
+
+Val Marie No. 17, RM
+
+Lone Tree No. 18, RM
+
+Climax, VL
+
+Frontier No. 19, RM
+
+Frontier, VL
+
+Reno No. 51, RM
+
+Consul, VL
+
+White Valley No. 49, RM
+
+Eastend, T
+
+Wise Creek No. 77, RM
+
+Cadillac, VL
+
+Grassy Creek No. 78, RM
+
+Shaunavon, T
+
+Arlington No. 79, RM
+
+Maple Creek No. 111, RM
+
+Maple Creek, T
+
+Piapot No. 110, RM
+
+Carmichael No. 109, RM
+
+Bone Creek No. 108, RM
+
+Lac Pelletier No. 107, RM
+
+Division No. 5
+
+Moosomin No. 121, RM
+
+Fleming, T
+
+Moosomin, T
+
+Welwyn, VL
+
+Martin No. 122, RM
+
+Wapella, T
+
+Silverwood No. 123, RM
+
+Kingsley No. 124, RM
+
+Kipling, T
+
+Chester No. 125, RM
+
+Windthorst, VL
+
+Glenavon, VL
+
+Wolseley, T
+
+Wolseley No. 155, RM
+
+Elcapo No. 154, RM
+
+Grenfell, T
+
+Broadview, T
+
+Willowdale No. 153, RM
+
+Whitewood, T
+
+Rocanville No. 151, RM
+
+Rocanville, T
+
+Spy Hill No. 152, RM
+
+Tantallon, VL
+
+Spy Hill, VL
+
+Gerald, VL
+
+Langenburg No. 181, RM
+
+Langenburg, T
+
+Yarbo, VL
+
+Fertile Belt No. 183, RM
+
+Esterhazy, T
+
+Bird's Point, RV
+
+Stockholm, VL
+
+Grayson No. 184, RM
+
+Dubuc, VL
+
+Grayson, VL
+
+Killaly, VL
+
+McLeod No. 185, RM
+
+Neudorf, VL
+
+Lemberg, T
+
+Stanley No. 215, RM
+
+Goodeve, VL
+
+Cana No. 214, RM
+
+Melville, CY
+
+Saltcoats No. 213, RM
+
+Saltcoats, T
+
+Bredenbury, T
+
+Churchbridge No. 211, RM
+
+Churchbridge, T
+
+MacNutt, VL
+
+Cowessess 73, IRI
+
+Kahkewistahaw 72, IRI
+
+Sakimay 74, IRI
+
+Ochapowace 71, IRI
+
+Division No. 6
+
+Montmartre No. 126, RM
+
+Montmartre, VL
+
+Kendal, VL
+
+Francis No. 127, RM
+
+Odessa, VL
+
+Vibank, VL
+
+Sedley, VL
+
+Francis, T
+
+Lajord No. 128, RM
+
+Bratt's Lake No. 129, RM
+
+Wilcox, VL
+
+Redburn No. 130, RM
+
+Rouleau, T
+
+Briercrest, VL
+
+Drinkwater, VL
+
+Pense No. 160, RM
+
+Belle Plaine, VL
+
+Pense, VL
+
+Sherwood No. 159, RM
+
+Regina, CY
+
+Grand Coulee, VL
+
+Edenwold No. 158, RM
+
+White City, T
+
+Pilot Butte, T
+
+Balgonie, T
+
+Edenwold, VL
+
+South Qu'Appelle No. 157, RM
+
+Qu'Appelle, T
+
+McLean, VL
+
+Indian Head No. 156, RM
+
+Indian Head, T
+
+Sintaluta, T
+
+Abernethy No. 186, RM
+
+Fort San, RV
+
+Abernethy, VL
+
+Balcarres, T
+
+North Qu'Appelle No. 187, RM
+
+Lebret, VL
+
+Katepwa, RV
+
+Fort Qu'Appelle, T
+
+B-Say-Tah, RV
+
+Lumsden No. 189, RM
+
+Disley, VL
+
+Buena Vista, VL
+
+Lumsden, T
+
+Regina Beach, T
+
+Dufferin No. 190, RM
+
+Wee Too Beach, RV
+
+Bethune, VL
+
+Findlater, VL
+
+Sarnia No. 221, RM
+
+Chamberlain, VL
+
+Alice Beach, RV
+
+Holdfast, VL
+
+Dilke, VL
+
+Longlaketon No. 219, RM
+
+McKillop No. 220, RM
+
+Saskatchewan Beach, RV
+
+Bulyea, VL
+
+Strasbourg, T
+
+Kannata Valley, RV
+
+Silton, VL
+
+Craven, VL
+
+Earl Grey, VL
+
+Glen Harbour, RV
+
+North Grove, RV
+
+Island View, RV
+
+Cupar No. 218, RM
+
+Southey, T
+
+Markinch, VL
+
+Cupar, T
+
+Lipton No. 217, RM
+
+Dysart, VL
+
+Lipton, VL
+
+Tullymet No. 216, RM
+
+Piapot 75, IRI
+
+Assiniboine 76, IRI
+
+Standing Buffalo 78, IRI
+
+Pasqua 79, IRI
+
+Muscowpetung 80, IRI
+
+Okanese 82, IRI
+
+Star Blanket 83, IRI
+
+Division No. 7
+
+Baildon No. 131, RM
+
+Hillsborough No. 132, RM
+
+Rodgers No. 133, RM
+
+Shamrock No. 134, RM
+
+Lawtonia No. 135, RM
+
+Hodgeville, VL
+
+Coulee No. 136, RM
+
+Beaver Flat, RV
+
+Excelsior No. 166, RM
+
+Waldeck, VL
+
+Rush Lake, VL
+
+Morse No. 165, RM
+
+Herbert, T
+
+Morse, T
+
+Chaplin No. 164, RM
+
+Chaplin, VL
+
+Wheatlands No. 163, RM
+
+Mortlach, VL
+
+Caron No. 162, RM
+
+Caronport, VL
+
+Moose Jaw No. 161, RM
+
+Moose Jaw, CY
+
+Marquis No. 191, RM
+
+Tuxford, VL
+
+Marquis, VL
+
+Sun Valley, RV
+
+Eyebrow No. 193, RM
+
+Brownlee, VL
+
+Eyebrow, VL
+
+South Lake, RV
+
+Enfield No. 194, RM
+
+Central Butte, T
+
+Canaan No. 225, RM
+
+Lucky Lake, VL
+
+Beechy, VL
+
+Victory No. 226, RM
+
+King George No. 256, RM
+
+Coteau No. 255, RM
+
+Maple Bush No. 224, RM
+
+Riverhurst, VL
+
+Mistusinne, RV
+
+Huron No. 223, RM
+
+Tugaske, VL
+
+Craik No. 222, RM
+
+Craik, T
+
+Division No. 8
+
+Swift Current No. 137, RM
+
+Swift Current, CY
+
+Webb No. 138, RM
+
+Gull Lake No. 139, RM
+
+Gull Lake, T
+
+Tompkins, VL
+
+Big Stick No. 141, RM
+
+Richmound, VL
+
+Fox Valley No. 171, RM
+
+Fox Valley, VL
+
+Pittville No. 169, RM
+
+Hazlet, VL
+
+Riverside No. 168, RM
+
+Cabri, T
+
+Pennant, VL
+
+Saskatchewan Landing No. 167, RM
+
+Stewart Valley, VL
+
+Lacadena No. 228, RM
+
+Kyle, T
+
+Miry Creek No. 229, RM
+
+Abbey, VL
+
+Lancer, VL
+
+Clinworth No. 230, RM
+
+Sceptre, VL
+
+Happyland No. 231, RM
+
+Prelate, VL
+
+Leader, T
+
+Deer Forks No. 232, RM
+
+Burstall, T
+
+Chesterfield No. 261, RM
+
+Eatonia, T
+
+Newcombe No. 260, RM
+
+Snipe Lake No. 259, RM
+
+Eston, T
+
+Monet No. 257, RM
+
+Elrose, T
+
+Division No. 9
+
+Calder No. 241, RM
+
+Calder, VL
+
+Wallace No. 243, RM
+
+Rhein, VL
+
+Orkney No. 244, RM
+
+Yorkton, CY
+
+Ebenezer, VL
+
+Springside, T
+
+Willowbrook, VL
+
+Garry No. 245, RM
+
+Insinger No. 275, RM
+
+Sheho, VL
+
+Theodore, VL
+
+Good Lake No. 274, RM
+
+Canora, T
+
+Sliding Hills No. 273, RM
+
+Veregin, VL
+
+Cote No. 271, RM
+
+Togo, VL
+
+Kamsack, T
+
+St. Philips No. 301, RM
+
+Pelly, VL
+
+Keys No. 303, RM
+
+Buchanan No. 304, RM
+
+Buchanan, VL
+
+Invermay No. 305, RM
+
+Rama, VL
+
+Invermay, VL
+
+Hazel Dell No. 335, RM
+
+Lintlaw, VL
+
+Preeceville No. 334, RM
+
+Preeceville, T
+
+Endeavour, VL
+
+Sturgis, T
+
+Clayton No. 333, RM
+
+Stenen, VL
+
+Hyas, VL
+
+Norquay, T
+
+Livingston No. 331, RM
+
+Cote 64, IRI
+
+Keeseekoose 66, IRI
+
+Division No. 10
+
+Ituna Bon Accord No. 246, RM
+
+Ituna, T
+
+Kellross No. 247, RM
+
+Kelliher, VL
+
+Leross, VL
+
+Lestock, VL
+
+Touchwood No. 248, RM
+
+Semans, VL
+
+Mount Hope No. 279, RM
+
+Raymore, T
+
+Quinton, VL
+
+Punnichy, VL
+
+Emerald No. 277, RM
+
+Foam Lake No. 276, RM
+
+Foam Lake, T
+
+Elfros No. 307, RM
+
+Elfros, VL
+
+Big Quill No. 308, RM
+
+Wynyard, T
+
+Prairie Rose No. 309, RM
+
+Jansen, VL
+
+Leroy No. 339, RM
+
+Leroy, T
+
+Lakeside No. 338, RM
+
+Watson, T
+
+Quill Lake, VL
+
+Lakeview No. 337, RM
+
+Wadena, T
+
+Sasman No. 336, RM
+
+Margo, VL
+
+Muskowekwan 85, IRI
+
+Gordon 86, IRI
+
+Day Star 87, IRI
+
+Poorman 88, IRI
+
+Fishing Lake 89, IRI
+
+Division No. 11
+
+Duval, VL
+
+Last Mountain Valley No. 250, RM
+
+Govan, T
+
+Big Arm No. 251, RM
+
+Imperial, T
+
+Liberty, VL
+
+Arm River No. 252, RM
+
+Davidson, T
+
+Willner No. 253, RM
+
+Loreburn No. 254, RM
+
+Elbow, VL
+
+Loreburn, VL
+
+Strongfield, VL
+
+Hawarden, VL
+
+Rudy No. 284, RM
+
+Outlook, T
+
+Broderick, VL
+
+Rosedale No. 283, RM
+
+Hanley, T
+
+McCraney No. 282, RM
+
+Kenaston, VL
+
+Bladworth, VL
+
+Wood Creek No. 281, RM
+
+Simpson, VL
+
+Wreford No. 280, RM
+
+Nokomis, T
+
+Usborne No. 310, RM
+
+Drake, VL
+
+Lanigan, T
+
+Morris No. 312, RM
+
+Watrous, T
+
+Manitou Beach, RV
+
+Young, VL
+
+Lost River No. 313, RM
+
+Thode, RV
+
+Dundurn No. 314, RM
+
+Dundurn, T
+
+Shields, RV
+
+Corman Park No. 344, RM
+
+Saskatoon, CY
+
+Langham, T
+
+Warman, T
+
+Blucher No. 343, RM
+
+Martensville, T
+
+Bradwell, VL
+
+Allan, T
+
+Dalmeny, T
+
+Elstow, VL
+
+Osler, T
+
+Colonsay No. 342, RM
+
+Clavet, VL
+
+Meacham, VL
+
+Colonsay, T
+
+Viscount No. 341, RM
+
+Viscount, VL
+
+Plunkett, VL
+
+Wolverine No. 340, RM
+
+Whitecap, IRI
+
+Division No. 12
+
+Pleasant Valley No. 288, RM
+
+St. Andrews No. 287, RM
+
+Rosetown, T
+
+Milden No. 286, RM
+
+Milden, VL
+
+Wiseton, VL
+
+Dinsmore, VL
+
+Fertile Valley No. 285, RM
+
+Conquest, VL
+
+Montrose No. 315, RM
+
+Harris No. 316, RM
+
+Harris, VL
+
+Marriott No. 317, RM
+
+Mountain View No. 318, RM
+
+Biggar No. 347, RM
+
+Biggar, T
+
+Perdue No. 346, RM
+
+Perdue, VL
+
+Vanscoy No. 345, RM
+
+Delisle, T
+
+Vanscoy, VL
+
+Asquith, T
+
+Eagle Creek No. 376, RM
+
+Glenside No. 377, RM
+
+Rosemount No. 378, RM
+
+Battle River No. 438, RM
+
+Battleford, T
+
+Red Pheasant 108, IRI
+
+Mosquito 109, IRI
+
+Grizzly Bear's Head 110 and Lean Man 111, IRI
+
+Sweet Grass 113, IRI
+
+Division No. 13
+
+Brock, VL
+
+Kindersley No. 290, RM
+
+Kindersley, T
+
+Flaxcombe, VL
+
+Milton No. 292, RM
+
+Alsask, VL
+
+Marengo, VL
+
+Antelope Park No. 322, RM
+
+Prairiedale No. 321, RM
+
+Major, VL
+
+Smiley, VL
+
+Oakdale No. 320, RM
+
+Coleville, VL
+
+Winslow No. 319, RM
+
+Dodsland, VL
+
+Plenty, VL
+
+Grandview No. 349, RM
+
+Mariposa No. 350, RM
+
+Tramping Lake, VL
+
+Progress No. 351, RM
+
+Kerrobert, T
+
+Luseland, T
+
+Heart's Hill No. 352, RM
+
+Eye Hill No. 382, RM
+
+Macklin, T
+
+Denzil, VL
+
+Grass Lake No. 381, RM
+
+Tramping Lake No. 380, RM
+
+Scott, T
+
+Reford No. 379, RM
+
+Landis, VL
+
+Buffalo No. 409, RM
+
+Wilkie, T
+
+Round Valley No. 410, RM
+
+Unity, T
+
+Senlac No. 411, RM
+
+Senlac, VL
+
+Manitou Lake No. 442, RM
+
+Marsden, VL
+
+Hillsdale No. 440, RM
+
+Neilburg, VL
+
+Cut Knife No. 439, RM
+
+Cut Knife, T
+
+Poundmaker 114, IRI
+
+Little Pine 116, IRI
+
+Division No. 14
+
+Hudson Bay No. 394, RM
+
+Hudson Bay, T
+
+Porcupine No. 395, RM
+
+Porcupine Plain, T
+
+Weekes, VL
+
+Kelvington No. 366, RM
+
+Kelvington, T
+
+Ponass Lake No. 367, RM
+
+Rose Valley, T
+
+Fosston, VL
+
+Spalding No. 368, RM
+
+Spalding, VL
+
+Pleasantdale, VL
+
+Naicam, T
+
+Barrier Valley No. 397, RM
+
+Pleasantdale No. 398, RM
+
+Archerwill, VL
+
+Bjorkdale No. 426, RM
+
+Mistatim, VL
+
+Bjorkdale, VL
+
+Tisdale No. 427, RM
+
+Tisdale, T
+
+Star City No. 428, RM
+
+Star City, T
+
+Melfort, CY
+
+Willow Creek No. 458, RM
+
+Connaught No. 457, RM
+
+Ridgedale, VL
+
+Arborfield No. 456, RM
+
+Zenon Park, VL
+
+Arborfield, T
+
+Moose Range No. 486, RM
+
+Tobin Lake, RV
+
+Carrot River, T
+
+Nipawin No. 487, RM
+
+Codette, VL
+
+Nipawin, T
+
+Torch River No. 488, RM
+
+White Fox, VL
+
+Love, VL
+
+Choiceland, T
+
+Smeaton, VL
+
+Shoal Lake 28A, IRI
+
+Yellowquill 90, IRI
+
+Kinistin 91, IRI
+
+Carrot River 29A, IRI
+
+Division No. 15
+
+St. Peter No. 369, RM
+
+Englefeld, VL
+
+St. Gregor, VL
+
+Muenster, VL
+
+Annaheim, VL
+
+Lake Lenore, VL
+
+Humboldt No. 370, RM
+
+Humboldt, CY
+
+Bayne No. 371, RM
+
+Bruno, T
+
+Grant No. 372, RM
+
+Prud'Homme, VL
+
+Vonda, T
+
+Aberdeen No. 373, RM
+
+Aberdeen, T
+
+Laird No. 404, RM
+
+Hepburn, VL
+
+Waldheim, T
+
+Laird, VL
+
+Rosthern No. 403, RM
+
+Rosthern, T
+
+Hague, T
+
+Fish Creek No. 402, RM
+
+Alvena, VL
+
+Hoodoo No. 401, RM
+
+Cudworth, T
+
+Wakaw, T
+
+Three Lakes No. 400, RM
+
+Pilger, VL
+
+St. Benedict, VL
+
+Middle Lake, VL
+
+Lake Lenore No. 399, RM
+
+St. Brieux, VL
+
+Flett's Springs No. 429, RM
+
+Beatty, VL
+
+Invergordon No. 430, RM
+
+Yellow Creek, VL
+
+St. Louis No. 431, RM
+
+Domremy, VL
+
+St. Louis, VL
+
+Duck Lake No. 463, RM
+
+Duck Lake, T
+
+Prince Albert No. 461, RM
+
+Prince Albert, CY
+
+Birch Hills No. 460, RM
+
+Birch Hills, T
+
+Candle Lake, RV
+
+Kinistino No. 459, RM
+
+Weldon, VL
+
+Kinistino, T
+
+Lakeland No. 521, RM
+
+Christopher Lake, VL
+
+Garden River No. 490, RM
+
+Albertville, VL
+
+Weirdale, VL
+
+Meath Park, VL
+
+Buckland No. 491, RM
+
+Paddockwood, VL
+
+Paddockwood No. 520, RM
+
+One Arrow 95, IRI
+
+Beardy's 97 and Okemasis 96, IRI
+
+Muskoday First Nation, IRI
+
+Wahpaton 94A, IRI
+
+James Smith 100, IRI
+
+Little Red River 106C, IRI
+
+Montreal Lake 106B, IRI
+
+Division No. 16
+
+Denholm, VL
+
+Maymont, VL
+
+Mayfield No. 406, RM
+
+Great Bend No. 405, RM
+
+Radisson, T
+
+Borden, VL
+
+Blaine Lake No. 434, RM
+
+Marcelin, VL
+
+Blaine Lake, T
+
+Redberry No. 435, RM
+
+Hafford, T
+
+Douglas No. 436, RM
+
+Speers, VL
+
+North Battleford No. 437, RM
+
+North Battleford, CY
+
+Round Hill No. 467, RM
+
+Rabbit Lake, VL
+
+Meeting Lake No. 466, RM
+
+Leask No. 464, RM
+
+Leask, VL
+
+Parkside, VL
+
+Shellbrook No. 493, RM
+
+Shellbrook, T
+
+Canwood No. 494, RM
+
+Canwood, VL
+
+Prince Albert National Park, NO
+
+Debden, VL
+
+Spiritwood No. 496, RM
+
+Shell Lake, VL
+
+Spiritwood, T
+
+Echo Bay, RV
+
+Leoville, VL
+
+Medstead No. 497, RM
+
+Medstead, VL
+
+Big River, T
+
+Big River No. 555, RM
+
+Chitek Lake, RV
+
+Muskeg Lake Cree Nation 102, IRI
+
+Mistawasis 103, IRI
+
+Sturgeon Lake 101, IRI
+
+Big River 118, IRI
+
+Ahtahkakoop 104, IRI
+
+Witchekan Lake 117, IRI
+
+Chitek Lake 191, IRI
+
+Witchekan Lake 117-D, IRI
+
+Division No. 17
+
+Meota No. 468, RM
+
+Cochin, RV
+
+Metinota, RV
+
+Aquadeo, RV
+
+Meota, VL
+
+Turtle River No. 469, RM
+
+Edam, VL
+
+Paynton No. 470, RM
+
+Paynton, VL
+
+Eldon No. 471, RM
+
+Maidstone, T
+
+Waseca, VL
+
+Wilton No. 472, RM
+
+Lashburn, T
+
+Marshall, VL
+
+Britannia No. 502, RM
+
+Lloydminster (Part), CY
+
+Frenchman Butte No. 501, RM
+
+Paradise Hill, VL
+
+St. Walburg, T
+
+Mervin, VL
+
+Turtleford, T
+
+Kivimaa-Moonlight Bay, RV
+
+Mervin No. 499, RM
+
+Parkdale No. 498, RM
+
+Glaslyn, VL
+
+Meadow Lake, T
+
+Meadow Lake No. 588, RM
+
+Dorintosh, VL
+
+Loon Lake No. 561, RM
+
+Makwa, VL
+
+Loon Lake, VL
+
+Beaver River No. 622, RM
+
+Goodsoil, VL
+
+Pierceland, VL
+
+Seekaskootch 119, IRI
+
+Makaoo (Part) 120, IRI
+
+Thunderchild First Nation 115B, IRI
+
+Flying Dust First Nation 105 (Meadow Lake 105), IRI
+
+Waterhen 130, IRI
+
+Makwa Lake 129B, IRI
+
+Ministikwan 161, IRI
+
+Ministikwan 161A, IRI
+
+Moosomin 112B, IRI
+
+Saulteaux 159, IRI
+
+Eagles Lake 165C, IRI
+
+Division No. 18
+
+Cumberland House, NV
+
+Green Lake, NV
+
+Cole Bay, NV
+
+Jans Bay, NV
+
+Beauval, NV
+
+La Ronge, T
+
+Air Ronge, NV
+
+Denare Beach, NV
+
+Creighton, T
+
+Flin Flon (Part), CY
+
+Pelican Narrows, NV
+
+Sandy Bay, NV
+
+Pinehouse, NV
+
+Île-à-la-Crosse, NV
+
+Patuanak, NH
+
+Buffalo Narrows, NV
+
+Michel Village, NH
+
+La Loche, NV
+
+Turnor Lake, NH
+
+Division No. 18, Unorganized, NO
+
+Stony Rapids, NH
+
+Cumberland House Cree Nation 20, IRI
+
+Montreal Lake 106, IRI
+
+Stanley 157, IRI
+
+La Plonge 192, IRI
+
+Morin Lake 217, IRI
+
+Sucker River 156C (Nemebien River 156C), IRI
+
+Kitsakie 156B, IRI
+
+Wapachewunak 192D, IRI
+
+Canoe Lake 165, IRI
+
+Buffalo River Dene Nation 193 (Peter Pond Lake 193), IRI
+
+Turnor Lake 193B, IRI
+
+Pelican Narrows 184B, IRI
+
+Southend 200, IRI
+
+Chicken 225, IRI
+
+Fond du Lac 227, IRI
+
+Chicken 224, IRI
+
+Grandmother's Bay 219, IRI
+
+Lac La Hache 220, IRI
+
+Clearwater River Dene 222, IRI
+
+Kimosom Pwatinahk 203 (Deschambault Lake), IRI
+
+Kinoosao-Thomas Clark 204, IRI
+
+Alberta
+
+Division No. 1
+
+Cypress County, MD
+
+Medicine Hat, CY
+
+Forty Mile County No. 8, CM
+
+Foremost, VL
+
+Bow Island, T
+
+Redcliff, T
+
+Division No. 2
+
+Warner County No. 5, CM
+
+Coutts, VL
+
+Milk River, T
+
+Warner, VL
+
+Raymond, T
+
+Stirling, VL
+
+Lethbridge County, CM
+
+Lethbridge, CY
+
+Coalhurst, T
+
+Nobleford, VL
+
+Barons, VL
+
+Picture Butte, T
+
+Coaldale, T
+
+Taber, MD
+
+Taber, T
+
+Barnwell, VL
+
+Vauxhall, T
+
+Newell County No. 4, CM
+
+Tilley, VL
+
+Brooks, CY
+
+Duchess, VL
+
+Rosemary, VL
+
+Bassano, T
+
+Division No. 3
+
+Cardston County, MD
+
+Magrath, T
+
+Improvement District No. 4, ID
+
+Cardston, T
+
+Glenwood, VL
+
+Hillspring, VL
+
+Pincher Creek No. 9, MD
+
+Pincher Creek, T
+
+Cowley, VL
+
+Willow Creek No. 26, MD
+
+Fort Macleod, T
+
+Granum, T
+
+Claresholm, T
+
+Stavely, T
+
+Nanton, T
+
+Piikani 147, IRI
+
+Blood 148, IRI
+
+Division No. 4
+
+Acadia No. 34, MD
+
+Special Area No. 2, SA
+
+Empress, VL
+
+Hanna, T
+
+Special Area No. 3, SA
+
+Oyen, T
+
+Cereal, VL
+
+Youngstown, VL
+
+Special Area No. 4, SA
+
+Veteran, VL
+
+Consort, VL
+
+Division No. 5
+
+Vulcan County, CM
+
+Carmangay, VL
+
+Champion, VL
+
+Vulcan, T
+
+Lomond, VL
+
+Milo, VL
+
+Arrowwood, VL
+
+Wheatland County, CM
+
+Strathmore, T
+
+Hussar, VL
+
+Standard, VL
+
+Rockyford, VL
+
+Drumheller, T
+
+Starland County, MD
+
+Delia, VL
+
+Munson, VL
+
+Morrin, VL
+
+Kneehill County, MD
+
+Carbon, VL
+
+Acme, VL
+
+Linden, VL
+
+Three Hills, T
+
+Trochu, T
+
+Siksika 146, IRI
+
+Division No. 6
+
+Foothills No. 31, MD
+
+High River, T
+
+Longview, VL
+
+Turner Valley, T
+
+Black Diamond, T
+
+Okotoks, T
+
+Rocky View No. 44, MD
+
+Calgary, CY
+
+Chestermere, T
+
+Cochrane, T
+
+Airdrie, CY
+
+Beiseker, VL
+
+Crossfield, T
+
+Mountain View County, CM
+
+Carstairs, T
+
+Cremona, VL
+
+Didsbury, T
+
+Olds, T
+
+Sundre, T
+
+Eden Valley 216, IRI
+
+Division No. 7
+
+Provost No. 52, MD
+
+Provost, T
+
+Czar, VL
+
+Hughenden, VL
+
+Amisk, VL
+
+Paintearth County No. 18, CM
+
+Coronation, T
+
+Castor, T
+
+Halkirk, VL
+
+Stettler County No. 6, CM
+
+Big Valley, VL
+
+Botha, VL
+
+Stettler, T
+
+Rochon Sands, SV
+
+Donalda, VL
+
+Flagstaff County, CM
+
+Alliance, VL
+
+Galahad, VL
+
+Forestburg, VL
+
+Heisler, VL
+
+Daysland, T
+
+Strome, VL
+
+Killam, T
+
+Sedgewick, T
+
+Lougheed, VL
+
+Hardisty, T
+
+Wainwright No. 61, MD
+
+Chauvin, VL
+
+Edgerton, VL
+
+Wainwright, T
+
+Irma, VL
+
+Division No. 8
+
+Red Deer County, CM
+
+Elnora, VL
+
+Delburne, VL
+
+Jarvis Bay, SV
+
+Bowden, T
+
+Innisfail, T
+
+Penhold, T
+
+Red Deer, CY
+
+Sylvan Lake, T
+
+Norglenwold, SV
+
+Lacombe County, CM
+
+Birchcliff, SV
+
+Eckville, T
+
+Bentley, T
+
+Gull Lake, SV
+
+Blackfalds, T
+
+Lacombe, T
+
+Clive, VL
+
+Alix, VL
+
+Ponoka County, CM
+
+Ponoka, T
+
+Parkland Beach, SV
+
+Rimbey, T
+
+Samson 137, IRI
+
+Montana 139, IRI
+
+Division No. 9
+
+Clearwater County, MD
+
+Caroline, VL
+
+Rocky Mountain House, T
+
+O'Chiese 203, IRI
+
+Sunchild 202, IRI
+
+Big Horn 144A, IRI
+
+Division No. 10
+
+Camrose County No. 22, CM
+
+Bashaw, T
+
+Rosalind, VL
+
+Ferintosh, VL
+
+Edberg, VL
+
+New Norway, VL
+
+Bawlf, VL
+
+Camrose, CY
+
+Bittern Lake, VL
+
+Hay Lakes, VL
+
+Beaver County, CM
+
+Tofield, T
+
+Ryley, VL
+
+Holden, VL
+
+Viking, T
+
+Minburn County No. 27, CM
+
+Vegreville, T
+
+Innisfree, VL
+
+Minburn, VL
+
+Mannville, VL
+
+Vermilion River County No. 24, CM
+
+Paradise Valley, VL
+
+Lloydminster (Part), CY
+
+Kitscoty, VL
+
+Vermilion, T
+
+Marwayne, VL
+
+Dewberry, VL
+
+Two Hills County No. 21, CM
+
+Derwent, VL
+
+Myrnam, VL
+
+Two Hills, T
+
+Willingdon, VL
+
+Lamont County, CM
+
+Andrew, VL
+
+Mundare, T
+
+Chipman, VL
+
+Lamont, T
+
+Bruderheim, T
+
+Division No. 11
+
+Wetaskiwin County No. 10, CM
+
+Wetaskiwin, CY
+
+Grandview, SV
+
+Poplar Bay, SV
+
+Ma-Me-O Beach, SV
+
+Silver Beach, SV
+
+Millet, T
+
+Leduc County, CM
+
+Beaumont, T
+
+New Sarepta, VL
+
+Leduc, CY
+
+Devon, T
+
+Calmar, T
+
+Thorsby, VL
+
+Golden Days, SV
+
+Warburg, VL
+
+Breton, VL
+
+Drayton Valley, T
+
+Brazeau County, MD
+
+Parkland County, CM
+
+Seba Beach, SV
+
+Wabamun, VL
+
+Spring Lake, VL
+
+Stony Plain, T
+
+Spruce Grove, CY
+
+Strathcona County, SM
+
+Fort Saskatchewan, CY
+
+Sturgeon County, MD
+
+Edmonton, CY
+
+St. Albert, CY
+
+Gibbons, T
+
+Redwater, T
+
+Bon Accord, T
+
+Morinville, T
+
+Legal, T
+
+Ermineskin 138, IRI
+
+Pigeon Lake 138A, IRI
+
+Louis Bull 138B, IRI
+
+Alexander 134, IRI
+
+Wabamun 133A, IRI
+
+Division No. 12
+
+Cold Lake, CY
+
+Bonnyville No. 87, MD
+
+Lakeland County, MD
+
+Bonnyville, T
+
+Glendon, VL
+
+Pelican Narrows, SV
+
+St. Paul County No. 19, CM
+
+Elk Point, T
+
+St. Paul, T
+
+Horseshoe Bay, SV
+
+Smoky Lake County, CM
+
+Vilna, VL
+
+Waskatenau, VL
+
+Smoky Lake, T
+
+Lac la Biche, T
+
+Unipouheos 121, IRI
+
+Puskiakiwenin 122, IRI
+
+White Fish Lake 128, IRI
+
+Cold Lake 149, IRI
+
+Kehewin 123, IRI
+
+Cold Lake 149A, IRI
+
+Cold Lake 149B, IRI
+
+Beaver Lake 131, IRI
+
+Division No. 13
+
+Lac Ste. Anne County, MD
+
+Mayerthorpe, T
+
+Sangudo, VL
+
+Val Quentin, SV
+
+West Cove, SV
+
+Yellowstone, SV
+
+Ross Haven, SV
+
+Alberta Beach, VL
+
+Onoway, T
+
+South View, SV
+
+Sandy Beach, SV
+
+Sunrise Beach, SV
+
+Barrhead County No. 11, CM
+
+Barrhead, T
+
+Westlock County, MD
+
+Woodlands County, MD
+
+Whitecourt, T
+
+Westlock, T
+
+Clyde, VL
+
+Thorhild County No. 7, CM
+
+Thorhild, VL
+
+Athabasca County No. 12, CM
+
+Mewatha Beach, SV
+
+Boyle, VL
+
+Sunset Beach, SV
+
+Athabasca, T
+
+Bondiss, SV
+
+South Baptiste, SV
+
+Whispering Hills, SV
+
+Alexis 133, IRI
+
+Division No. 14
+
+Yellowhead County, MD
+
+Hinton, T
+
+Edson, T
+
+Division No. 15
+
+Crowsnest Pass, T
+
+Kananaskis, ID
+
+Bighorn No. 8, MD
+
+Canmore, T
+
+Improvement District No. 9, ID
+
+Jasper, SM
+
+Banff, T
+
+Ranchland No. 66, MD
+
+Stoney 142, 143, 144, IRI
+
+Division No. 16
+
+Wood Buffalo, RGM
+
+Janvier 194, IRI
+
+Gregoire Lake 176, IRI
+
+Gregoire Lake 176A, IRI
+
+Fort Mackay, S-É
+
+Division No. 17
+
+High Prairie, T
+
+Swan Hills, T
+
+Northern Sunrise County, MD
+
+Big Lakes, MD
+
+Kinuso, VL
+
+Slave Lake, T
+
+Opportunity No. 17, MD
+
+Lesser Slave River No.124, MD
+
+Nampa, VL
+
+Clear Hills No. 21, MD
+
+Hines Creek, VL
+
+Northern Lights No. 22, MD
+
+Manning, T
+
+High Level, T
+
+Mackenzie No. 23, MD
+
+Rainbow Lake, T
+
+Jean Baptiste Gambler 183, IRI
+
+Wabasca 166, IRI
+
+Wabasca 166A, IRI
+
+Wabasca 166B, IRI
+
+Wabasca 166C, IRI
+
+Wabasca 166D, IRI
+
+Utikoomak Lake 155, IRI
+
+Utikoomak Lake 155A, IRI
+
+Drift Pile River 150, IRI
+
+Sucker Creek 150A, IRI
+
+Swan River 150E, IRI
+
+Sawridge 150G, IRI
+
+Fox Lake 162, IRI
+
+John d'Or Prairie 215, IRI
+
+Tall Cree 173A, IRI
+
+Child Lake 164A, IRI
+
+Hay Lake 209, IRI
+
+Bushe River 207, IRI
+
+Upper Hay River 212, IRI
+
+Woodland Cree 226, IRI
+
+Woodland Cree 228, IRI
+
+Loon Lake 235, IRI
+
+Division No. 18
+
+Fox Creek, T
+
+Grande Cache, T
+
+Greenview No. 16, MD
+
+Valleyview, T
+
+Sturgeon Lake 154, IRI
+
+Division No. 19
+
+Grande Prairie County No. 1, CM
+
+Hythe, VL
+
+Beaverlodge, T
+
+Wembley, T
+
+Grande Prairie, CY
+
+Sexsmith, T
+
+Peace River, T
+
+McLennan, T
+
+Donnelly, VL
+
+Falher, T
+
+Girouxville, VL
+
+Birch Hills County, MD
+
+Spirit River No. 133, MD
+
+Rycroft, VL
+
+Spirit River, T
+
+Saddle Hills County, MD
+
+Fairview No. 136, MD
+
+Fairview, T
+
+Peace No. 135, MD
+
+Berwyn, VL
+
+Grimshaw, T
+
+Horse Lakes 152B, IRI
+
+British Columbia / Colombie-Britannique
+
+East Kootenay
+
+Elkford, DM
+
+Sparwood, DM
+
+Fernie, CY
+
+East Kootenay A, RDA
+
+East Kootenay B, RDA
+
+Cranbrook, CY
+
+Kimberley, CY
+
+East Kootenay C, RDA
+
+East Kootenay E, RDA
+
+Invermere, DM
+
+Radium Hot Springs, VL
+
+Canal Flats, VL
+
+East Kootenay F, RDA
+
+East Kootenay G, RDA
+
+Tobacco Plains 2, IRI
+
+Kootenay 1, IRI
+
+Columbia Lake 3, IRI
+
+Shuswap, IRI
+
+Central Kootenay
+
+Creston, T
+
+Central Kootenay A, RDA
+
+Salmo, VL
+
+Central Kootenay B, RDA
+
+Nelson, CY
+
+Central Kootenay C, RDA
+
+Slocan, VL
+
+Kaslo, VL
+
+Silverton, VL
+
+New Denver, VL
+
+Central Kootenay D, RDA
+
+Central Kootenay E, RDA
+
+Central Kootenay F, RDA
+
+Castlegar, CY
+
+Central Kootenay G, RDA
+
+Nakusp, VL
+
+Central Kootenay H, RDA
+
+Central Kootenay I, RDA
+
+Central Kootenay J, RDA
+
+Central Kootenay K, RDA
+
+Creston 1, IRI
+
+Kootenay Boundary
+
+Fruitvale, VL
+
+Montrose, VL
+
+Trail, CY
+
+Warfield, VL
+
+Rossland, CY
+
+Kootenay Boundary A, RDA
+
+Kootenay Boundary B, RDA
+
+Grand Forks, CY
+
+Midway, VL
+
+Greenwood, CY
+
+Kootenay Boundary C, RDA
+
+Kootenay Boundary D, RDA
+
+Kootenay Boundary E, RDA
+
+Okanagan-Similkameen
+
+Osoyoos, T
+
+Keremeos, VL
+
+Oliver, T
+
+Okanagan-Similkameen A, RDA
+
+Princeton, T
+
+Okanagan-Similkameen B, RDA
+
+Okanagan-Similkameen C, RDA
+
+Summerland, DM
+
+Penticton, CY
+
+Okanagan-Similkameen D, RDA
+
+Okanagan-Similkameen E, RDA
+
+Okanagan-Similkameen F, RDA
+
+Okanagan-Similkameen G, RDA
+
+Okanagan-Similkameen H, RDA
+
+Lower Similkameen 2, IRI
+
+Osoyoos 1, IRI
+
+Penticton 1, IRI
+
+Chopaka 7 & 8, IRI
+
+Chuchuwayha 2, IRI
+
+Fraser Valley
+
+Hope, DM
+
+Fraser Valley A, RDA
+
+Fraser Valley B, RDA
+
+Chilliwack, CY
+
+Harrison Hot Springs, VL
+
+Kent, DM
+
+Fraser Valley D, RDA
+
+Fraser Valley E, RDA
+
+Fraser Valley C, RDA
+
+Abbotsford, CY
+
+Mission, DM
+
+Fraser Valley F, RDA
+
+Fraser Valley G, RDA
+
+Fraser Valley H, RDA
+
+Chawathil 4, IRI
+
+Ohamil 1, IRI
+
+Schkam 2, IRI
+
+Kahmoose 4, IRI
+
+Kwawkwawapilt 6, IRI
+
+Skowkale 10, IRI
+
+Skowkale 11, IRI
+
+Skwah 4, IRI
+
+Skway 5, IRI
+
+Soowahlie 14, IRI
+
+Squiaala 7, IRI
+
+Tzeachten 13, IRI
+
+Seabird Island, IRI
+
+Cheam 1, IRI
+
+Chehalis 5, IRI
+
+Peters 1, IRI
+
+Skookumchuck 4, IRI
+
+Baptiste Smith 1B, IRI
+
+Matsqui Main 2, IRI
+
+Holachten 8, IRI
+
+Lakahahmen 11, IRI
+
+Squawkum Creek 3, IRI
+
+Greater Vancouver
+
+Langley, DM
+
+Langley, CY
+
+Surrey, CY
+
+White Rock, CY
+
+Delta, DM
+
+Richmond, CY
+
+Greater Vancouver A, RDA
+
+Vancouver, CY
+
+Burnaby, CY
+
+New Westminster, CY
+
+Coquitlam, CY
+
+Belcarra, VL
+
+Anmore, VL
+
+Port Coquitlam, CY
+
+Port Moody, CY
+
+North Vancouver, DM
+
+North Vancouver, CY
+
+West Vancouver, DM
+
+Bowen Island, IM
+
+Lions Bay, VL
+
+Pitt Meadows, DM
+
+Maple Ridge, DM
+
+Semiahmoo, IRI
+
+Tsawwassen, IRI
+
+Musqueam 2, IRI
+
+Mission 1, IRI
+
+Capilano 5, IRI
+
+Barnston Island 3, IRI
+
+Seymour Creek 2, IRI
+
+McMillan Island 6, IRI
+
+Matsqui 4, IRI
+
+Katzie 1, IRI
+
+Capital
+
+North Saanich, DM
+
+Sidney, T
+
+Central Saanich, DM
+
+Saanich, DM
+
+Capital F, RDA
+
+Capital G, RDA
+
+Oak Bay, DM
+
+Victoria, CY
+
+Esquimalt, DM
+
+Colwood, CY
+
+Metchosin, DM
+
+Langford, CY
+
+View Royal, T
+
+Highlands, DM
+
+Sooke, DM
+
+Capital H (Part 1), RDA
+
+East Saanich 2, IRI
+
+Becher Bay 1, IRI
+
+Gordon River 2, IRI
+
+T'Sou-ke 1 (Sooke 1), IRI
+
+T'Sou-ke 2 (Sooke 2), IRI
+
+Cowichan Valley
+
+North Cowichan, DM
+
+Duncan, CY
+
+Cowichan Valley D, RDA
+
+Cowichan Valley G, RDA
+
+Lake Cowichan, T
+
+Cowichan Valley H, RDA
+
+Ladysmith, T
+
+Cowichan Valley F, RDA
+
+Cowichan Valley I, RDA
+
+Cowichan Valley A, RDA
+
+Cowichan Valley B, RDA
+
+Cowichan Valley C, RDA
+
+Cowichan Valley E, RDA
+
+Halalt 2, IRI
+
+Tsussie 6, IRI
+
+Chemainus 13, IRI
+
+Cowichan 1, IRI
+
+Malachan 11, IRI
+
+Malahat 11, IRI
+
+Theik 2, IRI
+
+Nanaimo
+
+Nanaimo, CY
+
+Lantzville, DM
+
+Nanaimo A, RDA
+
+Nanaimo B, RDA
+
+Nanaimo C, RDA
+
+Parksville, CY
+
+Qualicum Beach, T
+
+Nanaimo E, RDA
+
+Nanaimo F, RDA
+
+Nanaimo G, RDA
+
+Nanaimo H, RDA
+
+Nanaimo River 4, IRI
+
+Nanoose, IRI
+
+Alberni-Clayoquot
+
+Port Alberni, CY
+
+Ucluelet, DM
+
+Tofino, DM
+
+Alberni-Clayoquot B, RDA
+
+Alberni-Clayoquot D, RDA
+
+Alberni-Clayoquot E, RDA
+
+Alberni-Clayoquot F, RDA
+
+Alberni-Clayoquot A, RDA
+
+Alberni-Clayoquot C, RDA
+
+Ahahswinis 1, IRI
+
+Ittatsoo 1, IRI
+
+Opitsat 1, IRI
+
+Tsahaheh 1, IRI
+
+Esowista 3, IRI
+
+Refuge Cove 6, IRI
+
+Comox-Strathcona
+
+Comox, T
+
+Courtenay, CY
+
+Cumberland, VL
+
+Comox-Strathcona A, RDA
+
+Comox-Strathcona K, RDA
+
+Comox-Strathcona B, RDA
+
+Comox-Strathcona C, RDA
+
+Gold River, VL
+
+Zeballos, VL
+
+Tahsis, VL
+
+Campbell River, CY
+
+Sayward, VL
+
+Comox-Strathcona D, RDA
+
+Comox-Strathcona H, RDA
+
+Comox-Strathcona G, RDA
+
+Comox-Strathcona I, RDA
+
+Comox-Strathcona J, RDA
+
+Comox 1, IRI
+
+Campbell River 11, IRI
+
+Quinsam 12, IRI
+
+Cape Mudge 10, IRI
+
+Tork 7, IRI
+
+Ehatis 11, IRI
+
+Homalco 9, IRI
+
+Powell River
+
+Powell River, CY
+
+Powell River A, RDA
+
+Powell River B, RDA
+
+Powell River C, RDA
+
+Powell River D, RDA
+
+Powell River E, RDA
+
+Sunshine Coast
+
+Gibsons, T
+
+Sechelt, DM
+
+Sunshine Coast A, RDA
+
+Sunshine Coast B, RDA
+
+Sunshine Coast D, RDA
+
+Sunshine Coast E, RDA
+
+Sunshine Coast F, RDA
+
+Sechelt (Part), IGD
+
+Squamish-Lillooet
+
+Squamish, DM
+
+Pemberton, VL
+
+Squamish-Lillooet C, RDA
+
+Whistler, DM
+
+Squamish-Lillooet D, RDA
+
+Lillooet, DM
+
+Squamish-Lillooet A, RDA
+
+Squamish-Lillooet B, RDA
+
+Cheakamus 11, IRI
+
+Mount Currie 10, IRI
+
+Stawamus 24, IRI
+
+Waiwakum 14, IRI
+
+Nesuch 3, IRI
+
+Bridge River 1, IRI
+
+Chilhil 6, IRI
+
+Fountain 1, IRI
+
+Lillooet 1, IRI
+
+Mount Currie 6, IRI
+
+Thompson-Nicola
+
+Merritt, CY
+
+Thompson-Nicola M, RDA
+
+Thompson-Nicola N, RDA
+
+Lytton, VL
+
+Ashcroft, VL
+
+Cache Creek, VL
+
+Clinton, VL
+
+Thompson-Nicola E (Bonaparte Plateau), RDA
+
+Logan Lake, DM
+
+Thompson-Nicola J (Copper Desert Country), RDA
+
+Kamloops, CY
+
+Thompson-Nicola P (Rivers and the Peaks), RDA
+
+Chase, VL
+
+Thompson-Nicola L, RDA
+
+Thompson-Nicola A (Wells Gray Country), RDA
+
+Thompson-Nicola B (Thompson Headwaters), RDA
+
+Thompson-Nicola O (Lower North Thompson), RDA
+
+Coldwater 1, IRI
+
+Joeyaska 2, IRI
+
+Nicola Mameet 1, IRI
+
+Nooaitch 10, IRI
+
+Bonaparte 3, IRI
+
+Canoe Creek 1, IRI
+
+Kanaka Bar 1A, IRI
+
+Klahkamich 17, IRI
+
+Klickkumcheen 18, IRI
+
+Lower Hat Creek 2, IRI
+
+Ashcroft 4, IRI
+
+Nicomen 1, IRI
+
+Nuuautin 2, IRI
+
+Shackan 11, IRI
+
+Siska Flat 3, IRI
+
+Marble Canyon 3, IRI
+
+Upper Hat Creek 1, IRI
+
+Whispering Pines 4, IRI
+
+Kamloops 1, IRI
+
+Neskonlith 1 (Neskainlith 1), IRI
+
+North Thompson 1, IRI
+
+Central Okanagan
+
+Kelowna, CY
+
+Central Okanagan, RDA
+
+Lake Country, DM
+
+Peachland, DM
+
+Central Okanagan J, RDA
+
+Duck Lake 7, IRI
+
+Tsinstikeptum 9, IRI
+
+Tsinstikeptum 10, IRI
+
+North Okanagan
+
+Lumby, VL
+
+Coldstream, DM
+
+Vernon, CY
+
+North Okanagan B, RDA
+
+North Okanagan C, RDA
+
+North Okanagan D, RDA
+
+North Okanagan E, RDA
+
+Spallumcheen, DM
+
+Armstrong, CY
+
+Enderby, CY
+
+North Okanagan F, RDA
+
+Okanagan (Part) 1, IRI
+
+Enderby 2, IRI
+
+Priest's Valley 6, IRI
+
+Columbia-Shuswap
+
+Golden, T
+
+Columbia-Shuswap A, RDA
+
+Revelstoke, CY
+
+Salmon Arm, CY
+
+Columbia-Shuswap C, RDA
+
+Columbia-Shuswap D, RDA
+
+Columbia-Shuswap E, RDA
+
+Sicamous, DM
+
+North Bay 5, IRI
+
+Okanagan (Part) 1, IRI
+
+Quaaout 1, IRI
+
+Salmon River 1, IRI
+
+Switsemalph 3, IRI
+
+Cariboo
+
+One Hundred Mile House, DM
+
+Williams Lake, CY
+
+Cariboo D, RDA
+
+Cariboo E, RDA
+
+Quesnel, CY
+
+Cariboo F, RDA
+
+Cariboo G, RDA
+
+Cariboo H, RDA
+
+Cariboo L, RDA
+
+Cariboo A, RDA
+
+Cariboo B, RDA
+
+Wells, DM
+
+Cariboo C, RDA
+
+Cariboo I, RDA
+
+Cariboo J, RDA
+
+Cariboo K, RDA
+
+Alkali Lake 1, IRI
+
+Canim Lake 1, IRI
+
+Canoe Creek 3, IRI
+
+Dog Creek 1, IRI
+
+Dog Creek 2, IRI
+
+Lohbiee 3, IRI
+
+Soda Creek 1, IRI
+
+Anahim's Flat 1, IRI
+
+Chilco Lake 1A, IRI
+
+Squinas 2, IRI
+
+Ulkatcho 14A, IRI
+
+Mount Waddington
+
+Alert Bay, VL
+
+Port McNeill, T
+
+Port Alice, VL
+
+Port Hardy, DM
+
+Mount Waddington B, RDA
+
+Mount Waddington C, RDA
+
+Mount Waddington D, RDA
+
+Mount Waddington A, RDA
+
+Tsulquate 4, IRI
+
+Kippase 2, IRI
+
+Quatsino Subdivision 18, IRI
+
+Central Coast
+
+Central Coast A, RDA
+
+Central Coast C, RDA
+
+Central Coast D, RDA
+
+Central Coast E, RDA
+
+Bella Bella 1, IRI
+
+Katit 1, IRI
+
+Skeena-Queen Charlotte
+
+Port Edward, DM
+
+Prince Rupert, CY
+
+Skeena-Queen Charlotte A, RDA
+
+Masset, VL
+
+Queen Charlotte, VL
+
+Skeena-Queen Charlotte D, RDA
+
+Port Clements, VL
+
+Skeena-Queen Charlotte E, RDA
+
+Masset 1, IRI
+
+Skidegate 1, IRI
+
+Kulkayu (Hartley Bay) 4, IRI
+
+Dolphin Island 1, IRI
+
+S1/2 Tsimpsean 2, IRI
+
+Kitimat-Stikine
+
+Kitimat, DM
+
+Terrace, CY
+
+Kitimat-Stikine C (Part 1), RDA
+
+Kitimat-Stikine E, RDA
+
+Hazelton, VL
+
+New Hazelton, DM
+
+Kitimat-Stikine B, RDA
+
+Stewart, DM
+
+Kitasoo 1, IRI
+
+Kitsumkaylum 1, IRI
+
+Kulspai 6, IRI
+
+Coryatsaqua (Moricetown) 2, IRI
+
+Hagwilget 1, IRI
+
+Gitanmaax 1, IRI
+
+Kispiox 1, IRI
+
+Gitsegukla 1, IRI
+
+Gitanyow 1, IRI
+
+Gitwangak 1, IRI
+
+Moricetown 1, IRI
+
+Sik-e-dakh 2, IRI
+
+Babine 17, IRI
+
+Iskut 6, IRI
+
+New Aiyansh, NVL
+
+Gitwinksihlkw, NVL
+
+Gingolx, NVL
+
+Guhthe Tah 12, IRI
+
+Bulkley-Nechako
+
+Vanderhoof, DM
+
+Fraser Lake, VL
+
+Fort St. James, DM
+
+Bulkley-Nechako C, RDA
+
+Bulkley-Nechako D, RDA
+
+Bulkley-Nechako F, RDA
+
+Burns Lake, VL
+
+Bulkley-Nechako B, RDA
+
+Bulkley-Nechako E, RDA
+
+Granisle, VL
+
+Houston, DM
+
+Telkwa, VL
+
+Smithers, T
+
+Bulkley-Nechako A, RDA
+
+Bulkley-Nechako G, RDA
+
+Nautley (Fort Fraser) 1, IRI
+
+Nak'azdli (Necoslie 1), IRI
+
+Binche 2 (Pinchie 2), IRI
+
+Stellaquo (Stella) 1, IRI
+
+Stony Creek 1, IRI
+
+Tache 1, IRI
+
+Burns Lake 18, IRI
+
+Cheslatta 1, IRI
+
+Palling 1, IRI
+
+Woyenne 27, IRI
+
+Babine 6, IRI
+
+Babine 25, IRI
+
+Fraser-Fort George
+
+Valemount, VL
+
+McBride, VL
+
+Fraser-Fort George H, RDA
+
+Prince George, CY
+
+Mackenzie, DM
+
+Fraser-Fort George A, RDA
+
+Fraser-Fort George C, RDA
+
+Fraser-Fort George D, RDA
+
+Fraser-Fort George E, RDA
+
+Fraser-Fort George F, RDA
+
+Fraser-Fort George G, RDA
+
+Fort George (Shelley) 2, IRI
+
+McLeod Lake 1, IRI
+
+Peace River
+
+Tumbler Ridge, DM
+
+Pouce Coupe, VL
+
+Chetwynd, DM
+
+Dawson Creek, CY
+
+Peace River D, RDA
+
+Peace River E, RDA
+
+Hudson's Hope, DM
+
+Taylor, DM
+
+Fort St. John, CY
+
+Peace River B, RDA
+
+Peace River C, RDA
+
+West Moberly Lake 168A, IRI
+
+Blueberry River 205, IRI
+
+Doig River 206, IRI
+
+Fort Ware 1, IRI
+
+Stikine
+
+Stikine Region, RDA
+
+Dease Lake 9, IRI
+
+Unnamed 10, IRI
+
+Five Mile Point 3, IRI
+
+Lower Post, S-É
+
+Northern Rockies
+
+Fort Nelson, T
+
+Northern Rockies A, RDA
+
+Northern Rockies B, RDA
+
+Fort Nelson 2, IRI
+
+Yukon Territory / Territoire du Yukon
+
+Yukon
+
+Watson Lake, T
+
+Faro, T
+
+Teslin, VL
+
+Teslin Post 13, IRI
+
+Whitehorse, CY
+
+Carmacks, VL
+
+Haines Junction, VL
+
+Mayo, VL
+
+Dawson, T
+
+Upper Liard, SÉ
+
+Two Mile Village, S-É
+
+Two and One-Half Mile Village, S-É
+
+Tagish, SÉ
+
+Ross River, SÉ
+
+Burwash Landing, SÉ
+
+Pelly Crossing, SÉ
+
+Beaver Creek, SÉ
+
+Old Crow, SÉ
+
+Mt. Lorne, HAM
+
+Yukon, Unorganized, NO
+
+Carcross, SÉ
+
+Destruction Bay, SÉ
+
+Ibex Valley, HAM
+
+Whitehorse, Unorganized, NO
+
+Northwest Territories / Territoires du Nord-Ouest
+
+Fort Smith
+
+Fort Smith, T
+
+Enterprise, SET
+
+Kakisa, SET
+
+Trout Lake, SET
+
+Fort Liard, HAM
+
+Nahanni Butte, SET
+
+Jean Marie River, SET
+
+Fort Providence, HAM
+
+Hay River, T
+
+Hay River Dene 1, IRI
+
+Fort Resolution, SET
+
+Lutselk'e, SET
+
+Detah, SET
+
+Yellowknife, CY
+
+Behchokò, CG
+
+Whatì, CG
+
+Fort Simpson, VL
+
+Wrigley, SET
+
+Gamètì, CG
+
+Wekweètì, CG
+
+Fort Smith, Unorganized, NO
+
+Inuvik
+
+Déline, CC
+
+Tulita, HAM
+
+Norman Wells, T
+
+Fort Good Hope, CC
+
+Tsiigehtchic, CC
+
+Colville Lake, SET
+
+Paulatuk, HAM
+
+Fort McPherson, HAM
+
+Inuvik, T
+
+Aklavik, HAM
+
+Tuktoyaktuk, HAM
+
+Sachs Harbour, HAM
+
+Holman, HAM
+
+Nunavut
+
+Baffin
+
+Sanikiluaq, HAM
+
+Iqaluit, CY
+
+Kimmirut, HAM
+
+Cape Dorset, HAM
+
+Pangnirtung, HAM
+
+Qikiqtarjuaq, HAM
+
+Hall Beach, HAM
+
+Igloolik, HAM
+
+Clyde River, HAM
+
+Arctic Bay, HAM
+
+Pond Inlet, HAM
+
+Resolute, HAM
+
+Grise Fiord, HAM
+
+Keewatin
+
+Coral Harbour, HAM
+
+Arviat, HAM
+
+Whale Cove, HAM
+
+Rankin Inlet, HAM
+
+Chesterfield Inlet, HAM
+
+Baker Lake, HAM
+
+Repulse Bay, HAM
+
+Kitikmeot
+
+Kugaaruk, HAM
+
+Kugluktuk, HAM
+
+Cambridge Bay, HAM
+
+Gjoa Haven, HAM
+
+Taloyoak, HAM
+
+
+
+
+
+					
+					 
+				 
+			 
+
+			
+				
+					
+						Secondary menu
+						 
+							
+							Census
+							
+								2006 Census
+								
+								By topic
+								Data products
+								Analytical products
+								Reference materials
+								Geography
+								Consultation
+								Custom services
+								Census of Agriculture
+								Corrections/Updates
+								
+							
+							
+								Previous censuses
+								
+								ARCHIVED - 2001 Census of Population
+								ARCHIVED - 1996 Census of Population
+								
+							
+							
+								Future censuses
+								
+								2016 Consultation
+								Reports 
+								
+							
+							
+								Other links
+								
+								My StatCan
+								Open data
+								
+							
+							 
+						 
+					
+				  
+			 			
+			
+		 
+	 
+	
+
+	
+		
+			
+				
+				Footer
+				
+				
+					
+					Date Modified:
+					2014-07-18
+					
+					Top of Page
+					
+						
+						Important Notices
+						
+					 
+				 
+				 
+			
+		 
+	 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+	
