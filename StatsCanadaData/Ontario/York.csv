@@ -1,0 +1,952 @@
+"Selected Demographic, Cultural, Educational, Labour Force and Income Characteristics (830), Mother Tongue (4), Age Groups (8A) and Sex (3) for the Population of Canada, Provinces, Territories, Census Divisions and Census Subdivisions, 2006 Census - 20% Sample Data"
+"Geography = York"
+"Age groups (8A) = Total - Age groups"
+"Sex (3) = Total - Sex"
+"Selected demographic, cultural, educational, labour force and income characteristics (830)","Total - Mother tongue [1]","  English","  French","  English and French", 
+"Total population by age groups [2]",887345,487610,8320,1520 
+"  0 to 4 years",53125,37850,295,120 
+"  5 to 9 years",58600,43670,350,165 
+"  10 to 14 years",66070,47250,390,200 
+"  15 to 19 years",67625,45950,320,135 
+"  20 to 24 years",58785,36795,270,125 
+"  25 to 29 years",50160,28025,380,120 
+"  30 to 34 years",57240,29910,605,85 
+"  35 to 39 years",69875,33665,895,85 
+"  40 to 44 years",81125,37785,935,85 
+"  45 to 49 years",77720,37100,920,125 
+"  50 to 54 years",65790,30140,755,70 
+"  55 to 59 years",56125,25420,640,80 
+"  60 to 64 years",37385,16885,595,40 
+"  65 to 69 years",29450,11325,405,30 
+"  70 to 74 years",23275,9235,280,35 
+"  75 to 79 years",17360,7530,155,15 
+"  80 to 84 years",10790,5290,95,10 
+"  85 years and over",6835,3795,35,10 
+"Median age [3]",37.3,30.7,43.7,26.2 
+"Total population 15 years and over by legal marital status [4]",709555,358845,7280,1030 
+"  Never legally married (single)",205680,132075,1480,445 
+"  Legally married (and not separated) [5]",423940,183075,4675,470 
+"  Separated, but still legally married",16515,9800,200,25 
+"  Divorced",32925,20140,595,85 
+"  Widowed",30495,13755,325,10 
+"Total population 15 years and over by common-law status [6]",709555,358845,7275,1035 
+"  Not in a common-law relationship",683070,340210,6565,960 
+"  In a common-law relationship",26485,18635,715,70 
+"Total population by knowledge of official languages [7]",887350,487610,8320,1515 
+"  English only",787140,452345,705,295 
+"  French only",580,25,275,10 
+"  English and French",64320,34800,7305,1215 
+"  Neither English nor French",35305,445,30,10 
+"Total population by first official language spoken [8]",887350,487610,8315,1520 
+"  English",836165,487585,705,1070 
+"  French",8235,25,7615,55 
+"  English and French",8245,0,0,390 
+"  Neither English nor French",34705,0,0,0 
+"Official language minority - (number) [9]",12355,30,7615,255 
+"Official language minority - (percentage) [10]",1.4,0.0,91.6,16.8 
+"Total population by language spoken most often at home [11]",887345,487610,8315,1520 
+"  Single responses",858570,481030,7910,1060 
+"    English",619165,472130,5120,875 
+"    French",2970,160,2510,50 
+"    Non-official languages",236435,8740,280,135 
+"      Algonquin",0,0,0,0 
+"      Atikamekw",0,0,0,0 
+"      Blackfoot",0,0,0,0 
+"      Carrier",0,0,0,0 
+"      Chilcotin",0,0,0,0 
+"      Chipewyan",0,0,0,0 
+"      Cree",0,0,0,0 
+"      Siouan languages (Dakota/Sioux)",0,0,0,0 
+"      Dene",0,0,0,0 
+"      Dogrib",0,0,0,0 
+"      Gitksan",0,0,0,0 
+"      Inuinnaqtun",0,0,0,0 
+"      Inuktitut, n.i.e.",0,0,0,0 
+"      Kutchin-Gwich'in (Loucheux)",0,0,0,0 
+"      Malecite",0,0,0,0 
+"      Mi'kmaq",0,0,0,0 
+"      Mohawk",0,0,0,0 
+"      Montagnais-Naskapi",0,0,0,0 
+"      Nisga'a",0,0,0,0 
+"      North Slave (Hare)",0,0,0,0 
+"      Ojibway",0,0,0,0 
+"      Oji-Cree",0,0,0,0 
+"      Shuswap",0,0,0,0 
+"      South Slave",0,0,0,0 
+"      Tlingit",0,0,0,0 
+"      Italian",19975,675,25,0 
+"      Portuguese",2335,75,15,0 
+"      Romanian",3210,70,10,0 
+"      Spanish",5935,175,0,0 
+"      Danish",55,0,0,0 
+"      Dutch",105,0,0,10 
+"      Flemish",0,0,0,0 
+"      Frisian",0,0,0,0 
+"      German",850,35,0,0 
+"      Norwegian",0,0,0,0 
+"      Swedish",25,10,0,0 
+"      Yiddish",110,10,0,0 
+"      Bosnian",115,0,0,0 
+"      Bulgarian",350,0,0,0 
+"      Croatian",325,15,0,0 
+"      Czech",80,0,0,0 
+"      Macedonian",930,20,0,0 
+"      Polish",2445,45,0,0 
+"      Russian",18605,400,15,0 
+"      Serbian",955,0,0,0 
+"      Serbo-Croatian",90,0,0,0 
+"      Slovak",115,20,0,0 
+"      Slovenian",130,0,0,0 
+"      Ukrainian",595,10,0,0 
+"      Latvian",100,0,0,0 
+"      Lithuanian",60,0,0,0 
+"      Estonian",140,0,0,0 
+"      Finnish",175,0,0,0 
+"      Hungarian",1095,0,0,0 
+"      Greek",2280,90,0,0 
+"      Armenian",2285,40,30,0 
+"      Turkish",785,30,10,0 
+"      Amharic",110,0,0,0 
+"      Arabic",4385,220,40,20 
+"      Hebrew",3040,30,30,15 
+"      Maltese",65,0,0,0 
+"      Somali",80,0,0,0 
+"      Tigrigna",75,40,0,0 
+"      Bengali",515,35,0,0 
+"      Gujarati",4585,245,0,0 
+"      Hindi",2155,305,0,0 
+"      Kurdish",90,0,0,0 
+"      Panjabi (Punjabi)",7010,200,0,0 
+"      Pashto",165,0,0,0 
+"      Persian (Farsi)",14205,395,15,20 
+"      Sindhi",390,10,0,0 
+"      Sinhala (Sinhalese)",175,10,0,0 
+"      Urdu",7085,290,0,0 
+"      Malayalam",380,15,0,0 
+"      Tamil",11745,670,10,0 
+"      Telugu",195,0,0,0 
+"      Japanese",625,10,0,0 
+"      Korean",7470,175,0,0 
+"      Cantonese",54625,1905,45,25 
+"      Chinese, n.o.s. [12]",32095,970,15,0 
+"      Mandarin",7550,175,0,0 
+"      Taiwanese",230,15,0,0 
+"      Lao",465,35,0,0 
+"      Khmer (Cambodian)",745,40,0,0 
+"      Vietnamese",3655,355,0,0 
+"      Bisayan languages",100,20,0,0 
+"      Ilocano",260,45,0,0 
+"      Malay",195,40,0,0 
+"      Tagalog (Pilipino, Filipino)",4530,520,0,0 
+"      Akan (Twi)",45,0,0,0 
+"      Swahili",30,0,0,0 
+"      Creoles",135,0,30,30 
+"      Other languages [13]",2960,250,0,0 
+"  Multiple responses",28775,6580,410,455 
+"    English and French",820,180,285,220 
+"    English and non-official language",27520,6355,50,155 
+"    French and non-official language",140,0,0,0 
+"    English, French and non-official language",295,40,65,80 
+"Total population by language spoken on a regular basis at home [14]",887350,487610,8320,1515 
+"  None",688335,459885,4565,1130 
+"  Single responses",196200,27295,3535,335 
+"    English",96900,4875,1305,75 
+"    French",5200,2410,1885,205 
+"    Non-official languages",94100,20010,355,50 
+"      Algonquin",0,0,0,0 
+"      Atikamekw",0,0,0,0 
+"      Blackfoot",0,0,0,0 
+"      Carrier",0,0,0,0 
+"      Chilcotin",0,0,0,0 
+"      Chipewyan",0,0,0,0 
+"      Cree",0,0,0,0 
+"      Siouan languages (Dakota/Sioux)",0,0,0,0 
+"      Dene",0,0,0,0 
+"      Dogrib",0,0,0,0 
+"      Gitksan",0,0,0,0 
+"      Inuinnaqtun",0,0,0,0 
+"      Inuktitut, n.i.e.",0,0,0,0 
+"      Kutchin-Gwich'in (Loucheux)",0,0,0,0 
+"      Malecite",0,0,0,0 
+"      Mi'kmaq",0,0,0,0 
+"      Mohawk",0,0,0,0 
+"      Montagnais-Naskapi",0,0,0,0 
+"      Nisga'a",0,0,0,0 
+"      North Slave (Hare)",0,0,0,0 
+"      Ojibway",50,45,0,0 
+"      Oji-Cree",0,0,0,0 
+"      Shuswap",0,0,0,0 
+"      South Slave",0,0,0,0 
+"      Tlingit",0,0,0,0 
+"      Italian",22090,5570,55,15 
+"      Portuguese",2565,530,15,20 
+"      Romanian",1170,70,25,0 
+"      Spanish",3265,785,75,10 
+"      Danish",160,10,0,0 
+"      Dutch",420,45,0,0 
+"      Flemish",0,0,0,0 
+"      Frisian",10,0,0,0 
+"      German",1840,185,0,0 
+"      Norwegian",10,0,0,0 
+"      Swedish",40,0,0,0 
+"      Yiddish",255,65,0,0 
+"      Bosnian",35,10,0,0 
+"      Bulgarian",135,10,0,0 
+"      Croatian",370,50,0,0 
+"      Czech",185,0,0,0 
+"      Macedonian",925,160,0,0 
+"      Polish",1225,165,0,0 
+"      Russian",3980,240,0,0 
+"      Serbian",360,15,0,0 
+"      Serbo-Croatian",55,0,0,0 
+"      Slovak",185,20,0,0 
+"      Slovenian",115,15,0,0 
+"      Ukrainian",355,15,0,0 
+"      Latvian",115,20,0,0 
+"      Lithuanian",135,30,0,0 
+"      Estonian",180,20,0,0 
+"      Finnish",260,15,0,0 
+"      Hungarian",850,85,0,0 
+"      Greek",4005,1360,0,0 
+"      Armenian",490,55,0,0 
+"      Turkish",455,85,10,0 
+"      Amharic",50,45,0,0 
+"      Arabic",2405,510,65,0 
+"      Hebrew",2655,495,40,0 
+"      Maltese",165,60,0,0 
+"      Somali",60,25,0,0 
+"      Tigrigna",25,0,0,0 
+"      Bengali",300,75,0,0 
+"      Gujarati",2585,530,0,0 
+"      Hindi",2020,590,0,0 
+"      Kurdish",10,10,0,0 
+"      Panjabi (Punjabi)",2480,545,0,0 
+"      Pashto",50,0,0,0 
+"      Persian (Farsi)",3135,505,10,10 
+"      Sindhi",460,105,0,0 
+"      Sinhala (Sinhalese)",320,45,0,0 
+"      Urdu",2285,625,0,0 
+"      Malayalam",295,75,0,0 
+"      Tamil",2545,875,0,0 
+"      Telugu",90,35,0,0 
+"      Japanese",295,140,0,0 
+"      Korean",1280,320,0,0 
+"      Cantonese",8725,1755,0,0 
+"      Chinese, n.o.s. [15]",6080,1200,10,0 
+"      Mandarin",1940,240,0,0 
+"      Taiwanese",210,25,0,0 
+"      Lao",295,40,0,0 
+"      Khmer (Cambodian)",250,50,10,0 
+"      Vietnamese",950,180,0,0 
+"      Bisayan languages",35,10,0,0 
+"      Ilocano",100,30,0,0 
+"      Malay",210,10,0,0 
+"      Tagalog (Pilipino, Filipino)",3430,745,0,0 
+"      Akan (Twi)",130,40,0,0 
+"      Swahili",85,20,0,0 
+"      Creoles",105,30,10,0 
+"      Other languages [16]",1750,370,40,0 
+"  Multiple responses",2805,425,210,55 
+"    English and French",460,30,35,25 
+"    English and non-official language",860,30,20,10 
+"    French and non-official language",1485,365,160,25 
+"    English, French and non-official language",10,0,0,0 
+"Algonquin - Various non-official languages spoken [17]",0,0,0,0 
+"Atikamekw",0,0,0,0 
+"Blackfoot",0,0,0,0 
+"Carrier",0,0,0,0 
+"Chilcotin",0,0,0,0 
+"Chipewyan",0,0,0,0 
+"Cree",0,0,0,0 
+"Siouan languages (Dakota/Sioux)",0,0,0,0 
+"Dene",0,0,0,0 
+"Dogrib",0,0,0,0 
+"Gitksan",0,0,0,0 
+"Inuinnaqtun",0,0,0,0 
+"Inuktitut, n.i.e.",0,0,0,0 
+"Kutchin-Gwich'in (Loucheux)",0,0,0,0 
+"Malecite",0,0,0,0 
+"Mi'kmaq",0,0,0,0 
+"Mohawk",0,0,0,0 
+"Montagnais-Naskapi",0,0,0,0 
+"Nisga'a",0,0,0,0 
+"North Slave (Hare)",0,0,0,0 
+"Ojibway",85,55,0,0 
+"Oji-Cree",10,10,0,0 
+"Shuswap",0,0,0,0 
+"South Slave",0,0,0,0 
+"Tlingit",0,0,0,0 
+"Italian",86660,25000,425,65 
+"Portuguese",8920,1695,40,25 
+"Romanian",5880,275,50,0 
+"Spanish",19235,4820,515,50 
+"Danish",560,65,0,0 
+"Dutch",2355,480,15,0 
+"Flemish",35,10,0,0 
+"Frisian",35,10,0,0 
+"German",11090,2565,85,45 
+"Norwegian",110,30,0,0 
+"Swedish",415,55,0,10 
+"Yiddish",2335,1100,0,0 
+"Bosnian",205,0,0,10 
+"Bulgarian",735,40,0,0 
+"Croatian",1715,220,0,0 
+"Czech",625,45,0,10 
+"Macedonian",3910,785,0,0 
+"Polish",6355,635,25,15 
+"Russian",28605,1190,50,25 
+"Serbian",1900,175,10,0 
+"Serbo-Croatian",265,20,0,0 
+"Slovak",630,70,0,0 
+"Slovenian",600,150,0,0 
+"Ukrainian",4290,395,10,0 
+"Latvian",515,40,0,0 
+"Lithuanian",360,35,0,0 
+"Estonian",600,60,0,10 
+"Finnish",820,100,0,0 
+"Hungarian",3835,265,0,0 
+"Greek",11380,3280,30,0 
+"Armenian",3385,225,35,0 
+"Turkish",2640,185,40,0 
+"Amharic",340,105,0,0 
+"Arabic",10980,1565,320,105 
+"Hebrew",15575,4375,240,30 
+"Maltese",610,235,0,0 
+"Somali",210,60,0,0 
+"Tigrigna",115,35,0,0 
+"Bengali",1075,200,0,0 
+"Gujarati",10930,1965,0,25 
+"Hindi",16605,3410,10,20 
+"Kurdish",300,10,0,0 
+"Panjabi (Punjabi)",14475,1920,0,0 
+"Pashto",410,25,10,0 
+"Persian (Farsi)",21860,1645,45,40 
+"Sindhi",1395,340,10,0 
+"Sinhala (Sinhalese)",1625,410,0,0 
+"Urdu",14010,2025,0,10 
+"Malayalam",985,200,0,0 
+"Tamil",17800,2610,15,0 
+"Telugu",445,110,0,0 
+"Japanese",1950,435,0,10 
+"Korean",9905,710,10,0 
+"Cantonese",72335,5985,60,55 
+"Chinese, n.o.s. [18]",43880,3780,50,20 
+"Mandarin",24715,1195,10,25 
+"Taiwanese",645,65,0,0 
+"Lao",1235,240,0,0 
+"Khmer (Cambodian)",1395,180,15,0 
+"Vietnamese",7535,855,15,15 
+"Bisayan languages",245,45,0,0 
+"Ilocano",600,170,0,0 
+"Malay",1055,205,0,0 
+"Tagalog (Pilipino, Filipino)",13215,2860,10,0 
+"Akan (Twi)",235,85,0,10 
+"Swahili",1410,360,25,0 
+"Creoles",545,125,135,60 
+"Other languages [19]",9590,3020,145,15 
+"Total population by mobility status 1 year ago [20]",876900,480690,8195,1505 
+"  Non-movers",783005,435985,7185,1300 
+"  Movers",93885,44705,1015,205 
+"    Non-migrants",39500,19970,275,65 
+"    Migrants",54390,24735,740,140 
+"      Internal migrants",45295,22650,705,140 
+"        Intraprovincial migrants",43125,21605,485,135 
+"        Interprovincial migrants",2170,1040,220,10 
+"      External migrants",9100,2085,30,0 
+"Total population by mobility status 5 years ago [21]",833935,449565,7960,1395 
+"  Non-movers",487000,289605,4560,700 
+"  Movers",346935,159955,3395,700 
+"    Non-migrants",142090,72050,1130,295 
+"    Migrants",204845,87905,2265,400 
+"      Internal migrants",162745,80675,2105,295 
+"        Intraprovincial migrants",155520,76920,1585,290 
+"        Interprovincial migrants",7225,3750,520,10 
+"      External migrants",42100,7235,160,105 
+"Total population by citizenship [22]",887350,487610,8315,1520 
+"  Canadian citizens",816400,474170,7980,1425 
+"    Canadian citizens under age 18",207910,154755,1175,485 
+"    Canadian citizens age 18 and over",608485,319415,6805,940 
+"  Not Canadian citizens [23]",70950,13440,340,95 
+"Total population by immigrant status and place of birth [24]",887345,487610,8315,1520 
+"  Non-immigrants [25]",499645,412665,5530,1110 
+"    Born in province of residence",455810,376970,2480,875 
+"    Born outside province of residence",43835,35695,3055,230 
+"  Immigrants [26]",380530,73250,2750,410 
+"    United States of America",6230,5325,10,25 
+"    Central America",1785,130,0,0 
+"    Caribbean and Bermuda",14740,13925,115,10 
+"    South America",13300,6475,25,15 
+"    Europe",119745,22865,870,80 
+"      Western Europe",8785,1130,665,25 
+"      Eastern Europe",36130,1210,90,10 
+"      Southern Europe",54930,2910,85,30 
+"        Italy",39775,2145,60,20 
+"        Other Southern Europe",15145,765,25,15 
+"      Northern Europe",19905,17610,30,15 
+"        United Kingdom",17665,16570,30,0 
+"        Other Northern Europe",2240,1045,0,0 
+"    Africa",16070,6480,1275,165 
+"      Western Africa",860,455,30,10 
+"      Eastern Africa",7220,2210,280,105 
+"      Northern Africa",3950,370,900,50 
+"      Central Africa",255,15,55,0 
+"      Southern Africa",3795,3425,15,0 
+"    Asia and the Middle East",207440,17420,435,120 
+"      West Central Asia and the Middle East",35915,2655,275,65 
+"      Eastern Asia",98985,3945,90,25 
+"        China, People's Republic of",39560,870,55,10 
+"        Hong Kong, Special Administrative Region",45955,2410,35,0 
+"        Other Eastern Asia",13470,665,0,10 
+"      Southeast Asia",27965,4555,55,25 
+"        Philippines",12385,2840,10,0 
+"        Other Southeast Asia",15580,1720,45,25 
+"      Southern Asia",44570,6265,20,0 
+"        India",22690,3610,15,0 
+"        Other Southern Asia",21885,2655,10,0 
+"    Oceania and other [27]",1225,635,10,0 
+"  Non-permanent residents [28]",7175,1695,35,10 
+"Total recent immigrants by selected places of birth [29]",46460,6100,225,75 
+"  United States of America",1185,925,0,0 
+"  Central America",265,15,0,0 
+"  Caribbean and Bermuda",895,695,30,0 
+"  South America",1555,275,0,0 
+"  Europe",8675,985,75,0 
+"    Western Europe",340,50,65,0 
+"    Eastern Europe",6945,285,10,0 
+"    Southern Europe",640,50,0,0 
+"      Italy",260,30,0,0 
+"      Other Southern Europe",390,15,0,0 
+"    Northern Europe",750,610,0,0 
+"      United Kingdom",700,600,0,0 
+"      Other Northern Europe",50,10,0,0 
+"  Africa",1425,700,55,65 
+"    Western Africa",150,95,10,0 
+"    Eastern Africa",615,230,20,70 
+"    Northern Africa",270,35,15,0 
+"    Central Africa",20,0,10,0 
+"    Southern Africa",360,340,0,0 
+"  Asia and the Middle East",32325,2435,55,10 
+"    West Central Asia and the Middle East",7935,300,25,10 
+"    Eastern Asia",12620,475,20,10 
+"      China, People's Republic of",7515,240,20,0 
+"      Hong Kong, Special Administrative Region",1370,75,0,0 
+"      Other Eastern Asia",3740,160,0,0 
+"    Southeast Asia",3210,530,10,0 
+"      Philippines",2250,415,10,0 
+"      Other Southeast Asia",960,120,0,0 
+"    Southern Asia",8560,1130,0,0 
+"      India",4355,745,0,0 
+"      Other Southern Asia",4205,385,0,0 
+"  Oceania and other [30]",135,80,10,0 
+"Total immigrant population by period of immigration [31]",380530,73250,2750,410 
+"  Before 1961",33470,8750,190,25 
+"  1961 to 1970",42485,11625,655,35 
+"  1971 to 1980",55315,17295,520,65 
+"  1981 to 1990",72570,13840,610,90 
+"  1991 to 2000",130230,15640,550,110 
+"    1991 to 1995",67375,8505,290,65 
+"    1996 to 2000",62850,7130,260,50 
+"  2001 to 2006 [32]",46465,6105,225,75 
+"Total population 15 years and older by generation status [33]",709550,358840,7280,1035 
+"  1st generation [34]",370405,70965,2645,355 
+"  2nd generation [35]",173370,127860,745,305 
+"  3rd generation or more [36]",165780,160025,3890,375 
+"Total population by Aboriginal and non-Aboriginal identity population [37]",887345,487610,8320,1520 
+"  Total Aboriginal identity population [38]",3595,3350,170,10 
+"    North American Indian single response [39]",2335,2225,40,0 
+"    Métis single response",1050,930,115,0 
+"    Inuit single response",25,25,0,0 
+"    Multiple Aboriginal identity responses",20,20,0,0 
+"    Aboriginal responses not included elsewhere [40]",165,155,20,0 
+"  Non-Aboriginal identity population",883750,484260,8145,1515 
+"Total population by Registered Indian status [41]",887345,487615,8320,1520 
+"  Registered Indian [42]",1480,1360,50,0 
+"  Not a Registered Indian",885865,486245,8265,1520 
+"Total population 15 years and over by labour force activity [43]",709555,358845,7280,1035 
+"  In the labour force [44]",500060,263165,5325,770 
+"    Employed [45]",472935,248805,5135,735 
+"    Unemployed [46]",27120,14365,190,35 
+"  Not in the labour force [47]",209490,95680,1955,265 
+"Participation rate [48]",70.5,73.3,73.1,74.4 
+"Employment rate [49]",66.7,69.3,70.5,71.0 
+"Unemployment rate [50]",5.4,5.5,3.6,4.5 
+"Total labour force 15 years and over by class of worker [51]",500065,263165,5325,770 
+"  Class of worker - Not applicable [52]",7535,3165,45,0 
+"  All classes of worker [53]",492525,260000,5275,765 
+"    Paid workers",451410,240700,4850,720 
+"      Employees",421095,227515,4575,655 
+"      Self-employed (incorporated)",30310,13185,275,60 
+"        Without paid help",11345,5235,90,35 
+"        With paid help",18960,7945,180,30 
+"    Self-employed (unincorporated)",39215,18495,410,50 
+"      Without paid help",23775,12425,290,25 
+"      With paid help",15445,6070,120,15 
+"    Unpaid family workers",1910,800,20,0 
+"Total labour force 15 years and over by occupation - National Occupational Classification for Statistics 2006 [54]",500065,263160,5325,770 
+"  Occupation - Not applicable [55]",7535,3165,45,0 
+"  All occupations [56]",492530,260000,5280,765 
+"    A Management occupations",69725,38230,1050,75 
+"      A0 Senior management occupations",10335,6380,175,25 
+"      A1 Specialist managers",22920,13615,420,25 
+"      A2 Managers in retail trade, food and accommodation services",16295,7195,150,15 
+"      A3 Other managers, n.e.c.",20175,11045,300,10 
+"    B Business, finance and administrative occupations",107520,57480,1150,170 
+"      B0 Professional occupations in business and finance",21125,10375,190,45 
+"      B1 Finance and insurance administration occupations",8035,3965,115,15 
+"      B2 Secretaries",8480,4525,65,0 
+"      B3 Administrative and regulatory occupations",13180,7745,185,25 
+"      B4 Clerical supervisors",2915,1635,55,0 
+"      B5 Clerical occupations",53780,29235,540,65 
+"    C Natural and applied sciences and related occupations",45070,17735,455,105 
+"      C0 Professional occupations in natural and applied sciences",30415,10760,320,45 
+"      C1 Technical occupations related to natural and applied sciences",14655,6970,135,60 
+"    D Health occupations",20980,11720,190,25 
+"      D0 Professional occupations in health",6195,3395,80,10 
+"      D1 Nurse supervisors and registered nurses",5625,3565,35,0 
+"      D2 Technical and related occupations in health",4870,2605,45,0 
+"      D3 Assisting occupations in support of health services",4290,2150,25,10 
+"    E Occupations in social science, education, government service and religion",40555,25515,645,105 
+"      E0 Judges, lawyers, psychologists, social workers, ministers of religion, and policy and program officers",10835,7075,170,10 
+"      E1 Teachers and professors",19875,12860,435,55 
+"      E2 Paralegals, social services workers and occupations in education and religion, n.e.c.",9845,5580,45,35 
+"    F Occupations in art, culture, recreation and sport",14565,9440,165,25 
+"      F0 Professional occupations in art and culture",4945,3095,75,15 
+"      F1 Technical occupations in art, culture, recreation and sport",9615,6340,90,10 
+"    G Sales and service occupations",106925,58600,915,155 
+"      G0 Sales and service supervisors",3340,1835,40,10 
+"      G1 Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",16865,9290,210,30 
+"      G2 Retail salespersons and sales clerks",25070,14525,165,50 
+"      G3 Cashiers",7650,4305,60,0 
+"      G4 Chefs and cooks",5370,1960,25,0 
+"      G5 Occupations in food and beverage service",5510,3315,35,15 
+"      G6 Occupations in protective services",5280,3855,75,0 
+"      G7 Occupations in travel and accommodation, including attendants in recreation and sport",3440,1985,35,15 
+"      G8 Child care and home support workers",6280,2990,90,10 
+"      G9 Sales and service occupations, n.e.c.",28130,14545,175,30 
+"    H Trades, transport and equipment operators and related occupations",53685,27605,450,85 
+"      H0 Contractors and supervisors in trades and transportation",3900,2060,60,0 
+"      H1 Construction trades",9825,4920,100,20 
+"      H2 Stationary engineers, power station operators and electrical trades and telecommunications occupations",4375,2435,35,10 
+"      H3 Machinists, metal forming, shaping and erecting occupations",4185,1885,35,0 
+"      H4 Mechanics",8370,4545,70,15 
+"      H5 Other trades, n.e.c.",3710,1735,15,10 
+"      H6 Heavy equipment and crane operators, including drillers",1310,810,20,10 
+"      H7 Transportation equipment operators and related workers, excluding labourers",10295,4940,80,15 
+"      H8 Trades helpers, construction and transportation labourers and related occupations",7715,4275,30,20 
+"    I Occupations unique to primary industry",6780,5335,100,0 
+"      I0 Occupations unique to agriculture, excluding labourers",2680,2055,75,0 
+"      I1 Occupations unique to forestry operations, mining, oil and gas extraction and fishing, excluding labourers",140,90,15,0 
+"      I2 Primary production labourers",3960,3195,10,10 
+"    J Occupations unique to processing, manufacturing and utilities",26730,8335,170,25 
+"      J0 Supervisors in manufacturing",2170,855,25,0 
+"      J1 Machine operators in manufacturing",9655,2680,25,10 
+"      J2 Assemblers in manufacturing",10150,3175,105,15 
+"      J3 Labourers in processing, manufacturing and utilities",4765,1625,20,0 
+"Total labour force 15 years and over by industry - North American Industry Classification System 2002 [57]",500060,263165,5325,765 
+"  Industry - Not applicable [58]",7535,3165,45,0 
+"  All industries [59]",492525,259995,5280,770 
+"    11 Agriculture, forestry, fishing and hunting",2330,1825,80,0 
+"    21 Mining and oil and gas extraction",775,475,0,0 
+"    22 Utilities",3255,2100,35,0 
+"    23 Construction",32680,17560,320,50 
+"    31-33 Manufacturing",65305,26495,700,75 
+"    41 Wholesale trade",33215,17425,575,60 
+"    44-45 Retail trade",56940,31275,465,65 
+"    48-49 Transportation and warehousing",16910,8580,145,10 
+"    51 Information and cultural industries",15060,8630,200,10 
+"    52 Finance and insurance",35365,17125,350,60 
+"    53 Real estate and rental and leasing",12370,6155,105,20 
+"    54 Professional, scientific and technical services",50085,25920,435,70 
+"    55 Management of companies and enterprises",1085,585,10,10 
+"    56 Administrative and support, waste management and remediation services",20815,12190,175,35 
+"    61 Educational services",33540,20870,670,95 
+"    62 Health care and social assistance",37090,21410,330,80 
+"    71 Arts, entertainment and recreation",10475,7710,85,30 
+"    72 Accommodation and food services",25750,11735,160,30 
+"    81 Other services (except public administration)",22750,10720,205,35 
+"    91 Public administration",16735,11205,220,45 
+"Total employed labour force 15 years and over by place of work status [60]",472935,248800,5140,735 
+"  Usual place of work",385475,203905,4220,605 
+"    In census subdivision of residence",112715,62210,1075,175 
+"    In different census subdivision",272755,141695,3145,430 
+"      In same census division",85315,52910,1050,110 
+"  At home",37200,20060,410,50 
+"  Outside Canada",2505,975,95,10 
+"  No fixed workplace address",47760,23865,410,75 
+"Total employed labour force 15 years and over with usual place of work or no fixed workplace address by mode of transportation [61]",433235,227770,4625,680 
+"  Car, truck, van, as driver",337280,179375,3830,505 
+"  Car, truck, van, as passenger",35685,18605,255,60 
+"  Public transit",45000,20395,385,100 
+"  Walked",10560,6660,90,10 
+"  Bicycle",1485,1030,10,0 
+"  Motorcycle",175,135,0,0 
+"  Taxicab",540,405,0,0 
+"  Other method",2505,1160,50,15 
+"Total population 15 years and over who worked since January 1, 2005 by language used most often at work [62]",537135,285575,5750,850 
+"  Single responses",527850,284480,5350,715 
+"    English",508690,283640,4795,680 
+"    French",1360,405,545,25 
+"    Non-official languages",17805,440,10,10 
+"      Chinese, n.o.s. [63]",5490,115,0,10 
+"      Cantonese",6675,85,0,0 
+"      Panjabi (Punjabi)",230,0,0,0 
+"      German",65,10,0,0 
+"      Mandarin",780,10,0,0 
+"      Portuguese",140,10,0,0 
+"      Spanish",210,10,0,0 
+"      Vietnamese",220,10,0,0 
+"      Korean",770,35,0,0 
+"      Italian",695,60,0,0 
+"      Other languages [64]",2535,90,0,0 
+"  Multiple responses",9285,1100,400,140 
+"    English and French",1365,335,365,130 
+"    English and non-official language",7790,730,25,10 
+"    French and non-official language",40,10,0,0 
+"    English, French and non-official language",95,20,0,0 
+"Total population 15 years and over who worked since January 1, 2005 by language used on a regular basis at work [65]",537140,285580,5755,850 
+"  None",484860,277775,3670,665 
+"  Single responses",50750,7505,2035,175 
+"    English",8780,520,385,25 
+"    French",6535,3335,1550,115 
+"    Non-official languages",35430,3650,105,35 
+"      Chinese, n.o.s. [66]",5515,210,10,0 
+"      Cantonese",6105,280,0,0 
+"      Panjabi (Punjabi)",825,25,10,0 
+"      German",335,85,10,0 
+"      Mandarin",1480,70,0,0 
+"      Portuguese",610,55,0,0 
+"      Spanish",1530,195,20,0 
+"      Vietnamese",345,10,10,0 
+"      Korean",795,20,0,0 
+"      Italian",7155,1650,35,10 
+"      Other languages [67]",10740,1050,20,10 
+"  Multiple responses",1530,300,45,0 
+"    English and French",0,0,0,0 
+"    English and non-official language",260,10,10,0 
+"    French and non-official language",1265,295,40,0 
+"    English, French and non-official language",10,0,0,0 
+"Total population 15 years and over by hours spent doing unpaid housework [68]",709550,358845,7280,1035 
+"  No hours of unpaid housework",75180,38460,555,100 
+"  Less than 5 hours of unpaid housework",187315,101910,1590,265 
+"  5 to 14 hours of unpaid housework",226425,115765,2550,375 
+"  15 to 29 hours of unpaid housework",133785,63660,1575,215 
+"  30 to 59 hours of unpaid housework",63340,28025,785,55 
+"  60 hours or more of unpaid housework",23510,11025,220,20 
+"Total population 15 years and over by hours spent looking after children, without pay [69]",709550,358845,7280,1030 
+"  No hours of unpaid child care",401445,213730,3890,665 
+"  Less than 5 hours of unpaid child care",79475,36385,765,110 
+"  5 to 14 hours of unpaid child care",84850,37150,930,105 
+"  15 to 29 hours of unpaid child care",59025,26800,585,90 
+"  30 to 59 hours of unpaid child care",41795,20355,560,30 
+"  60 hours or more of unpaid child care",42965,24425,550,40 
+"Total population 15 years and over by hours spent providing unpaid care or assistance to seniors [70]",709550,358845,7280,1035 
+"  No hours of unpaid care or assistance to seniors",562770,290340,6060,850 
+"  Less than 5 hours of unpaid care or assistance to seniors",89385,43700,815,130 
+"  5 to 9 hours of unpaid care or assistance to seniors",33060,14885,220,35 
+"  10 to 19 hours of unpaid care or assistance to seniors",12980,5185,65,20 
+"  20 hours or more of unpaid care or assistance to seniors",11355,4735,115,0 
+"Total population 15 years and over by highest certificate, diploma or degree [71]",709550,358845,7280,1035 
+"  No certificate, diploma or degree",134525,61120,895,100 
+"  Certificate, diploma or degree",575025,297725,6385,935 
+"    High school certificate or equivalent [72]",181460,100680,1700,200 
+"    Apprenticeship or trades certificate or diploma",45215,22040,490,70 
+"    College, CEGEP or other non-university certificate or diploma [73]",118700,69150,1525,225 
+"    University certificate or diploma below bachelor level [74]",42225,18615,585,115 
+"    University certificate, diploma or degree at bachelor's level or above [75]",187425,87235,2080,325 
+"      Bachelor's degree",119835,57830,1265,185 
+"      University certificate or diploma above bachelor level",24485,12020,350,70 
+"      Degree in medicine, dentistry, veterinary medicine or optometry",4890,2035,50,0 
+"      Master's degree",33565,13535,390,65 
+"      Earned doctorate",4650,1815,25,10 
+"Total population 15 years and over with postsecondary qualifications by major field of study - Classification of Instructional Programs, 2000 [76]",393565,197040,4680,735 
+"  Education",25395,14965,415,85 
+"  Visual and performing arts, and communications technologies",15460,8540,135,30 
+"  Humanities",21960,12050,295,40 
+"  Social and behavioural sciences and law",47795,27950,535,70 
+"  Business, management and public administration",98070,49290,1315,195 
+"  Physical and life sciences and technologies",15510,6730,170,15 
+"  Mathematics, computer and information sciences",27005,10310,305,90 
+"  Architecture, engineering, and related technologies",82020,33210,805,115 
+"  Agriculture, natural resources and conservation",4585,2680,30,10 
+"  Health, parks, recreation and fitness",40160,22905,475,50 
+"  Personal, protective and transportation services",15575,8400,185,35 
+"  Other fields of study [77]",40,15,0,0 
+"Total population 15 years and over with postsecondary qualification by location of study [78]",393565,197045,4680,730 
+"  Inside Canada",279745,174975,3795,595 
+"    Newfoundland and Labrador",770,695,0,0 
+"    Prince Edward Island",230,140,0,10 
+"    Nova Scotia",1655,1290,20,0 
+"    New Brunswick",855,690,85,0 
+"    Quebec",8385,4980,1075,75 
+"    Ontario",261485,163355,2555,490 
+"    Manitoba",1645,945,10,0 
+"    Saskatchewan",945,635,10,0 
+"    Alberta",1865,1075,35,0 
+"    British Columbia",1840,1130,10,10 
+"    Yukon Territory",25,0,0,0 
+"    Northwest Territories",0,0,0,0 
+"    Nunavut",55,40,0,0 
+"  Outside Canada",113815,22070,885,140 
+"Total population by Aboriginal and non-Aboriginal ancestry [79]",887345,487615,8315,1520 
+"  Total Aboriginal ancestry population [80]",8160,7560,435,15 
+"    North American Indian single ancestry",630,560,10,0 
+"    North American Indian and non-Aboriginal ancestries",5960,5640,220,10 
+"    Métis single ancestry",90,90,0,0 
+"    Métis and non-Aboriginal ancestries",1290,1090,195,0 
+"    Inuit single ancestry",15,15,0,0 
+"    Inuit and non-Aboriginal ancestries",35,35,0,0 
+"    Other Aboriginal multiple ancestries [81]",135,125,10,0 
+"  Non-Aboriginal ancestry population",879190,480050,7885,1505 
+"Total population by visible minority groups",887345,487610,8320,1515 
+"  Total visible minority population [82]",329955,94415,1180,560 
+"    Chinese",138575,21445,415,140 
+"    South Asian [83]",80595,27555,100,115 
+"    Black",20770,19000,350,50 
+"    Filipino",17150,6855,10,25 
+"    Latin American",8555,1325,40,0 
+"    Southeast Asian [84]",10110,2515,20,25 
+"    Arab",7400,1670,165,105 
+"    West Asian [85]",20860,2070,50,40 
+"    Korean",10855,1435,0,0 
+"    Japanese",2360,1360,0,0 
+"    Visible minority, n.i.e. [86]",3695,3470,0,20 
+"    Multiple visible minority [87]",9020,5705,40,30 
+"  Not a visible minority [88]",557390,393195,7140,960 
+"Total population by ethnic origin (single and multiple responses) [89]",887345,487610,8320,1515 
+"Total population - Single responses [90]",616155,260990,4860,725 
+"Total population - Multiple responses [91]",271195,226625,3455,795 
+"Canadian - Total responses",112620,104985,2475,340 
+"Canadian - Single responses",44325,41855,995,90 
+"Canadian - Multiple responses",68295,63135,1490,250 
+"English - Total responses",133660,131075,465,215 
+"English - Single responses",29475,29090,20,0 
+"English - Multiple responses",104180,101985,450,220 
+"French - Total responses",35910,29800,4295,550 
+"French - Single responses",3155,1400,1640,80 
+"French - Multiple responses",32755,28400,2655,470 
+"Scottish - Total responses",88375,87465,340,130 
+"Scottish - Single responses",10480,10405,10,10 
+"Scottish - Multiple responses",77895,77060,330,125 
+"Irish - Total responses",81310,80035,470,175 
+"Irish - Single responses",8575,8465,30,0 
+"Irish - Multiple responses",72735,71570,435,175 
+"German - Total responses",43985,35800,225,50 
+"German - Single responses",8065,3585,10,0 
+"German - Multiple responses",35920,32215,215,50 
+"Italian - Total responses",150245,86605,615,150 
+"Italian - Single responses",114800,55220,190,35 
+"Italian - Multiple responses",35445,31380,425,120 
+"Chinese - Total responses",146240,25630,425,105 
+"Chinese - Single responses",132455,17850,350,65 
+"Chinese - Multiple responses",13790,7780,75,40 
+"North American Indian - Total responses",6725,6325,240,10 
+"North American Indian - Single responses",635,565,10,0 
+"North American Indian - Multiple responses",6095,5765,225,15 
+"Ukrainian - Total responses",19010,11155,40,45 
+"Ukrainian - Single responses",4520,1630,10,0 
+"Ukrainian - Multiple responses",14495,9525,35,35 
+"Dutch (Netherlands) - Total responses",17385,15175,50,20 
+"Dutch (Netherlands) - Single responses",4335,2770,10,0 
+"Dutch (Netherlands) - Multiple responses",13050,12405,45,20 
+"Polish - Total responses",31825,23470,135,40 
+"Polish - Single responses",7765,2840,30,10 
+"Polish - Multiple responses",24060,20630,105,35 
+"East Indian - Total responses",57930,24870,100,145 
+"East Indian - Single responses",46470,17325,40,70 
+"East Indian - Multiple responses",11460,7545,60,70 
+"Russian - Total responses",30875,12875,70,20 
+"Russian - Single responses",10045,1355,20,0 
+"Russian - Multiple responses",20825,11520,45,10 
+"Welsh - Total responses",8215,8145,10,0 
+"Welsh - Single responses",525,515,0,0 
+"Welsh - Multiple responses",7695,7630,10,0 
+"Filipino - Total responses",18535,8135,20,35 
+"Filipino - Single responses",13725,5115,0,20 
+"Filipino - Multiple responses",4815,3020,20,20 
+"Norwegian - Total responses",2165,2070,10,0 
+"Norwegian - Single responses",185,135,0,0 
+"Norwegian - Multiple responses",1975,1930,15,0 
+"Portuguese - Total responses",16555,9365,65,25 
+"Portuguese - Single responses",9110,2845,30,20 
+"Portuguese - Multiple responses",7445,6515,35,10 
+"Métis - Total responses",1515,1310,200,0 
+"Métis - Single responses",90,90,0,0 
+"Métis - Multiple responses",1425,1215,200,0 
+"British Isles, n.i.e. - Total responses [92]",12830,12610,20,0 
+"British Isles, n.i.e. - Single responses [93]",2835,2800,0,0 
+"British Isles, n.i.e. - Multiple responses [94]",9995,9810,15,0 
+"Swedish - Total responses",2640,2240,15,10 
+"Swedish - Single responses",200,110,0,0 
+"Swedish - Multiple responses",2440,2135,10,0 
+"Total income in 2005 of population 15 years and over [95]",709550,358845,7280,1035 
+"  Without income",37620,19335,250,35 
+"  With income",671930,339505,7030,995 
+"    Under $1,000 [96]",36185,16405,295,65 
+"    $1,000 to $2,999",27585,13960,160,30 
+"    $3,000 to $4,999",24680,12520,175,40 
+"    $5,000 to $6,999",24900,12110,155,60 
+"    $7,000 to $9,999",36995,18250,300,30 
+"    $10,000 to $11,999",26535,10915,175,45 
+"    $12,000 to $14,999",37285,14745,300,45 
+"    $15,000 to $19,999",50415,22235,480,60 
+"    $20,000 to $24,999",42780,19760,360,75 
+"    $25,000 to $29,999",36515,17180,300,55 
+"    $30,000 to $34,999",39355,19410,435,55 
+"    $35,000 to $39,999",35800,18540,235,45 
+"    $40,000 to $44,999",33015,17235,405,40 
+"    $45,000 to $49,999",29000,15750,335,60 
+"    $50,000 to $59,999",47615,26160,625,40 
+"    $60,000 and over",143260,84335,2305,245 
+"Median income $ [97]",28829,32863,41272,28863 
+"Average income $ [98]",42463,47327,53739,40899 
+"Standard error of average income $ [99]",264,399,1632,2770 
+"Total after-tax income in 2005 of population 15 years and over [100]",709550,358845,7280,1035 
+"  Without after-tax income",37930,19450,265,40 
+"  With after-tax income",671630,339395,7010,995 
+"    Under $1,000 [101]",36990,16950,300,75 
+"    $1,000 to $2,999",27500,13855,165,30 
+"    $3,000 to $4,999",24690,12545,160,40 
+"    $5,000 to $6,999",25050,12220,135,60 
+"    $7,000 to $9,999",37760,18595,300,30 
+"    $10,000 to $11,999",27750,11495,180,45 
+"    $12,000 to $14,999",40160,16160,360,45 
+"    $15,000 to $19,999",57390,25740,515,95 
+"    $20,000 to $24,999",50175,23705,425,75 
+"    $25,000 to $29,999",48760,23625,510,60 
+"    $30,000 to $34,999",48230,24800,390,65 
+"    $35,000 to $39,999",42605,22495,465,85 
+"    $40,000 to $44,999",37575,20370,515,30 
+"    $45,000 to $49,999",29975,16735,335,40 
+"    $50,000 and over",137025,80115,2250,215 
+"Median after-tax income $ [102]",25856,28950,35468,24808 
+"Average after-tax income $ [103]",33834,37015,42187,30758 
+"Standard error of average after-tax income $ [104]",167,266,1037,2233 
+"Total population 15 years and over with employment income [105]",525990,281270,5685,810 
+"  Median employment income in 2005 $",32505,33961,45419,30020 
+"  Average employment income in 2005 $",45174,48056,57032,41111 
+"  Standard error of average employment income $",302,447,1861,2845 
+"  Worked full year, full time [106]",286815,150300,3570,450 
+"    Median employment income in 2005 $",48943,52469,59647,44076 
+"    Average employment income in 2005 $",62752,69303,73710,53037 
+"    Standard error of average employment income $",404,682,2626,4151 
+"  Worked part year or part time [107]",208855,115985,1800,310 
+"    Median employment income in 2005 $",13587,12028,20037,15988 
+"    Average employment income in 2005 $",25041,24234,30902,27358 
+"    Standard error of average employment income $",413,326,1741,3370 
+"Note"
+"[1] Language groups are defined as follows: 'English' includes respondents who reported English only or English and one non-official language; 'French' includes respondents who reported French only or French and one non-official language; 'English and French' includes respondents who reported English and French, with or without one non-official language.   'Total' category includes all groups mentioned as well as respondents who reported a non-official language as their only mother tongue."
+"[2] Age  Part A - Plain language definition  Not applicable  Part B - Detailed definition  Refers to the age at last birthday (as of the census reference date, May 16, 2006). This variable is derived from Date of birth."
+"[3] The median age is an age 'x,' such that exactly one half of the population is older than 'x' and the other half is younger than 'x.'"
+"[4] Legal marital status Part A - Plain language definition A person's conjugal status under the law (e.g., single, married, widowed). Legal marital status data are derived from the responses to Question 4 (Marital status) in the census questionnaires. Part B - Detailed definition  Refers to the legal conjugal status of a person. The various responses are defined as follows:  Never legally married (single) - Persons who have never married (including all persons less than 15 years of age) and persons whose marriage has been annulled and who have not remarried.  Legally married (and not separated) - Persons whose spouse is living, unless the couple is separated or a divorce has been obtained.  Separated, but still legally married - Persons currently married, but who are no longer living with their spouse (for any reason other than illness or work) and have not obtained a divorce.  Divorced - Persons who have obtained a legal divorce and who have not remarried.  Widowed - Persons who have lost their spouse through death and who have not remarried.  "
+"[5] Since 1996, Aboriginal people married according to traditional customs were instructed to report themselves as legally married.  "
+"[5] In 2006, legally married same-sex couples are included in this category.  "
+"[6] Common-law status Part A - Plain language definition  Not applicable Part B - Detailed definition Refers to persons who live together as a couple but who are not legally married to each other. These persons can be of the opposite sex or of the same sex."
+"[7] Knowledge of official languages Part A - Plain language definition Not applicable Part B - Detailed definition Refers to the ability to conduct a conversation in English only, in French only, in both English and French, or in neither English nor French.  "
+"[7] Data on knowledge of official languages According to studies on data certification, the 2006 Census statistics on knowledge of official languages could underestimate the category 'English and French' and overestimate the category 'French only,' particularly for the francophone population, but also for the whole population in general. More information on the subject is available in the Languages Reference Guide. "
+"[8] Data on knowledge of official languages According to studies on data certification, the 2006 Census statistics on knowledge of official languages could underestimate the category 'English and French' and overestimate the category 'French only,' particularly for the francophone population, but also for the whole population in general. More information on the subject is available in the Languages Reference Guide. "
+"[8] First official language spoken Part A - Plain language definition Not applicable Part B - Detailed definition Refers to a variable specified within the framework of the Official Languages Act.    "
+"[9] The official language minority is English in Quebec and French in all other provinces and territories."
+"[10] The official language minority is English in Quebec and French in all other provinces and territories."
+"[11] Refers to the language spoken most often at home by the individual at the time of the census. Data on other languages spoken on a regular basis at home are also collected."
+"[12] The 2006 category 'Chinese, n.o.s.' includes responses of 'Chinese' as well as all Chinese languages other than Cantonese, Mandarin, Taiwanese, Chaochow (Teochow), Fukien, Hakka and Shanghainese. Data for the 'Chinese, n.o.s.' category in 2001 and 2006 are not directly comparable. The 2001 category 'Chinese, n.o.s.' is equivalent to the sum of the 2006 categories 'Chinese, n.o.s.' and 'Chaochow (Teochow),' 'Fukien,' 'Shanghainese' and 'Taiwanese.'"
+"[13] This is a subtotal of all languages collected by the census that are not displayed separately here. For a full list of languages collected in the census, please refer to Appendix G in the 2006 Census Dictionary."
+"[14] Refers to the language spoken on a regular basis at home by the individual at the time of the census. Data on language spoken most often at home are also collected."
+"[15] The 2006 category 'Chinese, n.o.s.' includes responses of 'Chinese' as well as all Chinese languages other than Cantonese, Mandarin, Taiwanese, Chaochow (Teochow), Fukien, Hakka and Shanghainese. Data for the 'Chinese, n.o.s.' category in 2001 and 2006 are not directly comparable. The 2001 category 'Chinese, n.o.s.' is equivalent to the sum of the 2006 categories 'Chinese, n.o.s.' and 'Chaochow (Teochow),' 'Fukien,' 'Shanghainese' and 'Taiwanese.'"
+"[16] This is a subtotal of all languages collected by the census that are not displayed separately here. For a full list of languages collected in the census, please refer to Appendix G in the 2006 Census Dictionary."
+"[17] Knowledge of non-official languages Part A - Plain language definition Not applicable Part B - Detailed definition Refers to languages, other than English or French, in which the respondent can conduct a conversation. "
+"[18] The 2006 category 'Chinese, n.o.s.' includes responses of 'Chinese' as well as all Chinese languages other than Cantonese, Mandarin, Taiwanese, Chaochow (Teochow), Fukien, Hakka and Shanghainese. Data for the 'Chinese, n.o.s.' category in 2001 and 2006 are not directly comparable. The 2001 category 'Chinese, n.o.s.' is equivalent to the sum of the 2006 categories 'Chinese, n.o.s.' and 'Chaochow (Teochow),' 'Fukien,' 'Shanghainese' and 'Taiwanese.'"
+"[19] This is a subtotal of all languages collected by the census that are not displayed separately here. For a full list of languages collected in the census, please refer to Appendix G in the 2006 Census Dictionary."
+"[20] Refers to the relationship between a person's usual place of residence on Census Day and his or her usual place of residence one year earlier. A person is classified as a non-mover if no difference exists. Otherwise, a person is classified as a mover and this categorization is called Mobility status (1 year ago). Within the category of movers, a further distinction is made between non-migrants and migrants; this difference is called migration status.   Non-movers are persons who, on Census Day, were living at the same address as the one at which they resided one year earlier.   Movers are persons who, on Census Day, were living at a different address from the one at which they resided one year earlier.   Non-migrants are movers who, on Census Day, were living at a different address, but in the same census subdivision (CSD) as the one they lived in one year earlier.   Migrants are movers who, on Census Day, were residing in a different CSD one year earlier (internal migrants) or who were living outside Canada one year earlier (external migrants).   Intraprovincial migrants are movers who, on Census Day, were living in a different CSD from the one at which they resided one year earlier, in the same province.   Interprovincial migrants are movers who, on Census Day, were living in a different CSD from the one at which they resided one year earlier, in a different province. "
+"[21] Refers to the relationship between a person's usual place of residence on Census Day and his or her usual place of residence five years earlier. A person is classified as a non-mover if no difference exists. Otherwise, a person is classified as a mover and this categorization is called Mobility status (5 years ago). Within the category of movers, a further distinction is made between non-migrants and migrants; this difference is called migration status.   Non-movers are persons who, on Census Day, were living at the same address as the one at which they resided five years earlier.   Movers are persons who, on Census Day, were living at a different address from the one at which they resided five years earlier.   Non-migrants are movers who, on Census Day, were living at a different address, but in the same census subdivision (CSD) as the one they lived in five years earlier.   Migrants are movers who, on Census Day, were residing in a different CSD five years earlier (internal migrants) or who were living outside Canada five years earlier (external migrants).   Intraprovincial migrants are movers who, on Census Day, were living in a different CSD from the one in which they resided five years earlier, in the same province.   Interprovincial migrants are movers who, on Census Day, were living in a different CSD from the one in which they resided five years earlier, in a different province. "
+"[22] Citizenship Part A - Plain language definition Not applicable Part B - Detailed definition Refers to the legal citizenship status of the respondent. Persons who are citizens of more than one country were instructed to provide the name of the other country(ies).  "
+"[22] Includes persons who are stateless."
+"[23] Includes persons who are stateless. Prior to the 2006 Census, this category was called 'Citizens of other countries'. The content of the category remains unchanged in 2006 compared with previous censuses."
+"[24] For information on the specific countries included in each regional grouping in this variable, please refer to Appendix J in the 2006 Census Dictionary."
+"[25] Non-immigrants are persons who are Canadian citizens by birth. Although most Canadian citizens by birth were born in Canada, a small number were born outside Canada to Canadian parents."
+"[26] Immigrants are persons who are, or have ever been, landed immigrants in Canada. A landed immigrant is a person who has been granted the right to live in Canada permanently by immigration authorities. Some immigrants have resided in Canada for a number of years, while others are recent arrivals. Most immigrants are born outside Canada, but a small number were born in Canada. Includes immigrants who landed in Canada prior to Census Day, May 16, 2006."
+"[27] 'Other' includes Greenland, Saint Pierre and Miquelon, the category 'Other country,' as well as immigrants born in Canada."
+"[28] Non-permanent residents are persons from another country who, at the time of the census, held a Work or Study Permit or who were refugee claimants, as well as family members living with them in Canada."
+"[29] In this product, recent immigrants are immigrants who landed in Canada between January 1, 2001 and Census Day, May 16, 2006.   Immigrants are persons who are, or have ever been, landed immigrants in Canada. A landed immigrant is a person who has been granted the right to live in Canada permanently by immigration authorities. Some immigrants have resided in Canada for a number of years, while others are recent arrivals. Most immigrants are born outside Canada, but a small number were born in Canada. Includes immigrants who landed in Canada prior to Census Day, May 16, 2006.  "
+"[29] For information on the specific countries included in each regional grouping in this variable, please refer to Appendix J in the 2006 Census Dictionary."
+"[30] 'Other' includes Greenland, Saint Pierre and Miquelon, the category 'Other country,' as well as immigrants born in Canada."
+"[31] Period of immigration Part A - Plain language definition Not applicable Part B - Detailed definition Refers to ranges of years based on the year of immigration question. Year of immigration refers to the year in which landed immigrant status was first obtained. A landed immigrant is a person who has been granted the right to live in Canada permanently by immigration authorities.  "
+"[31] Immigrants are persons who are, or have ever been, landed immigrants in Canada. A landed immigrant is a person who has been granted the right to live in Canada permanently by immigration authorities. Some immigrants have resided in Canada for a number of years, while others are recent arrivals. Most immigrants are born outside Canada, but a small number were born in Canada. Includes immigrants who landed in Canada prior to Census Day, May 16, 2006."
+"[32] Includes immigrants who landed in Canada prior to Census Day, May 16, 2006."
+"[33] Generation status Part A - Plain language definition Not applicable Part B - Detailed definition Refers to the generational status of a person, that is, 1st generation, 2nd generation or 3rd generation or more. "
+"[34] Persons born outside Canada. For the most part, these are people who are now, or have ever been, landed immigrants in Canada. Also included in the first generation are a small number of people born outside Canada to parents who are Canadian citizens by birth. In addition, the first generation includes people who are non-permanent residents (defined as people from another country living in Canada on Work or Study Permits or as refugee claimants, and any family members living with them in Canada)."
+"[35] Persons born inside Canada with at least one parent born outside Canada. This includes (a) persons born in Canada with both parents born outside Canada and (b) persons born in Canada with one parent born in Canada and one parent born outside Canada (these persons may have grandparents born inside or outside Canada as well)."
+"[36] Persons born inside Canada with both parents born inside Canada (these persons may have grandparents born inside or outside Canada as well)."
+"[37] Aboriginal identity Part A - Plain language definition Not applicable Part B - Detailed definition Refers to those persons who reported identifying with at least one Aboriginal group, that is, North American Indian, Métis or Inuit, and/or those who reported being a Treaty Indian or a Registered Indian, as defined by the Indian Act of Canada and/or those who reported they were members of an Indian band or First Nation. In 1991 and previous censuses, the Aboriginal population was defined using the ethnic origin question (ancestry). The 1996 Census included a question on the individual's perception of his/her Aboriginal identity. The question used in the 2006 and 2001 censuses is the same as the one used in 1996. This is a grouping of the total population into non-Aboriginal or Aboriginal population, with Aboriginal persons further divided into Aboriginal groups, based on their responses to three questions on the 2006 Census form. "
+"[38] Included in the Aboriginal identity population are those persons who reported identifying with at least one Aboriginal group, that is, North American Indian, Métis or Inuit, and/or those who reported being a Treaty Indian or a Registered Indian, as defined by the Indian Act of Canada, and/or those who reported they were members of an Indian band or First Nation."
+"[39] Users should be aware that the counts for this item are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements. The extent of the impact will depend on the geographic area under study. In 2006, a total of 22 Indian reserves and Indian settlements were incompletely enumerated by the census. The populations of these 22 communities are not included in the census counts."
+"[40] Includes those who identified themselves as Registered Indians and/or band members without identifying themselves as North American Indian, Métis or Inuit in the Aboriginal identity question."
+"[41] Registered or Treaty Indian Part A - Plain language definition Not applicable Part B - Detailed definition Refers to those persons who reported they were registered under the Indian Act of Canada. Treaty Indians are persons who are registered under the Indian Act and can prove descent from a band that signed a treaty. Although there was a question in the 1991 Census on registration status, the layout of the 1996 question was somewhat different. In 1991, Question 16 on Registered Indians had two components. In the first part of the question, respondents were asked about their registration status, while the second part of the question dealt with band membership. The question used in 1996 asked only for registration or treaty status, while band membership was dealt with in a separate question. The wording of the question, starting in 1996, differs slightly from the one in previous censuses. Prior to 1996, the term 'treaty' was not included in the question. It was added in 1996 at the request of individuals from the Western provinces, where the term is more widely used. The 2006 Census question is the same as the one used in 1996 and 2001. "
+"[42] Registered or Treaty Indian: The expression 'Registered Indian' refers to those persons who reported they were registered under the Indian Act of Canada. Treaty Indians are persons who are registered under the Indian Act and can prove descent from a band that signed a treaty.   The Registered Indian counts in this table may differ from the administrative counts maintained by the Department of Indian Affairs and Northern Development, with the most important causes of these differences being the incompletely enumerated Indian reserves and Indian settlements as well as methodological and conceptual differences between the two sources. "
+"[43] Labour force activity Part A - Plain language definition  Not applicable  Part B - Detailed definition  Refers to the labour market activity of the population 15 years of age and over in the week (Sunday to Saturday) prior to Census Day (May 16, 2006). Respondents were classified as Employed, Unemployed, or Not in the labour force. The labour force includes the employed and the unemployed. "
+"[44] Labour force Part A - Plain language definition Not applicable Part B - Detailed definition Refers to persons who were either employed or unemployed during the week (Sunday to Saturday) prior to Census Day (May 16, 2006).    Labour force = Employed + Unemployed "
+"[45] Employed Part A - Plain language definition Not applicable Part B - Detailed definition Persons who, during the week (Sunday to Saturday) prior to Census Day (May 16, 2006): (a) did any work at all for pay or in self-employment or without pay in a family farm, business or professional practice; (b) were absent from their job or business, with or without pay, for the entire week because of a vacation, an illness, a labour dispute at their place of work, or any other reasons. "
+"[46] Unemployed Part A - Plain language definition Not applicable Part B - Detailed definition Persons who, during the week (Sunday to Saturday) prior to Census Day (May 16, 2006), were without paid work or without self-employment work and were available for work and either: (a) had actively looked for paid work in the past four weeks; or (b) were on temporary lay-off and expected to return to their job; or (c) had definite arrangements to start a new job in four weeks or less. "
+"[47] Not in the labour force Part A - Plain language definition Not applicable Part B - Detailed definition Refers to persons who, in the week (Sunday to Saturday) prior to Census Day (May 16, 2006), were neither employed nor unemployed. It includes students, homemakers, retired workers, seasonal workers in an 'off' season who were not looking for work, and persons who could not work because of a long term illness or disability. "
+"[48] Participation rate Part A - Plain language definition Not applicable Part B - Detailed definition Refers to the labour force in the week (Sunday to Saturday) prior to Census Day (May 16, 2006), expressed as a percentage of the population 15 years of age and over.   Participation rate = Labour force divided by Population 15 years of age and over (excluding institutional residents) X 100   The participation rate for a particular group (age, sex, marital status, geographic area, etc.) is the total labour force in that group, expressed as a percentage of the population 15 years of age and over, in that group. "
+"[49] Employment rate Part A - Plain language definition  Not applicable Part B - Detailed definition Refers to the number of persons employed in the week (Sunday to Saturday) prior to Census Day (May 16, 2006), expressed as a percentage of the total population 15 years of age and over.   Employment rate = Employed divided by Population 15 years and over (excluding institutional residents) X 100   The employment rate for a particular group (age, sex, marital status, geographic area, etc.) is the number employed in that group, expressed as a percentage of the population 15 years of age and over, in that group. "
+"[50] Unemployment rate Part A - Plain language definition  Not applicable Part B - Detailed definition  Refers to the unemployed expressed as a percentage of the labour force in the week (Sunday to Saturday) prior to Census Day (May 16, 2006).   Unemployment rate = Unemployed divided by Labour force X 100    The unemployment rate for a particular group (age, sex, marital status, geographic area, etc.) is the unemployed in that group, expressed as a percentage of the labour force in that group, in the week prior to enumeration. "
+"[51] Class of worker Part A - Plain language definition Not applicable Part B - Detailed definition This variable classifies persons who reported a job into the following categories: a. persons who worked mainly for wages, salaries, commissions, tips, piece-rates, or payments 'in kind' (payments in goods or services rather than money); b. persons who worked mainly for themselves, with or without paid help, operating a business, farm or professional practice, alone or in partnership; c. persons who worked without pay in a family business, farm or professional practice owned or operated by a related household member; unpaid family work does not include unpaid housework, unpaid childcare, unpaid care to seniors and volunteer work.   The job reported was the one held in the week (Sunday to Saturday) prior to enumeration (May 16, 2006) if the person was employed, or the job of longest duration since January 1, 2005, if the person was not employed during the reference week. Persons with two or more jobs in the reference week were asked to provide information for the job at which they worked the most hours.   Labour force Part A - Plain language definition Not applicable Part B - Detailed definition Refers to persons who were either employed or unemployed during the week (Sunday to Saturday) prior to Census Day (May 16, 2006).   Labour force = Employed + Unemployed "
+"[52] Unemployed persons 15 years and over who have never worked for pay or in self-employment or who had last worked prior to January 1, 2005."
+"[53] Refers to the experienced labour force population: includes persons who were employed and persons who were unemployed who worked for pay or in self-employment since January 1, 2005."
+"[54] Occupation (based on the National Occupational Classification for Statistics 2006 [NOC-S 2006]) Part A - Plain language definition Kind of work done by persons aged 15 and over. Occupation is based on the type of job the person holds and the description of his or her duties. The 2006 Census data on occupation are classified according to the National Occupational Classification for Statistics 2006 (NOC-S 2006). For comparisons with data from the 1991 and 1996 censuses, the variable Occupation (historical) should be used. Part B - Detailed definition Refers to the kind of work persons were doing during the reference week, as determined by their kind of work and the description of the main activities in their job. If the person did not have a job during the week (Sunday to Saturday) prior to enumeration (May 16, 2006), the data relate to the job of longest duration since January 1, 2005. Persons with two or more jobs were to report the information for the job at which they worked the most hours. The 2006 Census occupation data are classified according to the National Occupational Classification for Statistics 2006 (NOC-S 2006). This classification is composed of four levels of aggregation. There are 10 broad occupational categories containing 47 major groups that are further subdivided into 140 minor groups. At the most detailed level, there are 520 occupation unit groups. Occupation unit groups are formed on the basis of the education, training, or skill level required to enter the job, as well as the kind of work performed, as determined by the tasks, duties and responsibilities of the occupation.  For information on the NOC-S 2006, see the National Occupational Classification for Statistics 2006, Catalogue no. 12-583-XIE.   Labour force Part A - Plain language definition Not applicable Part B - Detailed definition Refers to persons who were either employed or unemployed during the week (Sunday to Saturday) prior to Census Day (May 16, 2006).   Labour force = Employed + Unemployed "
+"[55] Unemployed persons 15 years and over who have never worked for pay or in self-employment or who had last worked prior to January 1, 2005."
+"[56] Refers to the experienced labour force population: includes persons who were employed and persons who were unemployed who worked for pay or in self-employment since January 1, 2005."
+"[57] Industry (based on the North American Industry Classification System [NAICS] 2002) Part A - Plain language definition General nature of the business carried out in the establishment where the person worked. The 2006 Census data on industry (based on the NAICS 2002) can be compared with data from Canada's NAFTA partners (United States and Mexico). Part B - Detailed definition Refers to the general nature of the business carried out in the establishment where the person worked. If the person did not have a job during the week (Sunday to Saturday) prior to enumeration (May 16, 2006), the data relate to the job of longest duration since January 1, 2005. Persons with two or more jobs were required to report the information for the job at which they worked the most hours.      The 2006 Census industry data are produced according to the NAICS 2002. The NAICS provides enhanced industry comparability among the three North American Free Trade Agreement (NAFTA) trading partners (Canada, United States and Mexico). This classification consists of a systematic and comprehensive arrangement of industries structured into 20 sectors, 103 subsectors and 328 industry groups. The criteria used to create these categories are similarity of input structures, labour skills or production processes used by the establishment. For further information on the classification, see North American Industry Classification System, Canada, 2002, Catalogue no. 12-501-XPE.   Labour force Part A - Plain language definition Not applicable Part B - Detailed definition Refers to persons who were either employed or unemployed during the week (Sunday to Saturday) prior to Census Day (May 16, 2006).    Labour force = Employed + Unemployed"
+"[58] Unemployed persons 15 years and over who have never worked for pay or in self-employment or who had last worked prior to January 1, 2005."
+"[59] Refers to the experienced labour force population: includes persons who were employed and persons who were unemployed who worked for pay or in self-employment since January 1, 2005."
+"[60] Place of work status Part A - Plain language definition Classification of people aged 15 or over who worked at some point between January 1, 2005 and May 16, 2006 (Census Day), according to whether they worked at home, worked outside Canada, had no fixed workplace address, or worked at a specific address. Part B - Detailed definition Refers to the place of work of non-institutional residents 15 years of age and over who worked at some time since January 1, 2005. The variable usually relates to the individual's job held in the week prior to enumeration. However, if the person did not work during that week but had worked at some time since January 1, 2005, the information relates to the job held longest during that period."
+"[61] Mode of transportation Part A - Plain language definition Main means a person uses to travel between home and place of work (by car, on foot, on public transit, or by some other means). Part B - Detailed definition Refers to the mode of transportation to work of non-institutional residents 15 years of age and over who worked at some time since January 1, 2005. Persons who indicate in the place of work question that they either had no fixed workplace address, or specified a usual workplace address, are asked to identify the mode of transportation they usually use to commute from home to work. The variable usually relates to the individual's job in the week prior to enumeration. However, if the person did not work during that week but had worked at some time since January 1, 2005, the information relates to the job held longest during that period."
+"[62] Refers to the language used most often at work by the individual at the time of the census. Data on other languages used at work on a regular basis are also collected."
+"[63] The 2006 category 'Chinese, n.o.s.' includes responses of 'Chinese' as well as all Chinese languages other than Cantonese, Mandarin, Taiwanese, Chaochow (Teochow), Fukien, Hakka and Shanghainese. Data for the 'Chinese, n.o.s.' category in 2001 and 2006 are not directly comparable. The 2001 category 'Chinese, n.o.s.' is equivalent to the sum of the 2006 categories 'Chinese, n.o.s.' and 'Chaochow (Teochow),' 'Fukien,' 'Shanghainese' and 'Taiwanese.'"
+"[64] This is a subtotal of all languages collected by the census that are not displayed separately here. For a full list of languages collected in the census, please refer to Appendix G in the 2006 Census Dictionary."
+"[65] Refers to the language used at work on a regular basis by the individual at the time of the census. Data on language used most often at work are also collected."
+"[66] The 2006 category 'Chinese, n.o.s.' includes responses of 'Chinese' as well as all Chinese languages other than Cantonese, Mandarin, Taiwanese, Chaochow (Teochow), Fukien, Hakka and Shanghainese. Data for the 'Chinese, n.o.s.' category in 2001 and 2006 are not directly comparable. The 2001 category 'Chinese, n.o.s.' is equivalent to the sum of the 2006 categories 'Chinese, n.o.s.' and 'Chaochow (Teochow),' 'Fukien,' 'Shanghainese' and 'Taiwanese.'"
+"[67] This is a subtotal of all languages collected by the census that are not displayed separately here. For a full list of languages collected in the census, please refer to Appendix G in the 2006 Census Dictionary."
+"[68] Hours spent doing unpaid housework Part A - Plain language definition  Number of hours that the person spent doing housework, maintaining the house or doing yard work without getting paid for doing so. For example, this includes time spent preparing meals, mowing the lawn, or cleaning the house, for oneself or for relatives, friends or neighbours. The time spent on this activity is divided into blocks of hours (None, Less than 5 hours, 5 to 14 hours, 15 to 29 hours, 30 to 59 hours, and 60 hours or more). Only hours spent on the activity during the week before Census Day (May 7 to 13, 2006) are counted. Part B - Detailed definition  Refers to the number of hours persons spent doing unpaid housework, yard work or home maintenance in the week (Sunday to Saturday) prior to Census Day (May 16, 2006). It includes hours spent doing unpaid housework for members of one's own household, for other family members outside the household, and for friends or neighbours.   Unpaid housework does not include volunteer work for a non-profit organization, a religious organization, a charity or community group, or work without pay in the operation of a family farm, business or professional practice."
+"[69] Hours spent looking after children, without pay Part A - Plain language definition Number of hours that the person spent looking after children without getting paid for doing so. For example, this includes time spent taking care of one's own children or looking after the children of relatives, friends or neighbours. The time spent on this activity is divided into blocks of hours (none, less than 5 hours, 5 to 14 hours, 15 to 29 hours, 30 to 59 hours, and 60 hours or more). Only hours spent on the activity during the week before Census Day (May 7 to 13, 2006) are counted. Part B - Detailed definition Refers to the number of hours persons spent looking after children without pay. It includes hours spent providing unpaid child care for members of one's own household, for other family members outside the household, for friends or neighbours in the week (Sunday to Saturday) prior to Census Day (May 16, 2006).    Unpaid child care does not include volunteer work for a non-profit organization, a religious organization, a charity or community group, or work without pay in the operation of a family farm, business or professional practice."
+"[70] Hours spent providing unpaid care or assistance to seniors Part A - Plain language definition Number of hours that the person spent providing care or assistance to elderly people without getting paid for doing so. This includes time spent giving personal care to an elderly relative, helping elderly neighbours with their shopping, and so on. The time spent on this activity is divided into blocks of hours (None, Less than 5 hours, 5 to 9 hours, 10 to 19 hours, and 20 hours or more). Only hours spent on the activity during the week before Census Day (May 7 to 13, 2006) are counted. Part B - Detailed definition Refers to the number of hours persons spent providing unpaid care or assistance to seniors of one's own household, to other senior family members outside the household, and to friends or neighbours in the week (Sunday to Saturday) prior to Census Day (May 16, 2006).    Unpaid care or assistance to seniors does not include volunteer work for a non-profit organization, religious organization, charity or community group, or work without pay in the operation of a family farm, business or professional practice."
+"[71] 'Highest certificate, diploma or degree' refers to the highest certificate, diploma or degree completed based on a hierarchy which is generally related to the amount of time spent 'in-class'. For postsecondary completers, a university education is considered to be a higher level of schooling than a college education, while a college education is considered to be a higher level of education than in the trades. Although some trades requirements may take as long or longer to complete than a given college or university program, the majority of time is spent in on-the-job paid training and less time is spent in the classroom.     Census questions relating to education changed substantially between 2001 and 2006, principally to reflect developments in Canada's education system. These changes improved the quality of data and provided more precise information on the level of educational attainment as well as fields of study.      However, users should be aware that changes to the education portion of the 2006 Census questionnaire have affected the comparability of some 2006 Census data with data from previous censuses. More information on the historical comparability of specific categories of 'Highest certificate, diploma or degree' is available in the Education Reference Guide, 2006 Census, catalogue number 97-560-GWE2006003. "
+"[72] 'High school certificate or equivalent' includes persons who have graduated from a secondary school or equivalent. Excludes persons with a postsecondary certificate, diploma or degree. Examples of postsecondary institutions include community colleges, institutes of technology, CEGEPs, private trade schools, private business colleges, schools of nursing and universities. "
+"[73] 'College, CEGEP or other non-university certificate or diploma' replaces the category 'Other non university certificate or diploma' in previous censuses. This category includes accreditation by non degree-granting institutions such as community colleges, CEGEPs, private business colleges and technical institutes."
+"[74] The overall quality of the 'Highest certificate, diploma or degree' variable from the 2006 Census is acceptable. However, users of the 'University certificate or diploma below the bachelor level' category should know that an unexpected growth in this category was noted compared to the 2001 Census.   In fact, in the 2001 Census, 2.5% of respondents aged 15 years or over declared such a diploma, compared to 4.4% in 2006, representing 89% growth. This phenomenon was not found in other sources like the Labour Force Survey.   We recommend users interpret the 2006 Census results for this category with caution.   For more information on factors that may explain such variances in census data, such as response errors and processing errors, please refer to the 2006 Census Dictionary, Appendix B: Data quality, sampling and weighting, confidentiality and random rounding.   More information is available in the Education Reference Guide, 2006 Census, catalogue number 97-560-GWE2006003. "
+"[75] Questions pertaining to university degrees attained in 2006 (for example bachelor's degrees or master's degrees) were similar to those asked in 2001. Data for the university categories (bachelor's degree through to earned doctorate) are comparable over time."
+"[76] 'Field of study' is defined as the main discipline or subject of learning. It is collected for the highest certificate, diploma or degree above the high school or secondary school level."
+"[77] Includes Multidisciplinary/interdisciplinary studies, other."
+"[78] 'Location of study' refers to the province, territory or country where the highest certificate, diploma, or degree above high school level was completed."
+"[79] Aboriginal ancestry Part A - Plain language definition Not applicable Part B - Detailed definition Refers to those persons who reported at least one Aboriginal ancestry (North American Indian, Métis or Inuit) to the ethnic origin question. 'Ethnic origin' refers to the ethnic or cultural origins of the respondent's ancestors. 'Aboriginal ancestry' was referred to as 'Aboriginal origin' prior to the 2006 Census. The content of the variable remains unchanged in 2006 compared with previous censuses."
+"[80] Refers to those persons who reported at least one Aboriginal ancestry (North American Indian, Métis or Inuit) to the ethnic origin question. 'Ethnic origin' refers to the ethnic or cultural origins of a person's ancestors. Additional information on ethnic origin can be obtained from the 2006 Census Dictionary. 'Aboriginal ancestry' was referred to as 'Aboriginal origin' prior to the 2006 Census. The content of the variable remains unchanged in 2006 compared with the previous censuses."
+"[81] Includes those who reported multiple Aboriginal ancestries or multiple Aboriginal and non-Aboriginal ancestries to the ethnic origin question."
+"[82] The Employment Equity Act defines visible minorities as 'persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour.'"
+"[83] For example, 'East Indian,' 'Pakistani,' 'Sri Lankan,' etc."
+"[84] For example, 'Vietnamese,' 'Cambodian,' 'Malaysian,' 'Laotian,' etc."
+"[85] For example, 'Iranian,' 'Afghan,' etc. "
+"[86] The abbreviation 'n.i.e.' means 'not included elsewhere.' Includes respondents who reported a write-in response such as 'Guyanese,' 'West Indian,' 'Kurd,' 'Tibetan,' 'Polynesian,' 'Pacific Islander,' etc."
+"[87] Includes respondents who reported more than one visible minority group by checking two or more mark-in circles, e.g., 'Black' and 'South Asian.'"
+"[88] Includes respondents who reported 'Yes' to the Aboriginal identity question (Question 18) as well as respondents who were not considered to be members of a visible minority group."
+"[89] The count for 'Total population by ethnic origin (single and multiple responses)' represents the total population of Canada, excluding institutional residents. It also represents the sum of persons who reported single ethnic origins and multiple ethnic origins in the census.   The count for 'Total population - Single responses' represents the total number of persons who reported only one ethnic origin in the census. This total is greater than the sum of single responses in this table because not all ethnic origins are shown in this profile.   The count for 'Total population - Multiple responses' represents the total number of persons who reported more than one ethnic origin in the census. This total is less than the sum of multiple responses of each group because respondents reporting more than one ethnic origin are counted in the multiple responses categories for each of the groups they reported. For example: a respondent reporting Scottish and English origins is counted once under the 'Total Population - Multiple responses' category. However, the same respondent is counted once in the 'Scottish - Multiple responses' category and counted once in the 'English - Multiple responses' category. "
+"[90] The count for 'Total population by ethnic origin (single and multiple responses)' represents the total population of Canada, excluding institutional residents. It also represents the sum of persons who reported single ethnic origins and multiple ethnic origins in the census.   The count for 'Total population - Single responses' represents the total number of persons who reported only one ethnic origin in the census. This total is greater than the sum of single responses in this table because not all ethnic origins are shown in this profile.   The count for 'Total population - Multiple responses' represents the total number of persons who reported more than one ethnic origin in the census. This total is less than the sum of multiple responses of each group because respondents reporting more than one ethnic origin are counted in the multiple responses categories for each of the groups they reported. For example: a respondent reporting Scottish and English origins is counted once under the 'Total Population - Multiple responses' category. However, the same respondent is counted once in the 'Scottish - Multiple responses' category and counted once in the 'English - Multiple responses' category. "
+"[91] The count for 'Total population by ethnic origin (single and multiple responses)' represents the total population of Canada, excluding institutional residents. It also represents the sum of persons who reported single ethnic origins and multiple ethnic origins in the census.   The count for 'Total population - Single responses' represents the total number of persons who reported only one ethnic origin in the census. This total is greater than the sum of single responses in this table because not all ethnic origins are shown in this profile.   The count for 'Total population - Multiple responses' represents the total number of persons who reported more than one ethnic origin in the census. This total is less than the sum of multiple responses of each group because respondents reporting more than one ethnic origin are counted in the multiple responses categories for each of the groups they reported. For example: a respondent reporting Scottish and English origins is counted once under the 'Total Population - Multiple responses' category. However, the same respondent is counted once in the 'Scottish - Multiple responses' category and counted once in the 'English - Multiple responses' category."
+"[92] The abbreviation 'n.i.e.' means 'not included elsewhere.'"
+"[93] The abbreviation 'n.i.e.' means 'not included elsewhere.'"
+"[94] The abbreviation 'n.i.e.' means 'not included elsewhere.'"
+"[95] 'Total income' refers to the total money income received from the following sources during calendar year 2005 by persons 15 years of age and over:   - wages and salaries (total) - net farm income - net non-farm income from unincorporated business and/or professional practice - child benefits - Old Age Security pension and Guaranteed Income Supplement - benefits from Canada or Quebec Pension Plan - benefits from Employment Insurance - other income from government sources - dividends, interest on bonds, deposits and savings certificates, and other investment income - retirement pensions, superannuation and annuities, including those from RRSPs and RRIFs - other money income.   'After-tax income' refers to total income from all sources minus federal, provincial and territorial income taxes paid for 2005.   Receipts not counted as income - The income concept excluded gambling gains and losses, lottery prizes, money inherited during the year in a lump sum, capital gains or losses, receipts from the sale of property, income tax refunds, loan payments received, lump sum settlements of insurance policies, rebates received on property taxes, refunds of pension contributions, as well as all income 'in kind,' such as free meals and living accommodations, or agricultural products produced and consumed on the farm.   Average income of individuals - Average income of individuals refers to the weighted mean total income of individuals 15 years of age and over who reported income for 2005. Average income is calculated from unrounded data by dividing the aggregate income of a specified group of individuals (e.g., males 45 to 54 years of age) by the number of individuals with income in that group.    Median income of individuals - The median income of a specified group of income recipients is that amount which divides their income size distribution into two halves, i.e., the incomes of the first half of individuals are below the median, while those of the second half are above the median. Median income is calculated from the unrounded number of individuals (e.g., males 45 to 54 years of age) with income in that group.   Standard error of average income - Refers to the estimated standard error of average income for an income size distribution. If interpreted as shown below, it serves as a rough indicator of the precision of the corresponding estimate of average income. For about 68% of the samples which could be selected from the sample frame, the difference between the sample estimate of average income and the corresponding figure based on complete enumeration would be less than one standard error. For about 95% of the possible samples, the difference would be less than two standard errors and, in about 99% of the samples, the difference would be less than approximately two and one half standard errors.   Average and median incomes and standard errors of average income of individuals will be calculated for those individuals who are at least 15 years of age and who have an income (positive or negative). For all other universes (families [census/economic]), persons 15 years of age and over not in families or private households), these statistics will be calculated over all units, whether or not they reported any income.    These statistics can be derived for after-tax income, earnings, wages and salaries, or any other particular source of income in the same manner."
+"[96] Including loss."
+"[97] For persons with income."
+"[98] For persons with income."
+"[99] For persons with income."
+"[100] 'Total income' refers to the total money income received from the following sources during calendar year 2005 by persons 15 years of age and over:   - wages and salaries (total) - net farm income - net non-farm income from unincorporated business and/or professional practice - child benefits - Old Age Security pension and Guaranteed Income Supplement - benefits from Canada or Quebec Pension Plan - benefits from Employment Insurance - other income from government sources - dividends, interest on bonds, deposits and savings certificates, and other investment income - retirement pensions, superannuation and annuities, including those from RRSPs and RRIFs - other money income.   'After-tax income' refers to total income from all sources minus federal, provincial and territorial income taxes paid for 2005.   Receipts not counted as income - The income concept excluded gambling gains and losses, lottery prizes, money inherited during the year in a lump sum, capital gains or losses, receipts from the sale of property, income tax refunds, loan payments received, lump sum settlements of insurance policies, rebates received on property taxes, refunds of pension contributions, as well as all income 'in kind,' such as free meals and living accommodations, or agricultural products produced and consumed on the farm.   Average income of individuals - Average income of individuals refers to the weighted mean total income of individuals 15 years of age and over who reported income for 2005. Average income is calculated from unrounded data by dividing the aggregate income of a specified group of individuals (e.g., males 45 to 54 years of age) by the number of individuals with income in that group.    Median income of individuals - The median income of a specified group of income recipients is that amount which divides their income size distribution into two halves, i.e., the incomes of the first half of individuals are below the median, while those of the second half are above the median. Median income is calculated from the unrounded number of individuals (e.g., males 45 to 54 years of age) with income in that group.   Standard error of average income - Refers to the estimated standard error of average income for an income size distribution. If interpreted as shown below, it serves as a rough indicator of the precision of the corresponding estimate of average income. For about 68% of the samples which could be selected from the sample frame, the difference between the sample estimate of average income and the corresponding figure based on complete enumeration would be less than one standard error. For about 95% of the possible samples, the difference would be less than two standard errors and, in about 99% of the samples, the difference would be less than approximately two and one half standard errors.   Average and median incomes and standard errors of average income of individuals will be calculated for those individuals who are at least 15 years of age and who have an income (positive or negative). For all other universes (families [census/economic]), persons 15 years of age and over not in families or private households), these statistics will be calculated over all units, whether or not they reported any income.    These statistics can be derived for after-tax income, earnings, wages and salaries, or any other particular source of income in the same manner. "
+"[101] Including loss."
+"[102] For persons with after-tax income."
+"[103] For persons with after-tax income."
+"[104] For persons with after-tax income."
+"[105] Earnings or employment income - Refers to total income received by persons 15 years of age and over during calendar year 2005 as wages and salaries, net income from a non-farm unincorporated business and/or professional practice, and/or net farm self-employment income.   Wages and salaries - Refers to gross wages and salaries before deductions for such items as income tax, pensions and Employment Insurance. Included in this source are military pay and allowances, tips, commissions and cash bonuses, benefits from wage-loss replacement plans or income-maintenance insurance plans, supplementary unemployment benefits from an employer or union as well as all types of casual earnings during calendar year 2005. Other employment income such as taxable benefits, research grants and royalties are included.   Net farm income - Refers to net income (gross receipts from farm sales minus depreciation and cost of operation) received during calendar year 2005 from the operation of a farm, either on the respondent's own account or in partnership. In the case of partnerships, only the respondent's share of income was reported. Included with gross receipts are cash advances received in 2005, dividends from cooperatives, rebates and farm-support payments to farmers from federal, provincial and regional agricultural programs (for example, milk subsidies and marketing board payments) and gross insurance proceeds such as payments from the Net Income Stabilization Account (NISA). The value of income 'in kind,' such as agricultural products produced and consumed on the farm, is excluded.   Net non-farm income from unincorporated business and/or professional practice - Refers to net income (gross receipts minus expenses of operation such as wages, rents and depreciation) received during calendar year 2005 from the respondent's non-farm unincorporated business or professional practice. In the case of partnerships, only the respondent's share was reported. Also included is net income from persons babysitting in their own homes, persons providing room and board to non-relatives, self-employed fishers, hunters and trappers, operators of direct distributorships such as those selling and delivering cosmetics, as well as freelance activities of artists, writers, music teachers, hairdressers, dressmakers, etc.   Average employment income of individuals - Average employment income of individuals refers to the weighted mean total income of individuals 15 years of age and over who reported income for 2005. Average income is calculated from unrounded data by dividing the aggregate income of a specified group of individuals (e.g., males 45 to 54 years of age) by the number of individuals with income in that group.     Median employment income of individuals - The median employment income of a specified group of income recipients is that amount which divides their income size distribution, ranked by size of income, into two halves, i.e.,  the incomes of the first half of individuals are below the median, while those of the second half are above the median. Median income is calculated from the unrounded number of individuals (e.g., males 45 to 54 years of age) with income in that group.   Standard error of average employment income - Refers to the estimated standard error of average employment income for an income size distribution. If interpreted as shown below, it serves as a rough indicator of the precision of the corresponding estimate of average income. For about 68% of the samples which could be selected from the sample frame, the difference between the sample estimate of average income and the corresponding figure based on complete enumeration would be less than one standard error. For about 95% of the possible samples, the difference would be less than two standard errors and, in about 99% of the samples, the difference would be less than approximately two and one half standard errors.   The above concept and procedures also apply in the calculation of these statistics for earnings or any other source of income and after-tax income of persons 15 years of age and over not in families and households. "
+"[105] Work activity - Refers to the number of weeks in which a person worked for pay or in self-employment in the reference year at all jobs held, even if only for a few hours, and whether these weeks were mostly full time (30 hours or more per week) or mostly part time (1 to 29 hours per week). Persons with a part-time job for part of the year and a full-time job for another part of the year were to report the information for the job at which they worked the most weeks. The term 'Full-year full-time workers' refers to persons 15 years of age and over who worked 49 to 52 weeks (mostly full time) in the reference year for pay or in self-employment.  "
+"[105] Includes persons who did not work in 2005 but reported employment income."
+"[106] Worked 49 to 52 weeks in 2005, mostly full time."
+"[107] Worked less than 49 weeks or worked mostly part time in 2005."
+"Source: Statistics Canada - 2006 Census. Catalogue Number 97-555-XCB2006057."
